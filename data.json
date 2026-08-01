@@ -1,21 +1,20 @@
 {
-  "updated": "2026-08-01 4:04 AM PT",
+  "updated": "Aug 1, 2026 · 5:04 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — 'Delete your CLAUDE.md' audit A/B test (Data verdict: YES). Gene Idea Queue." }
+    { "n": "1", "text": "PROCEED / KILL — CLAUDE.md audit A/B test (Gene Idea Queue; Data verdict YES)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — Data building template; gates website proof + offer credibility",
-    "Website rewrite blocked on proof-language classification (Data/Gene)",
-    "Ring Ring book parked behind the evidence ledger"
+    "Evidence Ledger 45% — unlocks website proof + offer credibility (Data)",
+    "Website rewrite 45% — blocked until proof language classified (Data/Gene)",
+    "Ring Ring book — waiting on evidence ledger + source audit"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render brief — 3 Content Gravy items Joe-approved for render" },
-    { "who": "Data", "text": "Review Week-1 I² explainer (VCE-2026-07-31-01) → then Joe render approval" },
-    { "who": "Gene", "text": "VCE Week 1: HeyGen-vs-Higgsfield face test + 3 vertical leak clips" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + offer proof" },
-    { "who": "Gene", "text": "AppSumo agent: run first live test cycle (80% built)" },
-    { "who": "Gene", "text": "Prove session-start folder check; confirm Idea Dashboard status" }
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks proof + website)" },
+    { "who": "Data", "text": "Review VCE I² explainer → unblocks Joe render approval" },
+    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render VCE-01" },
+    { "who": "Gene", "text": "Prep Higgs render briefs — 3 approved Content Gravy posts" },
+    { "who": "Gene", "text": "Execute Video Engine Week 1 short clips" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial parked — revisit Aug 30 (no reopen trigger fired); Ring Ring + Praeter Health in backlog"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial suppressed — revisit Aug 30 (Praeter Health, Upgrade Loop, Midnight Cognition backlog)"
 }
