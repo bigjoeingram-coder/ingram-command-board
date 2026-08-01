@@ -1,20 +1,20 @@
 {
-  "updated": "Aug 1, 2026 · 5:04 AM PT",
+  "updated": "Aug 1, 2026 · 6:05 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — CLAUDE.md audit A/B test (Gene Idea Queue; Data verdict YES)" }
+    { "n": "1", "text": "Idea ready for PROCEED / KILL — 'Delete your CLAUDE.md' (Gene Idea Queue; Data verdict YES)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — unlocks website proof + offer credibility (Data)",
-    "Website rewrite 45% — blocked until proof language classified (Data/Gene)",
-    "Ring Ring book — waiting on evidence ledger + source audit"
+    "Evidence Ledger 45% — unlocks website proof, proposals, offer credibility (Data)",
+    "Website rewrite blocked on classified proof language / evidence ledger (Data-Gene)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks proof + website)" },
-    { "who": "Data", "text": "Review VCE I² explainer → unblocks Joe render approval" },
-    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render VCE-01" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 approved Content Gravy posts" },
-    { "who": "Gene", "text": "Execute Video Engine Week 1 short clips" }
+    { "who": "Gene", "text": "Content Gravy: prep Higgs render briefs for 3 Joe-approved posts" },
+    { "who": "Data", "text": "Review VCE-01 I² explainer (rendered) then Joe render approval" },
+    { "who": "Gene", "text": "Video Engine Wk1: HeyGen vs Higgsfield face test" },
+    { "who": "Data", "text": "Build Evidence Ledger template" },
+    { "who": "Gene", "text": "Run AppSumo agent first live test cycle" },
+    { "who": "Codex", "text": "Automate Video Content Engine workflow once stable" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (Praeter Health, Upgrade Loop, Midnight Cognition backlog)"
+  "parked": "LotSocial parked — revisit Aug 30 (no reopen trigger); Ring Ring & Praeter on hold"
 }
