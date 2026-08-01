@@ -1,20 +1,21 @@
 {
-  "updated": "2026-07-31, 9:02 PM PT",
+  "updated": "2026-07-31 9:06 PM PT",
   "needsJoe": [
-    { "n": "5", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue)" },
-    { "n": "1", "text": "I² Diagnostic outbound pilot drafted — approve before Gene sends the 50-contact test" }
+    { "n": "5", "text": "ideas ready for your PROCEED / KILL — Gene Idea Queue (Data verdicts filed: 2 YES, 3 NO)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — blocks website copy, proposals, Ring Ring",
-    "Website rewrite 45% — waiting on classified proof language"
+    "Evidence Ledger 45% — Data must build template; it gates website proof, Ring Ring, offer credibility",
+    "Website rewrite 45% — blocked until proof language is classified in the Evidence Ledger (Data/Gene)",
+    "Ring Ring book 35% — parked until source audit + evidence ledger complete"
   ],
   "inMotion": [
-    { "who": "Joe", "text": "Updating ElevenLabs voice file — clone-quality test on hold until done" },
-    { "who": "Gene", "text": "Content Gravy: 3 items Data-reviewed and Joe render-approved — prep Higgs render briefs" },
-    { "who": "Gene", "text": "Video Content Engine lane live — Week 1 in progress" },
-    { "who": "Data", "text": "Build the Evidence Ledger template (unlocks 3 projects)" },
-    { "who": "Gene", "text": "Run AppSumo agent first test cycle (80%)" }
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy pieces (Average Default, Systems That Compound, Never Be a Script)" },
+    { "who": "Data", "text": "Review VCE-2026-07-31-01 I2 explainer, then route to Joe render approval" },
+    { "who": "Data", "text": "Build Evidence Ledger template from proof deck (unlocks website + offer proof)" },
+    { "who": "Gene", "text": "Clone-quality test BLOCKED until ElevenLabs pro clone finishes 2026-08-01" },
+    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (80%, next execution candidate)" },
+    { "who": "Data", "text": "Confirm the 3 old state files are safe to delete; own CTA discipline to SalesGenius.FYI" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (suppressed until then)"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial — revisit Aug 30 (no reopen trigger fired). Praeter Health, Midnight Cognition, Upgrade Loop: backlog."
 }
