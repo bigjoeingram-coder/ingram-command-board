@@ -1,21 +1,19 @@
 {
-  "updated": "2026-07-31 9:09 PM PT",
+  "updated": "Jul 31, 2026 · 10:03 PM PT",
   "needsJoe": [
-    { "n": "6", "text": "ideas reset for your PROCEED / KILL — Gene Idea Queue (Data verdicts filed: 3 YES, 3 NO)" }
+    { "n": "1", "text": "PROCEED / KILL — 'Delete your CLAUDE.md' idea (Data verdict: YES; awaiting your call)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — Data must build template; it gates website proof, Ring Ring, offer credibility",
-    "Website rewrite 45% — blocked until proof language is classified in the Evidence Ledger (Data/Gene)",
-    "Ring Ring book 35% — parked until source audit + evidence ledger complete"
+    "Evidence Ledger (45%) — blocks website proof, Ring Ring, offer credibility",
+    "Website rewrite (45%) — waiting on proof-language classification"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy pieces (Average Default, Systems That Compound, Never Be a Script)" },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 I2 explainer, then route to Joe render approval" },
-    { "who": "Data", "text": "Build Evidence Ledger template from proof deck (unlocks website + offer proof)" },
-    { "who": "Gene", "text": "Clone-quality test BLOCKED until ElevenLabs pro clone finishes 2026-08-01" },
-    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (80%, next execution candidate)" },
-    { "who": "Data", "text": "Confirm the 3 old state files are safe to delete; own CTA discipline to SalesGenius.FYI" }
+    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Review VCE-07-31-01 I² explainer, then Joe render approval" },
+    { "who": "Gene", "text": "Video Engine Wk1 — 3 vertical leak clips + HeyGen vs Higgsfield face test" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks proof + website copy)" },
+    { "who": "Gene", "text": "Run AppSumo agent first live test cycle" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (no reopen trigger fired). Praeter Health, Midnight Cognition, Upgrade Loop: backlog."
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial — revisit Aug 30 (also parked: Ring Ring, Praeter, Midnight Cognition)"
 }
