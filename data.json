@@ -1,21 +1,20 @@
 {
-  "updated": "Aug 1, 2026 · 10:06 AM PT",
+  "updated": "Aug 1, 2026 · 11:05 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL: 'Delete Your CLAUDE.md' idea — Data verdict YES filed (Gene Idea Queue)" }
+    { "n": "1", "text": "Gene Idea Queue: 'Delete your CLAUDE.md' audit — Data verdict YES. PROCEED / KILL the A/B test" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — unlocks website, Ring Ring & offer proof (Data)",
-    "Website rewrite blocked until proof language classified from ledger",
-    "Ring Ring book parked behind evidence/source audit"
+    "Evidence Ledger (Data, 45%) — blocks website proof, offer credibility, Ring Ring claims",
+    "Website rewrite (Data/Gene, 45%) — blocked until proof language is classified"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Build Evidence Ledger template — top unlock" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy posts approved" },
-    { "who": "Data", "text": "Review VCE-01 I² explainer, then Joe render approval" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test (Video Engine clone)" },
-    { "who": "Gene", "text": "AppSumo agent — run first live test cycle (80%)" },
-    { "who": "Data", "text": "Video Engine Week 1: hold CTAs to I² funnel" }
+    { "who": "Data", "text": "Review 11 Elena specs; promote passes, hand Joe top 3 only" },
+    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1)" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + offer proof)" },
+    { "who": "Data", "text": "Review VCE I² explainer (RENDERED) → then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy items Joe-approved" },
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test + 3 I² short clips (Week 1)" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger fired)"
+  "parked": "LotSocial — revisit Aug 30 (suppressed; no reopen trigger fired)"
 }
