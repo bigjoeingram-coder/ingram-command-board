@@ -1,21 +1,18 @@
 {
-  "updated": "Aug 1, 2026, 7:07 AM PT",
+  "updated": "Aug 1, 2026 · 8:05 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "idea ready for PROCEED / KILL — 'Delete your CLAUDE.md' audit (Gene Idea Queue)" },
-    { "n": "•", "text": "I² Diagnostic 50-contact outbound pilot — drafted, awaiting your go" }
+    { "n": "1", "text": "PROCEED / KILL — Boris Cherny 'Delete your CLAUDE.md' idea; Data verdict YES filed (Gene Idea Queue)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% (Data) — proof template gates website + offer credibility",
-    "Website rewrite 45% — waiting on evidence-led proof language"
+    "Website rewrite (45%) — blocked on proof-language classification",
+    "Evidence Ledger (45%) — Data building template; unblocks website + I² proof claims"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy posts Joe-approved for render" },
-    { "who": "Data", "text": "Review VCE I² explainer (rendered, awaiting review) before render approval" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE-2026-07-31-01" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website proof + claims" },
-    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (80% done)" },
-    { "who": "Gene", "text": "Prove session-start folder check + confirm Idea Dashboard status" }
+    { "who": "Data", "text": "Review rendered VCE explainer (VCE-2026-07-31-01) + confirm I² fit, then Joe render approval" },
+    { "who": "Data", "text": "Build Evidence Ledger template from proof deck" },
+    { "who": "Gene", "text": "Video Engine Wk1: HeyGen-vs-Higgsfield face test + 3 dealership-leak clips" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — parked, revisit Aug 30 (no reopen trigger fired)"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial suppressed — revisit Aug 30 (Ring Ring book, Praeter Health, Upgrade Loop backlogged)"
 }
