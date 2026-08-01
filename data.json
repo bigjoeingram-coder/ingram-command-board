@@ -1,19 +1,21 @@
 {
-  "updated": "2026-08-01 3:04 AM PT",
+  "updated": "2026-08-01 4:04 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — Gene idea: audit & slim the CLAUDE.md layer (Data verdict YES). Gene Idea Queue" }
+    { "n": "1", "text": "PROCEED / KILL — 'Delete your CLAUDE.md' audit A/B test (Data verdict: YES). Gene Idea Queue." }
   ],
   "revenueBlocked": [
-    "Website rewrite blocked on evidence-classified proof language (CTA locked: SalesGenius.FYI)",
-    "Evidence Ledger not built (Data) — gates website proof, Ring Ring claims, offer credibility"
+    "Evidence Ledger 45% — Data building template; gates website proof + offer credibility",
+    "Website rewrite blocked on proof-language classification (Data/Gene)",
+    "Ring Ring book parked behind the evidence ledger"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
-    { "who": "Data", "text": "Review VCE I² explainer (RENDERED), then route to Joe for render approval" },
-    { "who": "Gene", "text": "Video Engine Week 1: 3 vertical leak clips + finish HeyGen/Higgsfield face test" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website proof + offer credibility" },
-    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (80% built)" }
+    { "who": "Gene", "text": "Prep Higgs render brief — 3 Content Gravy items Joe-approved for render" },
+    { "who": "Data", "text": "Review Week-1 I² explainer (VCE-2026-07-31-01) → then Joe render approval" },
+    { "who": "Gene", "text": "VCE Week 1: HeyGen-vs-Higgsfield face test + 3 vertical leak clips" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + offer proof" },
+    { "who": "Gene", "text": "AppSumo agent: run first live test cycle (80% built)" },
+    { "who": "Gene", "text": "Prove session-start folder check; confirm Idea Dashboard status" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — parked, revisit Aug 30 (no reopen trigger fired)"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial parked — revisit Aug 30 (no reopen trigger fired); Ring Ring + Praeter Health in backlog"
 }
