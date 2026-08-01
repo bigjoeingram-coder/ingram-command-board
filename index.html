@@ -50,6 +50,7 @@ body{background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSys
     <div>Escalate only: Joe decision &middot; revenue blocked &middot; stale/broken &middot; trigger fired &middot; agent stuck</div>
   </div>
 <script>
+var DATA_VERSION='20260731-2102';
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 function render(d){
   document.getElementById('updated').textContent=d.updated||'unknown';
@@ -60,7 +61,7 @@ function render(d){
   document.getElementById('parked').innerHTML=d.parked?('Parked: '+esc(d.parked)):'';
 }
 function load(){
-  fetch('data.json?t='+Date.now(),{cache:'no-store'})
+  fetch('data.json?v='+DATA_VERSION+'&t='+Date.now(),{cache:'no-store'})
     .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
     .then(render)
     .catch(function(e){document.getElementById('updated').innerHTML='<span class="err">data load failed ('+esc(e.message)+')</span>';});
