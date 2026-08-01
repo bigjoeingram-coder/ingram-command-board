@@ -1,19 +1,18 @@
 {
-  "updated": "Jul 31, 2026 · 10:03 PM PT",
+  "updated": "2026-07-31 11:04 PM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — 'Delete your CLAUDE.md' idea (Data verdict: YES; awaiting your call)" }
+    { "n": "1", "text": "PROCEED / KILL — 'Delete your CLAUDE.md' architecture audit (Data verdict: YES) · Gene Idea Queue" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — blocks website proof, Ring Ring, offer credibility",
-    "Website rewrite (45%) — waiting on proof-language classification"
+    "Website rewrite — blocked until Evidence Ledger classifies proof language",
+    "Evidence Ledger — Data building template; gates website copy + proof claims"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Joe-approved Content Gravy posts" },
-    { "who": "Data", "text": "Review VCE-07-31-01 I² explainer, then Joe render approval" },
-    { "who": "Gene", "text": "Video Engine Wk1 — 3 vertical leak clips + HeyGen vs Higgsfield face test" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks proof + website copy)" },
-    { "who": "Gene", "text": "Run AppSumo agent first live test cycle" }
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website + proof claims" },
+    { "who": "Data", "text": "Review VCE-01 I² explainer, then route to Joe for render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Gene", "text": "Run HeyGen vs Higgsfield face test; render VCE Week-1 clips" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (also parked: Ring Ring, Praeter, Midnight Cognition)"
+  "parked": "LotSocial — parked, revisit Aug 30 (no reopen trigger fired)"
 }
