@@ -1,20 +1,20 @@
 {
-  "updated": "Aug 1, 2026 - 12:05 AM PT",
+  "updated": "2026-08-01 1:04 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "Idea ready for PROCEED / KILL - 'Delete your CLAUDE.md' (Data verdict: YES) (Gene Idea Queue)" }
+    { "n": "1", "text": "PROCEED / KILL — slim Gene's CLAUDE.md stack via controlled A/B audit (Data verdict: YES)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% - blocks website proof, Ring Ring claims, offer credibility (Data)",
-    "Website rewrite 45% - blocked until proof language classified (Data/Gene)"
+    "Evidence Ledger (45%) — gates website proof, Ring Ring claims, offer credibility [Data]",
+    "Website rewrite (45%) — blocked until proof language classified via Evidence Ledger [Data/Gene]",
+    "Ring Ring book (35%) — held for source audit before manuscript [Data]"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs - 3 Content Gravy posts Joe-approved for render" },
-    { "who": "Data", "text": "Review VCE explainer (rendered) before Joe render approval" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE explainer" },
-    { "who": "Data", "text": "Build Evidence Ledger template - unblocks website + proof claims" },
-    { "who": "Gene", "text": "Video Engine Week 1 - cut 3 vertical dealership-leak clips" },
-    { "who": "Gene", "text": "AppSumo agent - run first live test cycle" }
+    { "who": "Gene", "text": "Prep Higgs render brief — 3 Joe-approved Content Gravy pieces" },
+    { "who": "Data", "text": "Review VCE-01 I² explainer (rendered) → clear for Joe render approval" },
+    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render VCE-01" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks proof + website copy" },
+    { "who": "Gene", "text": "Run AppSumo monitoring agent first live test cycle" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial suppressed - revisit Aug 30 (no reopen trigger fired)"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger). Praeter Health, Ring Ring, Midnight Cognition, Upgrade Loop in backlog."
 }
