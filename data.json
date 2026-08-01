@@ -1,21 +1,20 @@
 {
-  "updated": "2026-08-01 2:05 PM PT",
+  "updated": "Aug 1, 2026, 3:06 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — queue clear" }
+    { "n": "1", "text": "I² Diagnostic outbound pilot — copy drafted, awaiting your GO/HOLD (needs pre-send verification view)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — Data building template; gates website proof + Ring Ring",
-    "Website rewrite (45%) — blocked until proof language classified",
-    "Ring Ring book (35%) — parked behind evidence ledger / source audit"
+    "Evidence Ledger (45%) — Data to build template; unlocks website proof, Ring Ring, offers",
+    "Website rewrite (45%) — blocked on proof-language classification (needs Evidence Ledger)",
+    "Ring Ring book (35%) — blocked until source audit + Evidence Ledger complete"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Building approved first batch: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Data", "text": "Review 11 Elena specs; promote passes; hand Joe only top 3 by leverage/effort" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website proof + Ring Ring)" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
-    { "who": "Data", "text": "Review VCE-01 I² explainer → then Joe render approval" },
-    { "who": "Gene", "text": "VCE Week 1: 3 short leak clips + HeyGen-vs-Higgsfield face test" }
+    { "who": "Data", "text": "Review backlog is the bottleneck: 11 Elena specs + 2 Gene ideas + VCE-01 explainer" },
+    { "who": "Data", "text": "Build Evidence Ledger template" },
+    { "who": "Gene", "text": "Building approved products: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render brief for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Confirm Universal Sales Analyst as I² module; confirm Content Gravy/B2B gates; LinkedIn playbook call" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger fired)"
+  "parked": "LotSocial suppressed — revisit 2026-08-30 (no reopen trigger fired). Also parked/backlog: Praeter Health, Midnight Cognition, Upgrade Loop"
 }
