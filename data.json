@@ -1,20 +1,21 @@
 {
-  "updated": "Aug 1, 2026 · 11:05 AM PT",
+  "updated": "Aug 1, 2026 · 12:06 PM PT",
   "needsJoe": [
-    { "n": "1", "text": "Gene Idea Queue: 'Delete your CLAUDE.md' audit — Data verdict YES. PROCEED / KILL the A/B test" }
+    { "n": "1", "text": "PROCEED / KILL: 'Delete your CLAUDE.md' idea (Data verdict YES) — Gene Idea Queue" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (Data, 45%) — blocks website proof, offer credibility, Ring Ring claims",
-    "Website rewrite (Data/Gene, 45%) — blocked until proof language is classified"
+    "Evidence Ledger (45%) — Data building template; unblocks website proof + offers",
+    "Website rewrite — blocked on proof-language classification (needs Evidence Ledger)",
+    "Ring Ring phone book — parked pending evidence ledger / source audit"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena specs; promote passes, hand Joe top 3 only" },
-    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1)" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + offer proof)" },
-    { "who": "Data", "text": "Review VCE I² explainer (RENDERED) → then Joe render approval" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy items Joe-approved" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test + 3 I² short clips (Week 1)" }
+    { "who": "Data", "text": "Review 11 Elena product specs -> promote top 3 to Joe" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + Ring Ring)" },
+    { "who": "Data", "text": "Ratify expanded verdict spec (13-Controller v1.1)" },
+    { "who": "Data", "text": "Review VCE I2 explainer (rendered) -> then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Joe-approved Content Gravy items" },
+    { "who": "Gene", "text": "VCE face test (HeyGen vs Higgsfield) -> 3 vertical clips" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (suppressed; no reopen trigger fired)"
+  "parked": "LotSocial suppressed — revisit Aug 30. Also parked: Praeter Health, Midnight Cognition, Upgrade Loop"
 }
