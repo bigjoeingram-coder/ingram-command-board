@@ -1,18 +1,20 @@
 {
-  "updated": "Aug 1, 2026 · 8:05 AM PT",
+  "updated": "Aug 1, 2026, 9:06 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — Boris Cherny 'Delete your CLAUDE.md' idea; Data verdict YES filed (Gene Idea Queue)" }
+    { "n": "1", "text": "idea ready for your PROCEED / KILL (Gene Idea Queue): 'Delete your CLAUDE.md' audit — Data verdict YES" }
   ],
   "revenueBlocked": [
-    "Website rewrite (45%) — blocked on proof-language classification",
-    "Evidence Ledger (45%) — Data building template; unblocks website + I² proof claims"
+    "Evidence Ledger 45% — blocks website proof, Ring Ring claims, offer credibility (Data)",
+    "Website rewrite 45% — blocked on proof-language classification / Evidence Ledger (Data+Gene)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review rendered VCE explainer (VCE-2026-07-31-01) + confirm I² fit, then Joe render approval" },
-    { "who": "Data", "text": "Build Evidence Ledger template from proof deck" },
-    { "who": "Gene", "text": "Video Engine Wk1: HeyGen-vs-Higgsfield face test + 3 dealership-leak clips" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" }
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website proof + Ring Ring" },
+    { "who": "Data", "text": "Review I² explainer (VCE-01) → then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Gene", "text": "Video Engine Wk1: 3 vertical clips on dealership leaks + HeyGen/Higgsfield face test" },
+    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (80% → close)" },
+    { "who": "Codex", "text": "Automate Video Engine workflow once stable (later)" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (Ring Ring book, Praeter Health, Upgrade Loop backlogged)"
+  "parked": "LotSocial suppressed — revisit Aug 30 (no trigger fired); Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop backlogged"
 }
