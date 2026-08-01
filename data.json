@@ -1,20 +1,21 @@
 {
-  "updated": "2026-08-01 1:06 PM PT",
+  "updated": "2026-08-01 2:05 PM PT",
   "needsJoe": [
-    { "n": "1", "text": "PROCEED / KILL — \"Delete your CLAUDE.md\" idea (Data verdict: YES) — Gene Idea Queue" }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — queue clear" }
   ],
   "revenueBlocked": [
-    "Website rewrite (45%) blocked on Evidence Ledger — proof language unclassified [Data]",
-    "Evidence Ledger (45%) is the unlock: website proof, Ring Ring claims, offer credibility [Data building]"
+    "Evidence Ledger (45%) — Data building template; gates website proof + Ring Ring",
+    "Website rewrite (45%) — blocked until proof language classified",
+    "Ring Ring book (35%) — parked behind evidence ledger / source audit"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena product specs, promote passers, hand Joe only top 3 (no Joe approvals until done)" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website + offer proof" },
-    { "who": "Data", "text": "Review VCE I² explainer (rendered) then Joe render approval" },
-    { "who": "Gene", "text": "Prep Higgs render brief for 3 Joe-approved Content Gravy pieces" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE explainer" },
-    { "who": "Gene", "text": "Prove session-start folder check + run AppSumo first test cycle" }
+    { "who": "Gene", "text": "Building approved first batch: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Review 11 Elena specs; promote passes; hand Joe only top 3 by leverage/effort" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website proof + Ring Ring)" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Review VCE-01 I² explainer → then Joe render approval" },
+    { "who": "Gene", "text": "VCE Week 1: 3 short leak clips + HeyGen-vs-Higgsfield face test" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger fired). Ring Ring book, Praeter Health, Upgrade Loop, Midnight Cognition in backlog."
+  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger fired)"
 }
