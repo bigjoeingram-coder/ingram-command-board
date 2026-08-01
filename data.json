@@ -1,9 +1,8 @@
 {
-  "updated": "2026-08-01, ~7:55 PM PT",
+  "updated": "2026-07-31, 9:02 PM PT",
   "needsJoe": [
-    { "n": "6", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue)" },
-    { "n": "1", "text": "I² Diagnostic outbound pilot drafted — approve to send (50 contacts)" },
-    { "n": "1", "text": "First I² explainer video script drafted — Data review, then your render approval" }
+    { "n": "5", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue)" },
+    { "n": "1", "text": "I² Diagnostic outbound pilot drafted — approve before Gene sends the 50-contact test" }
   ],
   "revenueBlocked": [
     "Evidence Ledger 45% — blocks website copy, proposals, Ring Ring",
@@ -11,6 +10,7 @@
   ],
   "inMotion": [
     { "who": "Joe", "text": "Updating ElevenLabs voice file — clone-quality test on hold until done" },
+    { "who": "Gene", "text": "Content Gravy: 3 items Data-reviewed and Joe render-approved — prep Higgs render briefs" },
     { "who": "Gene", "text": "Video Content Engine lane live — Week 1 in progress" },
     { "who": "Data", "text": "Build the Evidence Ledger template (unlocks 3 projects)" },
     { "who": "Gene", "text": "Run AppSumo agent first test cycle (80%)" }
