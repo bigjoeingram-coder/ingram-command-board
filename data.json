@@ -1,21 +1,41 @@
 {
-  "updated": "Aug 2, 2026, 1:06 AM PT",
+  "updated": "2026-08-02 2:06 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "Gene Idea Queue: 0 ready for PROCEED / KILL — 2 in queue but both still at Data review" }
+    {
+      "n": "0",
+      "text": "Nothing awaiting your call right now — Idea Queue, Content Gravy render, and Video Engine are all upstream at Data review or in Gene's build queue"
+    }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (Data) — blocks website proof, Ring Ring claims, offer credibility",
-    "Website rewrite — blocked until proof language is classified (Data → Gene)",
-    "Elena product line ($97–$997) — 11 specs stuck at Data review; revenue gated until top 3 clear"
+    "Evidence Ledger 45% (Data) — unlocks website proof, Ring Ring claims, offer credibility",
+    "Website rewrite blocked on proof-language classification (waits on Evidence Ledger)",
+    "Ring Ring book parked behind evidence/source audit"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote only top 3 to Joe" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + proof)" },
-    { "who": "Data", "text": "Review VCE I² explainer (RENDERED), then hand to Joe for render approval" },
-    { "who": "Gene", "text": "Building ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test for the Joe clone" }
+    {
+      "who": "Gene",
+      "text": "Build first-batch specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library"
+    },
+    {
+      "who": "Data",
+      "text": "Run Data review on 11 Elena specs; promote and hand Joe only top 3 by leverage"
+    },
+    {
+      "who": "Gene",
+      "text": "Execute VCE Week 1: I² explainer + 3 dealership-leak clips + clone-quality test"
+    },
+    {
+      "who": "Data",
+      "text": "Review VCE-01 for I² fit before render; confirm Universal Sales Analyst as I² support module + ratify verdict spec v1.1"
+    }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (Ring Ring book, Praeter Health, Midnight Cognition, Upgrade Loop also parked)"
+  "systems": [
+    "Idea Queue",
+    "Content Gravy",
+    "Video Engine",
+    "Decisions log",
+    "Daily sweep 6AM",
+    "Board hourly"
+  ],
+  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger fired). Praeter Health, Midnight Cognition, Upgrade Loop in backlog; Joe decides later."
 }
