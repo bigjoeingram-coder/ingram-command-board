@@ -1,21 +1,22 @@
 {
-  "updated": "2026-08-01 10:05 PM PT",
+  "updated": "2026-08-01 11:05 PM PT",
   "needsJoe": [
-    { "n": "0 now", "text": "Nothing at your gate. Next up: 3 products in BUILD (ACC Starter Kit, Humanizer, Agent Skills) return for FINAL approval once Gene ships them." }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — 2 in Data review, none at your gate" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — Data building template; gates website proof, offers, Ring Ring claims",
-    "Website rewrite 45% — blocked on proof-language classification (needs Evidence Ledger first)",
-    "Ring Ring book — parked behind evidence/source audit"
+    "Evidence Ledger (45%, Data) — gates website proof, Ring Ring, offer credibility",
+    "Website rewrite (45%) — blocked on proof-language classification",
+    "Ring Ring book — parked behind evidence ledger"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Build batch 1: ACC Starter Kit → Humanizer → Agent Skills, then back to Joe for final approval" },
-    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote passes, hand Joe top 3 only" },
-    { "who": "Gene", "text": "VCE Week 1: I² explainer + 3 vertical leak clips + clone face test (HeyGen vs Higgsfield)" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website, offers, Ring Ring" },
-    { "who": "Data", "text": "Fold Universal Sales Analyst into I² decision; confirm Content Gravy/B2B gates; rule on LinkedIn playbook" }
+    { "who": "Gene", "text": "Build ACC Starter Kit → Humanizer Stack → Agent Skills Library (Data-approved batch)" },
+    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote only top 3 to Joe" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + proof + offers" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy pieces" },
+    { "who": "Data", "text": "Review VCE I² explainer (VCE-2026-07-31-01), then Joe render approval" },
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test (clone-quality)" },
+    { "who": "Data", "text": "Fold Universal Sales Analyst into I² decision; confirm Content Gravy / B2B / LinkedIn gates" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30; Praeter Health / Midnight Cognition / Upgrade Loop in backlog"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial — revisit Aug 30 (no reopen trigger fired); Praeter Health, Midnight Cognition, Upgrade Loop — backlog"
 }
