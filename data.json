@@ -1,19 +1,20 @@
 {
-  "updated": "Aug 2, 2026 · 9:06 AM PT",
+  "updated": "Aug 2, 2026 · 10:04 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "Approve I² Diagnostic 50-contact outbound pilot — draft ready (Data's copy), needs your OK + pre-send verification" }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — both queued ideas still at Data review" }
   ],
   "revenueBlocked": [
-    "Website rewrite around SalesGenius.FYI — blocked until proof language is classified (Data)",
-    "Evidence Ledger 45% — Data building template from proof deck; gates website copy + claim proof"
+    "Evidence Ledger (45%) — foundational blocker; gates website copy, Ring Ring & offer proof (Data)",
+    "Website rewrite (45%) — blocked until proof language classified from Evidence Ledger (Data/Gene)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Build Evidence Ledger template from proof deck (unblocks website + claims)" },
-    { "who": "Data", "text": "Review 2 Gene ideas at Data gate (token-limit = IMPLEMENT, IG-reel = SKIP), then route to Joe" },
-    { "who": "Data", "text": "Review rendered VCE-01 explainer, then send for Joe render approval" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy posts Joe-approved for render (Aug 1)" },
-    { "who": "Gene", "text": "Run HeyGen vs Higgsfield face test, then render VCE-01 explainer" }
+    { "who": "Data", "text": "Review 11 Elena product specs; promote passers, hand Joe top 3 only" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website + offer proof" },
+    { "who": "Data", "text": "Review VCE I² explainer, then route for Joe render approval" },
+    { "who": "Gene", "text": "Build ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE-2026-07-31-01" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial — PARKED, revisit Aug 30 (no reopen trigger fired). Also parked: Ring Ring book; Praeter Health, Upgrade Loop, Midnight Cognition in backlog."
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial (inventory posting) parked — revisit Aug 30, no reopen trigger fired; Ring Ring book, Praeter Health, Midnight Cognition & Upgrade Loop in backlog"
 }
