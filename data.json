@@ -1,19 +1,21 @@
 {
-  "updated": "2026-08-02, 12:06 AM PT",
+  "updated": "Aug 2, 2026, 1:06 AM PT",
   "needsJoe": [
-    { "n": "1", "text": "I² Diagnostic 50-contact outbound pilot — approve send (draft + Data copy ready; needs pre-send verify view)" }
+    { "n": "0", "text": "Gene Idea Queue: 0 ready for PROCEED / KILL — 2 in queue but both still at Data review" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% (Data) — gates website proof, Ring Ring, offer credibility",
-    "Website rewrite — blocked until proof language is evidence-classified (Data → Gene)"
+    "Evidence Ledger (Data) — blocks website proof, Ring Ring claims, offer credibility",
+    "Website rewrite — blocked until proof language is classified (Data → Gene)",
+    "Elena product line ($97–$997) — 11 specs stuck at Data review; revenue gated until top 3 clear"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Build ACC Starter Kit → Humanizer Stack → Agent Skills Library (Data first batch)" },
-    { "who": "Data", "text": "Review 11 Elena specs; promote passers, hand Joe top 3 by leverage" },
-    { "who": "Data", "text": "File verdicts on 2 Gene ideas + review VCE-01 explainer, then Joe render approval" },
+    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote only top 3 to Joe" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + proof)" },
+    { "who": "Data", "text": "Review VCE I² explainer (RENDERED), then hand to Joe for render approval" },
+    { "who": "Gene", "text": "Building ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
     { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
-    { "who": "Data", "text": "Fold Universal Sales Analyst into I²; ratify v1.1 verdict spec" }
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test for the Joe clone" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (suppressed; no reopen trigger fired)"
+  "parked": "LotSocial — revisit Aug 30 (Ring Ring book, Praeter Health, Midnight Cognition, Upgrade Loop also parked)"
 }
