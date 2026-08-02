@@ -1,22 +1,21 @@
 {
-  "updated": "Aug 1, 2026 · 6:06 PM PT",
+  "updated": "Aug 1, 2026, 7:05 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "Idea Queue clear — 2 ideas sit at Data review; none awaiting your PROCEED/KILL yet" }
+    { "n": "0", "text": "Ideas ready for your PROCEED / KILL (Gene Idea Queue) — both specs still at Data review" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — Data logging/classifying proof-deck claims; gates website copy + proposals",
-    "Website rewrite (45%) — blocked on proof-language classification (needs Evidence Ledger first)",
-    "Elena product line (11 specs, $97–$997) — revenue held pending Data review, then top 3 to Joe"
+    "Evidence Ledger 45% — Data must build template; unblocks website proof + Ring Ring + offers",
+    "Website rewrite 45% — waiting on proof-language classification (Evidence Ledger)",
+    "Ring Ring book 35% — parked behind evidence/source audit"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena specs; promote passes, hand Joe top 3 by leverage" },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 explainer → unblocks Joe render approval" },
-    { "who": "Data", "text": "Build Evidence Ledger template from proof deck" },
-    { "who": "Gene", "text": "Build 3 approved products: ACC Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 approved Content Gravy posts" },
-    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render Week-1 explainer" },
-    { "who": "Codex", "text": "Automate video engine workflow once stable (later)" }
+    { "who": "Data", "text": "Review 11 Elena specs → promote only top 3 to Joe (hold rest)" },
+    { "who": "Gene", "text": "Building Elena batch 1: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + Ring Ring)" },
+    { "who": "Data", "text": "Review VCE-07-31-01 I² explainer before render" },
+    { "who": "Gene", "text": "3 Content Gravy pieces approved — prep Higgs render brief" },
+    { "who": "Gene", "text": "VCE clone test: HeyGen vs Higgsfield face test" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (suppressed); Ring Ring book parked (evidence-ledger gated)"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial (25%) suppressed — revisit Aug 30, no reopen trigger fired. Backlog: Praeter Health, Midnight Cognition, Upgrade Loop."
 }
