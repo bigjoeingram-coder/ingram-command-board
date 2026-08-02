@@ -1,22 +1,19 @@
 {
-  "updated": "2026-08-01 11:05 PM PT",
+  "updated": "2026-08-02, 12:06 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — 2 in Data review, none at your gate" }
+    { "n": "1", "text": "I² Diagnostic 50-contact outbound pilot — approve send (draft + Data copy ready; needs pre-send verify view)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%, Data) — gates website proof, Ring Ring, offer credibility",
-    "Website rewrite (45%) — blocked on proof-language classification",
-    "Ring Ring book — parked behind evidence ledger"
+    "Evidence Ledger 45% (Data) — gates website proof, Ring Ring, offer credibility",
+    "Website rewrite — blocked until proof language is evidence-classified (Data → Gene)"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Build ACC Starter Kit → Humanizer Stack → Agent Skills Library (Data-approved batch)" },
-    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote only top 3 to Joe" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + proof + offers" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy pieces" },
-    { "who": "Data", "text": "Review VCE I² explainer (VCE-2026-07-31-01), then Joe render approval" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test (clone-quality)" },
-    { "who": "Data", "text": "Fold Universal Sales Analyst into I² decision; confirm Content Gravy / B2B / LinkedIn gates" }
+    { "who": "Gene", "text": "Build ACC Starter Kit → Humanizer Stack → Agent Skills Library (Data first batch)" },
+    { "who": "Data", "text": "Review 11 Elena specs; promote passers, hand Joe top 3 by leverage" },
+    { "who": "Data", "text": "File verdicts on 2 Gene ideas + review VCE-01 explainer, then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Fold Universal Sales Analyst into I²; ratify v1.1 verdict spec" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (no reopen trigger fired); Praeter Health, Midnight Cognition, Upgrade Loop — backlog"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial — revisit Aug 30 (suppressed; no reopen trigger fired)"
 }
