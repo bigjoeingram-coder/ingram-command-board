@@ -1,19 +1,21 @@
 {
-  "updated": "Aug 2, 2026, 12:06 PM PT",
+  "updated": "2026-08-02 1:06 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — both idea files still at Data review" }
+    { "n": "0", "text": "ideas ready for PROCEED / KILL — both sit at Data review (Gene Idea Queue)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — Data building template; unlocks website proof + offer claims",
-    "Website rewrite blocked on proof-language classification — needs Evidence Ledger first"
+    "Evidence Ledger (Data) — gates website proof, Ring Ring claims, offer credibility",
+    "Website rewrite — waiting on proof language from the Evidence Ledger",
+    "Ring Ring book — parked until source/evidence audit is done"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena product specs (PENDING DATA REVIEW); route top 3 by leverage to Joe" },
-    { "who": "Gene", "text": "Build 3 approved products: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + proof claims)" },
-    { "who": "Data", "text": "Review VCE I² explainer (RENDERED) before Joe render approval" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 approved Content Gravy pieces" }
+    { "who": "Data", "text": "Review 11 Elena specs, promote top 3 to Joe" },
+    { "who": "Gene", "text": "Building ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + proof)" },
+    { "who": "Gene", "text": "VCE Week 1: 3 short clips + HeyGen vs Higgsfield face test" },
+    { "who": "Data", "text": "Data-review VCE-01 explainer, then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30; Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop in backlog"
+  "parked": "LotSocial suppressed — revisit Aug 30; Praeter Health & Midnight Cognition in backlog"
 }
