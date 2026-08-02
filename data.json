@@ -1,21 +1,21 @@
 {
-  "updated": "August 2, 2026, 5:06 AM PT",
+  "updated": "Aug 2, 2026 · 6:06 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — both queue items still at Data review" }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — 2 still in Data review" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — blocks website proof + offer credibility (Data)",
-    "Website rewrite (45%) — blocked on proof-language classification (Data/Gene)",
-    "Ring Ring book (35%) — parked behind Evidence Ledger (Data)"
+    "Evidence Ledger 45% — bottleneck for website proof, offer credibility, Ring Ring (Data)",
+    "Website rewrite gated on proof-language classification (Data → Gene)",
+    "Elena revenue specs stalled behind Data review — only batch 1 building"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena specs → promote passers, hand Joe top 3 by leverage" },
-    { "who": "Data", "text": "File verdicts on 2 Gene Idea Queue items (both awaiting Data)" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + proof" },
-    { "who": "Gene", "text": "Build batch 1: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy items Joe-approved" },
-    { "who": "Gene", "text": "Face test (HeyGen vs Higgsfield) → render VCE I² explainer" }
+    { "who": "Gene", "text": "Building Elena batch 1: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Review 2 Gene-idea entries + finish remaining Elena spec reviews" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website + offers" },
+    { "who": "Gene", "text": "Prep Higgs render brief for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer, then route to Joe for render approval" },
+    { "who": "Gene", "text": "VCE clone face test — HeyGen vs Higgsfield" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30 (no reopen trigger); Praeter Health, Midnight Cognition, Upgrade Loop in backlog"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial parked — revisit Aug 30; also parked: Praeter Health, Ring Ring book, Midnight Cognition, Upgrade Loop"
 }
