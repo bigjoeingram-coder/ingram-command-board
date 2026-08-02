@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-02, 2:06 PM PT",
+  "updated": "2026-08-02 3:07 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "Nothing at your gate — 3 ideas, 11 Elena specs & VCE explainer all upstream at Data review" }
+    { "n": "0", "text": "Nothing at your gate right now: Idea Queue 5/5 on Data review, Elena 11/11 on Data review, Content Gravy 3 already Joe-approved (Gene rendering)" }
   ],
   "revenueBlocked": [
-    "Website rewrite blocked → needs proof language classified first (Data)",
-    "Evidence Ledger 45% → unlocks website, Ring Ring & offer credibility (Data)",
-    "Ring Ring book parked → gated on Evidence Ledger"
+    "Evidence Ledger 45% (Data) - gates website proof, Ring Ring claims, offer credibility",
+    "Website rewrite 45% - blocked until proof language classified from the ledger (Data->Gene)",
+    "Ring Ring book - parked until evidence/source audit is done (Data)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena product specs (PENDING DATA REVIEW) → hand Joe top 3 by leverage" },
-    { "who": "Data", "text": "Review 3 Gene ideas + VCE I² explainer before they reach Joe" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + Ring Ring + offers)" },
-    { "who": "Gene", "text": "Build Elena batch 1: ACC Starter Kit → Humanizer → Agent Skills Library" },
-    { "who": "Gene", "text": "Prep Higgs render brief for 3 approved Content Gravy items" },
-    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test → then render VCE-2026-07-31-01" }
+    { "who": "Data", "text": "Data-review the 11 Elena specs, then hand Joe ONLY the top 3 by leverage-to-effort" },
+    { "who": "Gene", "text": "Build 3 approved products: ACC Starter Kit -> Humanizer Stack -> Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Review VCE-2026-07-31-01 I2 explainer -> unlocks Joe render approval" },
+    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render VCE explainer + 3 short clips" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website, proof, offers)" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (no trigger fired); Praeter Health, Midnight Cognition, Upgrade Loop in backlog"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial suppressed - revisit Aug 30 (also parked: Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop)"
 }
