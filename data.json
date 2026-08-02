@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-02 1:06 PM PT",
+  "updated": "2026-08-02, 2:06 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for PROCEED / KILL — both sit at Data review (Gene Idea Queue)" }
+    { "n": "0", "text": "Nothing at your gate — 3 ideas, 11 Elena specs & VCE explainer all upstream at Data review" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (Data) — gates website proof, Ring Ring claims, offer credibility",
-    "Website rewrite — waiting on proof language from the Evidence Ledger",
-    "Ring Ring book — parked until source/evidence audit is done"
+    "Website rewrite blocked → needs proof language classified first (Data)",
+    "Evidence Ledger 45% → unlocks website, Ring Ring & offer credibility (Data)",
+    "Ring Ring book parked → gated on Evidence Ledger"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena specs, promote top 3 to Joe" },
-    { "who": "Gene", "text": "Building ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + proof)" },
-    { "who": "Gene", "text": "VCE Week 1: 3 short clips + HeyGen vs Higgsfield face test" },
-    { "who": "Data", "text": "Data-review VCE-01 explainer, then Joe render approval" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" }
+    { "who": "Data", "text": "Review 11 Elena product specs (PENDING DATA REVIEW) → hand Joe top 3 by leverage" },
+    { "who": "Data", "text": "Review 3 Gene ideas + VCE I² explainer before they reach Joe" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unlocks website + Ring Ring + offers)" },
+    { "who": "Gene", "text": "Build Elena batch 1: ACC Starter Kit → Humanizer → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render brief for 3 approved Content Gravy items" },
+    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test → then render VCE-2026-07-31-01" }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit Aug 30; Praeter Health & Midnight Cognition in backlog"
+  "parked": "LotSocial — revisit Aug 30 (no trigger fired); Praeter Health, Midnight Cognition, Upgrade Loop in backlog"
 }
