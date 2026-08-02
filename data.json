@@ -1,19 +1,21 @@
 {
-  "updated": "Aug 1, 2026 · 9:07 PM PT",
+  "updated": "2026-08-01 10:05 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL — both queue items still in Data review (Gene Idea Queue)" }
+    { "n": "0 now", "text": "Nothing at your gate. Next up: 3 products in BUILD (ACC Starter Kit, Humanizer, Agent Skills) return for FINAL approval once Gene ships them." }
   ],
   "revenueBlocked": [
-    "Website rewrite (45%) blocked on proof-language classification — Data",
-    "Evidence Ledger (45%) gates website claims + I² proof — Data"
+    "Evidence Ledger 45% — Data building template; gates website proof, offers, Ring Ring claims",
+    "Website rewrite 45% — blocked on proof-language classification (needs Evidence Ledger first)",
+    "Ring Ring book — parked behind evidence/source audit"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy posts Joe-approved for render" },
-    { "who": "Data", "text": "Data-review VCE explainer render, then route to Joe for render approval" },
-    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE-2026-07-31-01" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website claims" },
-    { "who": "Gene", "text": "Stand up Video Content Engine lane feeding the I² Diagnostic (open handoff)" }
+    { "who": "Gene", "text": "Build batch 1: ACC Starter Kit → Humanizer → Agent Skills, then back to Joe for final approval" },
+    { "who": "Data", "text": "Run Data review on 11 Elena specs; promote passes, hand Joe top 3 only" },
+    { "who": "Gene", "text": "VCE Week 1: I² explainer + 3 vertical leak clips + clone face test (HeyGen vs Higgsfield)" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website, offers, Ring Ring" },
+    { "who": "Data", "text": "Fold Universal Sales Analyst into I² decision; confirm Content Gravy/B2B gates; rule on LinkedIn playbook" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (no reopen trigger); Ring Ring book parked pending evidence ledger"
+  "parked": "LotSocial suppressed — revisit Aug 30; Praeter Health / Midnight Cognition / Upgrade Loop in backlog"
 }
