@@ -1,24 +1,20 @@
 {
-  "updated": "August 3, 2026 — 3:07 PM PT",
+  "updated": "Aug 3, 2026, 4:07 PM PT",
   "needsJoe": [
-    { "n": "1", "text": "I² Diagnostic 50-contact outbound pilot is drafted (Data's tightened copy) but unsent — your GO/HOLD, then pre-send verification against the Dealer Prospector sheet. Only revenue lever currently waiting on you." }
+    { "n": "0", "text": "Queue clear — no PROCEED/KILL pending. The 2 new ideas, the rendered VCE explainer, and all 11 Elena specs sit at DATA review, not you." }
   ],
   "revenueBlocked": [
-    "I² Diagnostic funnel (SalesGenius.FYI): website rewrite blocked on Evidence Ledger + proof-language classification — Data building ledger template first.",
-    "Ring Ring phone-training book manuscript parked behind the same Evidence Ledger / source audit.",
-    "I² 50-contact outbound pilot drafted but not sent — no revenue until Joe GO + pre-send verification."
+    "Website rewrite (SalesGenius.FYI flagship funnel) — blocked on proof-language classification; Data building Evidence Ledger to unblock.",
+    "Ring Ring phone-training book — manuscript blocked behind the same Evidence Ledger / source audit (Data)."
   ],
   "inMotion": [
-    { "who": "Data", "text": "Run Data review on 11 Elena product specs (all rolled back to PENDING DATA REVIEW); hand Joe ONLY the top 3 by leverage-to-effort. Joe intentionally blocked until this clears." },
-    { "who": "Gene", "text": "Build the 3 Data-cleared Elena products in order — ACC Starter Kit → Humanizer Stack → Agent Skills Library — then return to Joe for final approval." },
-    { "who": "Data", "text": "Ratify expanded 13-OPERATING-CONTROLLER verdict spec + confirm the LATER gates (Universal Sales Analyst as I² module, Content Gravy + B2B pilot gates, LinkedIn playbook-only)." },
-    { "who": "Gene", "text": "Video Engine Week 1: finish HeyGen-vs-Higgsfield face test, render VCE-2026-07-31-01, and produce 3 short vertical dealership-leak clips." },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (rendered, awaiting Data review → then Joe render approval)." },
-    { "who": "Gene", "text": "4 Content Gravy posts Joe-approved for render — prep Higgs render briefs (The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive)." },
-    { "who": "Data", "text": "2 GENE-IDEA items awaiting a Data verdict (Hormozi 1000s-leads, ChatGPT Voice 2.0 + Codex) — both Gene-flagged SKIP; clear or verdict." },
-    { "who": "Joe", "text": "1 idea item Data says KILL/archive — faceless IG Addendum 2 (superseded by Addendum 3, historical only) — quick clear, NOT build work." },
-    { "who": "Gene", "text": "Idea Queue hygiene: the 2 pending ideas are duplicated as 4 files in the queue — dedupe." }
+    { "who": "Joe", "text": "1 idea Data killed (faceless-IG addendum, superseded) — quick archive, NOT build work." },
+    { "who": "Data", "text": "Run Data review on 11 Elena product specs; hand Joe only the top 3 by leverage-to-effort." },
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website proof, Ring Ring claims, and offer credibility." },
+    { "who": "Data", "text": "Review rendered VCE explainer + rule on 2 new ideas awaiting review (Hormozi lead-gen, ChatGPT Voice 2.0)." },
+    { "who": "Gene", "text": "Build 3 Data-approved Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library." },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy pieces; run HeyGen-vs-Higgsfield face test, then render VCE-07-31-01." }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
-  "parked": "LotSocial suppressed — parked, revisit Aug 30 (no reopen trigger fired). Praeter Health, Ring Ring manuscript, Midnight Cognition, Upgrade Loop remain in backlog."
+  "parked": "LotSocial suppressed — parked, revisit 2026-08-30, no reopen trigger fired. Praeter Health, Upgrade Loop, Midnight Cognition held in backlog (Joe green-light only)."
 }
