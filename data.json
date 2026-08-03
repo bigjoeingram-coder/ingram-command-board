@@ -1,24 +1,23 @@
 {
-  "updated": "2026-08-03 2:08 AM PT",
+  "updated": "Aug 3, 2026 · 3:06 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — 7 filed, all still PENDING DATA REVIEW" },
-    { "n": "•", "text": "Approve I² Diagnostic 50-contact outbound pilot — draft ready, needs pre-send verification" }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — all 7 sitting at Data review" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger 45% — blocks website proof, Ring Ring claims, offer credibility",
-    "Website rewrite 45% — waits on proof-language classification (Data→Gene)",
-    "Ring Ring book 35% — parked until evidence/source ledger is done"
+    "Evidence Ledger unbuilt (Data) — gates website rewrite + Ring Ring book",
+    "Website rewrite blocked on proof-language classification",
+    "Ring Ring book parked behind Evidence Ledger"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Run AppSumo agent first live test (80% → close it out)" },
-    { "who": "Gene", "text": "Prep Higgs render brief — 3 Joe-approved Content Gravy posts" },
-    { "who": "Gene", "text": "Ship Week-1 Video Engine: I² explainer + 3 leak clips + clone face test" },
-    { "who": "Gene", "text": "Build Elena batch 1: ACC Kit → Humanizer → Agent Skills → back to Joe" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unlocks website + Ring Ring + offers" },
-    { "who": "Data", "text": "Review 11 Elena specs → hand Joe only top 3 by leverage" },
-    { "who": "Data", "text": "Clear 7 Gene-idea files awaiting Data verdict" },
-    { "who": "Codex", "text": "Automate Video Engine workflow once Week-1 is stable (later)" }
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website, book, offers" },
+    { "who": "Data", "text": "Review 11 Elena product specs; hand Joe only top 3" },
+    { "who": "Data", "text": "Review VCE-01 explainer before Joe render approval" },
+    { "who": "Data", "text": "Ratify 13-Controller verdict spec; route 4 gene-estimated specs" },
+    { "who": "Gene", "text": "Build 3 approved Elena products (ACC Kit → Humanizer → Skills Library)" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 approved Content Gravy posts" },
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render VCE explainer" },
+    { "who": "Gene", "text": "Run AppSumo agent live test; verify session-start folder check" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — parked, revisit Aug 30 (no reopen trigger fired). Also backlogged: Praeter Health, Midnight Cognition, Upgrade Loop — Joe green-light later."
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial — revisit Aug 30 (no reopen trigger); Praeter Health, Midnight Cognition, Upgrade Loop suppressed"
 }
