@@ -1,21 +1,20 @@
 {
-  "updated": "Aug 2, 2026, 9:08 PM PT",
+  "updated": "Aug 2, 2026 · 10:08 PM PT",
   "needsJoe": [
-    { "n": "0", "text": "Nothing at your gate right now — 6 ideas + 11 Elena specs are upstream in Data review" }
+    { "n": "0", "text": "ideas ready for PROCEED / KILL — 6 in queue, all still in Data review (Gene Idea Queue)" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — blocks website proof, Ring Ring, offer credibility · Data",
-    "Website rewrite — waiting on proof language classified from Evidence Ledger · Data/Gene",
-    "Ring Ring book — parked behind Evidence Ledger + source audit · Data"
+    "Website rewrite (45%) — blocked until proof language is classified → Data, then Gene",
+    "Evidence Ledger (45%) — template not built; gates every website revenue claim (Data)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Build Evidence Ledger template — unlocks proof, website, offers" },
-    { "who": "Data", "text": "Review 11 Elena specs → promote passers, hand Joe top 3 by leverage" },
-    { "who": "Data", "text": "File YES/NO verdicts on 6 ideas sitting in Gene Idea Queue" },
-    { "who": "Gene", "text": "Build Elena batch 1: ACC Kit → Humanizer → Agent Skills" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 3 approved Content Gravy posts" },
-    { "who": "Gene", "text": "Render VCE-01 after Data review; run HeyGen vs Higgsfield face test" }
+    { "who": "Gene", "text": "Content Gravy: prep Higgs render briefs for 3 Joe-approved posts" },
+    { "who": "Gene", "text": "Build Elena starters — ACC Kit → Humanizer → Skills Library, then Joe approval" },
+    { "who": "Gene", "text": "Video Engine: HeyGen-vs-Higgsfield face test, then render I² explainer" },
+    { "who": "Data", "text": "Review 11 Elena specs; promote and hand Joe only the top 3 by leverage" },
+    { "who": "Data", "text": "Build Evidence Ledger template + classify proof language (unblocks website)" },
+    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1)" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial — suppressed, revisit Aug 30"
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep 6AM", "Board hourly"],
+  "parked": "LotSocial parked — revisit Aug 30 (no reopen trigger fired); Praeter Health, Ring Ring book, Upgrade Loop backlogged"
 }
