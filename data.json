@@ -1,16 +1,23 @@
 {
-  "updated": "2026-08-03, ~2:00 PM PT",
+  "updated": "Aug 3, 2026 2:07 PM PT",
   "needsJoe": [
-    { "n": "3", "text": "ideas Data-APPROVED — your PROCEED/KILL: Praeter peptides content, BDC landing (path b), grant-finder agent" }
+    { "n": "5", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue)" },
+    { "n": "→", "text": "Data-YES & buildable: Grant-Finder Agent, Peptides content" },
+    { "n": "→", "text": "@thebdcgenius BDC theme page — pick 1 of 2 build paths" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger — blocks website copy, proposals, Ring Ring"
+    "Evidence Ledger 45% — Data building template; unblocks website proof, offers, Ring Ring",
+    "Website rewrite 45% — blocked until proof language classified (needs Evidence Ledger)",
+    "Ring Ring book — parked behind evidence/source audit"
   ],
   "inMotion": [
-    { "who": "Joe", "text": "5 idea items Data says KILL/archive — quick clears, NOT build work" },
-    { "who": "Gene", "text": "Content Gravy monitor v2 live (multi-source) + 14-day backfill" },
-    { "who": "Data", "text": "Build the Evidence Ledger template (unlocks 3 projects)" }
+    { "who": "Gene", "text": "Build Elena batch 1: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Review 11 Elena specs; promote only top 3 to Joe" },
+    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website + offers)" },
+    { "who": "Data", "text": "Review Week-1 I² explainer VCE-2026-07-31-01 → then Joe render approval" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1)" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
-  "parked": "LotSocial — revisit Aug 30 (suppressed until then)"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
+  "parked": "LotSocial — parked, revisit Aug 30 (no reopen trigger fired)"
 }
