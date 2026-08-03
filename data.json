@@ -1,22 +1,21 @@
 {
-  "updated": "Aug 3, 2026 · 8:08 AM PT",
+  "updated": "2026-08-03 9:08 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "Ideas ready for PROCEED / KILL — all 8 in the Gene Idea Queue sit at PENDING DATA REVIEW (Data's gate, not yours)" }
+    { "n": "0", "text": "ideas ready for your PROCEED / KILL (Gene Idea Queue) — all 8 still at Data review, none escalated to you" }
   ],
   "revenueBlocked": [
-    "Evidence Ledger (45%) — Data building template; unblocks proof, website & book",
-    "Website rewrite (45%) — waits on evidence-classified proof language",
-    "Ring Ring book (35%) — gated on evidence/source ledger"
+    "Evidence Ledger 45% — Data building template; unlocks website proof + Ring Ring claims",
+    "Website rewrite 45% — blocked on proof-language classification (Evidence Ledger)",
+    "Ring Ring book parked — needs evidence/source ledger first"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Fill DATA VERDICT on 8 Gene Idea Queue specs — this is what blocks your PROCEED/KILL" },
-    { "who": "Data", "text": "Finish review of 11 Elena product specs; hand Joe the top 3 by leverage" },
-    { "who": "Gene", "text": "Building ACC Starter Kit → Humanizer Stack → Agent Skills (Data-approved batch)" },
-    { "who": "Gene", "text": "Prep Higgs render briefs — 3 Content Gravy items approved for render" },
-    { "who": "Data", "text": "Review VCE-01 I² explainer (rendered) before it reaches Joe render approval" },
-    { "who": "Gene", "text": "HeyGen-vs-Higgsfield face test, then render VCE-01" },
-    { "who": "Data", "text": "Build Evidence Ledger template (unblocks website & Ring Ring)" }
+    { "who": "Data", "text": "Run Data review on 11 Elena specs, then hand Joe only the top 3 by leverage (do not surface to Joe until done)" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website + proof language" },
+    { "who": "Data", "text": "Data-review VCE I² explainer (VCE-2026-07-31-01), then route for Joe render approval" },
+    { "who": "Gene", "text": "Build 3 approved Elena products: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 3 Joe-approved Content Gravy posts" },
+    { "who": "Gene", "text": "HeyGen vs Higgsfield face test, then render the I² explainer" }
   ],
   "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep 6AM","Board hourly"],
-  "parked": "LotSocial (25%) — parked, revisit Aug 30, no reopen trigger fired; Praeter Health, Ring Ring, Midnight Cognition, Upgrade Loop in backlog"
+  "parked": "LotSocial parked — revisit Aug 30, no reopen trigger fired. Praeter Health, Midnight Cognition, Upgrade Loop in backlog (Joe decision later)."
 }
