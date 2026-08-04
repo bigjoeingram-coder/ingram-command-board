@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>LotSocial Lite</title>
+    <title>LotSocial Lite - Internal Preview</title>
     <meta
       name="description"
-      content="Paste a vehicle detail page and turn it into social-ready inventory copy in under 60 seconds."
+      content="Internal build preview for LotSocial Lite. Not ready for salesperson testing."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -15,37 +15,76 @@
       <section class="hero">
         <nav>
           <strong>LotSocial Lite</strong>
-          <a href="#try">Try it</a>
+          <span class="status-pill">Internal preview - do not send to testers</span>
         </nav>
         <div class="hero-grid">
           <div>
-            <p class="eyebrow">Salesperson inventory posts</p>
-            <h1>Paste the car. Get the post.</h1>
+            <p class="eyebrow warning">Build target</p>
+            <h1>Paste the VDP. Get the post and video.</h1>
             <p class="lede">
-              Turn a vehicle detail page into clean social copy a salesperson can review, copy, and post from a phone.
+              The real product must let a salesperson paste one vehicle URL, auto-pull the vehicle facts and photos, then generate usable captions and a simple inventory video with minimal editing.
             </p>
             <div class="hero-actions">
-              <a class="button primary" href="#try">Generate a post</a>
-              <a class="button ghost" href="#pricing">$7/mo test price</a>
+              <a class="button primary" href="#workflow">View target workflow</a>
+              <a class="button ghost" href="#gates">Release gates</a>
             </div>
           </div>
-          <div class="phone-card" aria-label="Example generated post">
+          <div class="phone-card" aria-label="Target generated output">
             <div class="phone-top"></div>
-            <h2>2024 Ford F-150 XLT</h2>
+            <p class="mini-label">Target output</p>
+            <h2>Caption + short video</h2>
             <p>
-              Just landed: a clean F-150 XLT with the right look, practical tech, and room for work or weekend plans.
+              Vehicle facts, highlights, CTA, and image-based video should be generated from the pasted listing. Manual entry is only a backup, not the main experience.
             </p>
-            <span>Message me for details or to check availability.</span>
+            <span>Current page is a wireframe, not a salesperson test.</span>
           </div>
+        </div>
+      </section>
+
+      <section class="workflow" id="workflow">
+        <div class="section-heading">
+          <p class="eyebrow">Correct product flow</p>
+          <h2>The salesperson should do almost nothing</h2>
+          <p>
+            This page currently does not extract vehicle data or make video. That means it is not valid for reputation-bearing tester outreach yet.
+          </p>
+        </div>
+
+        <div class="flow-grid">
+          <article>
+            <b>1</b>
+            <h3>Paste VDP URL</h3>
+            <p>Salesperson pastes a live vehicle detail page from the dealership website.</p>
+          </article>
+          <article>
+            <b>2</b>
+            <h3>Auto-pull vehicle facts</h3>
+            <p>System extracts year, make, model, trim, price, mileage, photos, and visible equipment. No invented claims.</p>
+          </article>
+          <article>
+            <b>3</b>
+            <h3>Generate caption options</h3>
+            <p>Primary social caption, short caption, and text-message version are generated from source facts.</p>
+          </article>
+          <article>
+            <b>4</b>
+            <h3>Create simple video</h3>
+            <p>Use pulled vehicle photos to create a short inventory video or reel-style asset with caption overlay.</p>
+          </article>
+          <article>
+            <b>5</b>
+            <h3>Review and copy/share</h3>
+            <p>Salesperson reviews, makes small edits, then copies, downloads, or shares. No direct posting in MVP.</p>
+          </article>
         </div>
       </section>
 
       <section class="workflow" id="try">
         <div class="section-heading">
-          <p class="eyebrow">Prototype</p>
-          <h2>Generate inventory copy</h2>
+          <p class="eyebrow warning">Manual wireframe only</p>
+          <h2>Caption mockup</h2>
           <p>
-            VDP extraction is simulated in this first public prototype. If extraction fails in production, the same manual fallback keeps the salesperson moving.
+            This form is only here so we can test caption tone while the extractor and video builder are built. Do not use it as the customer-facing LotSocial experience.
           </p>
         </div>
 
@@ -93,33 +132,33 @@
               Salesperson CTA
               <input id="cta" value="Message me for details or to check availability." />
             </label>
-            <button type="submit">Generate captions</button>
+            <button type="submit">Generate caption mockup</button>
           </form>
 
           <div class="output-panel">
             <div class="output-top">
-              <strong>Post variants</strong>
+              <strong>Caption variants</strong>
               <button id="copyAll" type="button">Copy all</button>
             </div>
             <div id="outputs" class="outputs">
-              <p class="empty">Fill in a vehicle or paste a VDP URL to generate social-ready copy.</p>
+              <p class="empty">Manual mockup only. Production must populate this from the pasted URL.</p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="rules">
+      <section class="rules" id="gates">
         <article>
-          <h3>Built for fast testing</h3>
-          <p>No CRM, no inventory sync, no direct social posting, no dealership admin console. The MVP tests one question: will salespeople pay for faster inventory posts?</p>
+          <h3>Not tester-ready</h3>
+          <p>Do not send this page to salespeople until URL extraction and video generation are working on real dealership listings.</p>
         </article>
         <article>
-          <h3>Source-grounded copy</h3>
-          <p>The production version should use only visible VDP facts. Missing fields stay missing. No invented discounts, no fake urgency, no unsupported warranty claims.</p>
+          <h3>Required next build</h3>
+          <p>Backend extractor, image collector, generated video asset, review screen, copy/download controls, and mobile QA.</p>
         </article>
-        <article id="pricing">
-          <h3>$7/month target</h3>
-          <p>Low-friction salesperson pricing. Annual option can be $70/year after the first user test confirms demand.</p>
+        <article>
+          <h3>Release standard</h3>
+          <p>A salesperson should paste one URL and get a usable post/video without typing vehicle facts manually.</p>
         </article>
       </section>
     </main>
