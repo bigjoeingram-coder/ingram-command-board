@@ -1,20 +1,55 @@
 {
-  "updated": "2026-08-04 12:08 PM PT",
-  "needsJoe": [],
+  "updated": "2026-08-04 12:12 PM PT",
+  "needsJoe": [
+    "Chief of Staff funnel (deadline 08-10): approve the DM copy + pick the lead post so the entrepreneur funnel can go live — drafts ready (Drive 1zPB9My...)",
+    "White Beard Strategies resale-license question: Humanizer Stack + Agent Skills Library are BLOCKED — produce a resale/white-label agreement or authorize a clean-room rebuild",
+    "IngramInteractive.com booking: keep Calendly/meetneda or switch to joeintro (both diagnostics already use joeintro)"
+  ],
   "revenueBlocked": [
     "Website rewrite (flagship I² funnel copy) blocked on Evidence Ledger proof classification — Data owns, then Gene",
     "Ring Ring phone-training book parked behind evidence/source ledger completion (Data)"
   ],
   "inMotion": [
-    { "who": "Data", "text": "Run Data Review on 4 pending ideas (Faction/Mighty Networks, IG-reel comply, Hormozi lead-gen, ChatGPT/Codex use-cases) — all at PENDING DATA REVIEW, no verdict" },
-    { "who": "Joe", "text": "1 idea Data says KILL/archive (faceless IG theme-page → scoped to @thebdcgenius only) — quick clear, NOT build work" },
-    { "who": "Data", "text": "Run Data Review on 11 Elena product specs, promote passers, hand Joe ONLY top 3 by leverage-to-effort" },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (RENDERED), then release to Joe for render approval" },
-    { "who": "Gene", "text": "Finish HeyGen-vs-Higgsfield face test, then render Week-1 VCE explainer" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Content Gravy items already Joe-approved for render" },
-    { "who": "Gene", "text": "Build Data-authorized specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website proof + Ring Ring claims" }
+    {
+      "who": "Data",
+      "text": "Run Data Review on 4 pending ideas (Faction/Mighty Networks, IG-reel comply, Hormozi lead-gen, ChatGPT/Codex use-cases) — all at PENDING DATA REVIEW, no verdict"
+    },
+    {
+      "who": "Joe",
+      "text": "1 idea Data says KILL/archive (faceless IG theme-page → scoped to @thebdcgenius only) — quick clear, NOT build work"
+    },
+    {
+      "who": "Data",
+      "text": "Run Data Review on 11 Elena product specs, promote passers, hand Joe ONLY top 3 by leverage-to-effort"
+    },
+    {
+      "who": "Data",
+      "text": "Review VCE-2026-07-31-01 I² explainer (RENDERED), then release to Joe for render approval"
+    },
+    {
+      "who": "Gene",
+      "text": "Finish HeyGen-vs-Higgsfield face test, then render Week-1 VCE explainer"
+    },
+    {
+      "who": "Gene",
+      "text": "Prep Higgs render briefs for 4 Content Gravy items already Joe-approved for render"
+    },
+    {
+      "who": "Gene",
+      "text": "Build Data-authorized specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library"
+    },
+    {
+      "who": "Data",
+      "text": "Build Evidence Ledger template — unblocks website proof + Ring Ring claims"
+    }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "systems": [
+    "Idea Queue",
+    "Content Gravy",
+    "Video Engine",
+    "Decisions log",
+    "Daily sweep",
+    "Board hourly"
+  ],
   "parked": "LotSocial suppressed — revisit 2026-08-30 (trigger-only; no reopen trigger fired)"
 }
