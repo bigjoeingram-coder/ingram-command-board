@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 3:09 AM PT",
+  "updated": "2026-08-04 4:08 AM PT",
   "needsJoe": [],
   "revenueBlocked": [
     "Website rewrite (I² / SalesGenius.FYI) blocked until the Evidence Ledger classifies proof language — Data owns the ledger template (#11); site copy is #12 (Data→Gene)",
@@ -12,7 +12,7 @@
     },
     {
       "who": "Data",
-      "text": "Elena Review Queue: run verdicts on the 11 product specs (rolled back to PENDING DATA REVIEW), ratify controller v1.1 verdict spec, route ONLY approved specs to Joe"
+      "text": "Elena Review Queue: run verdicts on the 11 product specs (rolled back to PENDING DATA REVIEW), ratify controller v1.1 verdict spec, route ONLY approved specs to Joe (hand Joe top 3 by leverage, not all 11)"
     },
     {
       "who": "Data",
@@ -39,13 +39,6 @@
       "text": "Run AppSumo agent first live test cycle (#9); prove session-start routine (#6); confirm Idea Dashboard status (#10)"
     }
   ],
-  "systems": [
-    "Idea Queue",
-    "Content Gravy",
-    "Video Engine",
-    "Decisions log",
-    "Daily sweep",
-    "Board hourly"
-  ],
+  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
   "parked": "LotSocial (Inventory Posting App) suppressed — PARKED, revisit 2026-08-30, no reopen trigger fired. Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop remain in backlog/park."
 }
