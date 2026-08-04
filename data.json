@@ -1,55 +1,88 @@
 {
-  "updated": "2026-08-04 12:12 PM PT",
+  "updated": "2026-08-04 12:50 PM PT",
+  "launch": {
+    "name": "August 10 Revenue Launch",
+    "deadline": "2026-08-10",
+    "status": "Project manager loop is active, but launch execution still has open gates.",
+    "focus": "Convert built assets into shippable funnels without letting dashboard drift hide blockers.",
+    "pacing": [
+      {
+        "lane": "AI Chief of Staff Starter Kit",
+        "state": "Pacing",
+        "next": "Free product chosen. Lock canonical download link, delivery path, DM/comment flow, and tracking. Joe still needs to approve lead post + DM copy before public launch."
+      },
+      {
+        "lane": "Elena Starter Products",
+        "state": "Pacing",
+        "next": "ACC Starter Kit, Humanizer Stack, and Agent Skills Library were clean-room/built. Joe QA and sales-page/live gate still required. White Beard blocker is no longer current."
+      },
+      {
+        "lane": "SalesGenius / I2 Funnel",
+        "state": "Behind",
+        "next": "Evidence Ledger proof classification still blocks stronger public claims and website/Ring Ring proof language. Batch 2 outbound A/B is ready for Gene once Joe approves send."
+      },
+      {
+        "lane": "BDCGenius",
+        "state": "Pacing",
+        "next": "BDCGenius is live. Evidence rows support cautious BDC parity claim. Remaining work: maintain claim discipline and final domain/CTA checks."
+      },
+      {
+        "lane": "LotSocial",
+        "state": "Overnight candidate",
+        "next": "Reopened as narrow LotSocial Lite test. Build can proceed overnight as internal app/prototype work only; no public launch, billing, ads, or customer send without Joe approval."
+      }
+    ]
+  },
   "needsJoe": [
-    "Chief of Staff funnel (deadline 08-10): approve the DM copy + pick the lead post so the entrepreneur funnel can go live — drafts ready (Drive 1zPB9My...)",
-    "White Beard Strategies resale-license question: Humanizer Stack + Agent Skills Library are BLOCKED — produce a resale/white-label agreement or authorize a clean-room rebuild",
-    "IngramInteractive.com booking: keep Calendly/meetneda or switch to joeintro (both diagnostics already use joeintro)"
+    {
+      "n": "1",
+      "text": "Approve Chief of Staff lead post + DM copy so the entrepreneur funnel can go live before Aug 10."
+    },
+    {
+      "n": "2",
+      "text": "QA the 3 built Elena starter products before any product is marked LIVE."
+    },
+    {
+      "n": "3",
+      "text": "Approve or hold I2 outbound Batch 2 A/B send through Outlook. Diagnostic URL remains SalesGenius.FYI."
+    }
   ],
   "revenueBlocked": [
-    "Website rewrite (flagship I² funnel copy) blocked on Evidence Ledger proof classification — Data owns, then Gene",
-    "Ring Ring phone-training book parked behind evidence/source ledger completion (Data)"
+    "Evidence Ledger proof classification blocks stronger SalesGenius, BDCGenius, website rewrite, and Ring Ring proof claims.",
+    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA path discipline before scaled traffic.",
+    "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe."
   ],
   "inMotion": [
     {
-      "who": "Data",
-      "text": "Run Data Review on 4 pending ideas (Faction/Mighty Networks, IG-reel comply, Hormozi lead-gen, ChatGPT/Codex use-cases) — all at PENDING DATA REVIEW, no verdict"
-    },
-    {
-      "who": "Joe",
-      "text": "1 idea Data says KILL/archive (faceless IG theme-page → scoped to @thebdcgenius only) — quick clear, NOT build work"
+      "who": "Gene",
+      "text": "Package/QA ACC Starter Kit, Humanizer Stack, and Agent Skills Library; keep license and rights QA attached."
     },
     {
       "who": "Data",
-      "text": "Run Data Review on 11 Elena product specs, promote passers, hand Joe ONLY top 3 by leverage-to-effort"
+      "text": "Run Outlook reply strategy for the I2 outbound pilot through Composio; classify replies and draft response policy."
     },
     {
       "who": "Data",
-      "text": "Review VCE-2026-07-31-01 I² explainer (RENDERED), then release to Joe for render approval"
+      "text": "Finalize evidence categories: inbound sales calls, internet sales outbound follow-up, and data-mining/prospecting."
+    },
+    {
+      "who": "Codex",
+      "text": "Scope LotSocial Lite as real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and hard no-public-launch boundary."
     },
     {
       "who": "Gene",
-      "text": "Finish HeyGen-vs-Higgsfield face test, then render Week-1 VCE explainer"
-    },
-    {
-      "who": "Gene",
-      "text": "Prep Higgs render briefs for 4 Content Gravy items already Joe-approved for render"
-    },
-    {
-      "who": "Gene",
-      "text": "Build Data-authorized specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library"
-    },
-    {
-      "who": "Data",
-      "text": "Build Evidence Ledger template — unblocks website proof + Ring Ring claims"
+      "text": "Render or prep 4 Content Gravy items already Joe-approved for render; empty render links are stale."
     }
   ],
   "systems": [
-    "Idea Queue",
-    "Content Gravy",
+    "Controller sweeps",
+    "Executive handoff bridge",
+    "Command board",
+    "Elena queue",
+    "Evidence Ledger",
     "Video Engine",
-    "Decisions log",
-    "Daily sweep",
-    "Board hourly"
+    "Outlook reply review",
+    "LotSocial reopened"
   ],
-  "parked": "LotSocial suppressed — revisit 2026-08-30 (trigger-only; no reopen trigger fired)"
+  "parked": "No longer parked: LotSocial is reopened as LotSocial Lite narrow test. Overnight build work allowed; public/customer-facing actions blocked until Joe approval."
 }
