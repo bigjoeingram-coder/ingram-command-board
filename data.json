@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-04, 9:09 AM PT",
-  "needsJoe": [],
+  "updated": "2026-08-04 10:08 AM PT",
+  "needsJoe": [
+    { "n": "0", "text": "Nothing is waiting on your decision. The pipeline constraint right now is Data's review throughput, not you — no idea, Content Gravy, or Video Engine item is sitting at a Joe gate." }
+  ],
   "revenueBlocked": [
-    "Evidence Ledger (Data) is the unlock — blocks website proof language, Ring Ring claims, and offer credibility",
-    "Website rewrite around SalesGenius.FYI stalled until Data classifies proof language",
-    "Ring Ring book parked behind the source audit / evidence ledger (Data)"
+    "Website rewrite (SalesGenius.FYI front door) is blocked until Data classifies the proof claims into the Evidence Ledger — then Gene builds the copy.",
+    "11 productized specs ($97–$997) earn $0 until Data finishes review and only the top 3 reach you for approval.",
+    "Ring Ring book + proposal/offer claims are gated on the same Evidence Ledger that isn't built yet."
   ],
   "inMotion": [
-    { "who": "Data", "text": "Review 11 Elena product specs at PENDING DATA REVIEW; promote only the top 3 by leverage to Joe (revenue products $97–$997)" },
-    { "who": "Data", "text": "Ratify expanded 13-CONTROLLER verdict spec + route the 4 Gene-estimated specs (Sales Analyst, Content Gravy, B2B Prospector, LinkedIn)" },
-    { "who": "Gene", "text": "Build 3 authorized Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Data", "text": "Clear 6 idea files at PENDING DATA REVIEW (4 topics; 2 dup re-ingests) to unblock Joe" },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (RENDERED), then route to Joe for render approval" },
-    { "who": "Gene", "text": "Run HeyGen-vs-Higgsfield face test, then render VCE-2026-07-31-01" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy items" },
-    { "who": "Joe", "text": "1 idea item Data says KILL/archive (BDC faceless Addendum-2, superseded) — quick clear, not build work" }
+    { "who": "Data", "text": "Review the 11 Elena product specs (all PENDING DATA REVIEW); promote the passers and hand Joe ONLY the top 3 by leverage-to-effort — no Joe approvals until Data clears them." },
+    { "who": "Data", "text": "Build the Evidence Ledger template — it's the bottleneck unlocking website proof, Ring Ring claims, and offer credibility." },
+    { "who": "Data", "text": "Clear the review backlog: 4 queued Gene ideas (no verdict yet) + the rendered VCE I² explainer (gating Joe render approval) + ratify verdict spec v1.1 + route the 4 estimated specs." },
+    { "who": "Gene", "text": "Build the Data-authorized first batch in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library." },
+    { "who": "Gene", "text": "VCE Week 1: run the HeyGen-vs-Higgsfield face test + 3 dealership-leak clips; prep Higgs render briefs for the 4 Joe-approved Content Gravy assets." },
+    { "who": "Gene", "text": "Close near-done ops: session-start folder-check test, AppSumo first live test cycle, confirm Idea Dashboard status." }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
-  "parked": "LotSocial suppressed — revisit 2026-08-30 (no reopen trigger fired)"
+  "parked": "Suppressed — no fired trigger: LotSocial (revisit 2026-08-30); Ring Ring book (evidence-ledger gated); Praeter Health, Midnight Cognition, Upgrade Loop (Joe backlog)."
 }
