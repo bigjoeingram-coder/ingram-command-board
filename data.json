@@ -1,20 +1,48 @@
 {
-  "updated": "Aug 3, 2026, 4:07 PM PT",
+  "updated": "Aug 3, 2026, 5:06 PM PT — partial refresh (Executive Handoffs unreadable this run; Elena-spec lines carried from last board)",
   "needsJoe": [
-    { "n": "0", "text": "Queue clear — no PROCEED/KILL pending. The 2 new ideas, the rendered VCE explainer, and all 11 Elena specs sit at DATA review, not you." }
+    {
+      "n": "0",
+      "text": "Queue clear — no PROCEED/KILL pending. The 2 new ideas, the rendered VCE explainer, and all 11 Elena specs sit at DATA review, not you."
+    }
   ],
   "revenueBlocked": [
     "Website rewrite (SalesGenius.FYI flagship funnel) — blocked on proof-language classification; Data building Evidence Ledger to unblock.",
     "Ring Ring phone-training book — manuscript blocked behind the same Evidence Ledger / source audit (Data)."
   ],
   "inMotion": [
-    { "who": "Joe", "text": "1 idea Data killed (faceless-IG addendum, superseded) — quick archive, NOT build work." },
-    { "who": "Data", "text": "Run Data review on 11 Elena product specs; hand Joe only the top 3 by leverage-to-effort." },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website proof, Ring Ring claims, and offer credibility." },
-    { "who": "Data", "text": "Review rendered VCE explainer + rule on 2 new ideas awaiting review (Hormozi lead-gen, ChatGPT Voice 2.0)." },
-    { "who": "Gene", "text": "Build 3 Data-approved Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library." },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy pieces; run HeyGen-vs-Higgsfield face test, then render VCE-07-31-01." }
+    {
+      "who": "Joe",
+      "text": "1 idea Data killed (faceless-IG addendum, superseded) — quick archive, NOT build work."
+    },
+    {
+      "who": "Data",
+      "text": "Run Data review on 11 Elena product specs; hand Joe only the top 3 by leverage-to-effort."
+    },
+    {
+      "who": "Data",
+      "text": "Build Evidence Ledger template — unblocks website proof, Ring Ring claims, and offer credibility."
+    },
+    {
+      "who": "Data",
+      "text": "Review rendered VCE explainer + rule on 2 new ideas awaiting review (Hormozi lead-gen, ChatGPT Voice 2.0)."
+    },
+    {
+      "who": "Gene",
+      "text": "Build 3 Data-approved Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library."
+    },
+    {
+      "who": "Gene",
+      "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy pieces; run HeyGen-vs-Higgsfield face test, then render VCE-07-31-01."
+    }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "systems": [
+    "Idea Queue",
+    "Content Gravy",
+    "Video Engine",
+    "Decisions log",
+    "Daily sweep",
+    "Board hourly"
+  ],
   "parked": "LotSocial suppressed — parked, revisit 2026-08-30, no reopen trigger fired. Praeter Health, Upgrade Loop, Midnight Cognition held in backlog (Joe green-light only)."
 }
