@@ -1,33 +1,20 @@
 {
-  "updated": "2026-08-04 11:42 AM PT — launch pacing update",
-  "launch": {
-    "name": "August 10 Revenue Launch",
-    "deadline": "2026-08-10",
-    "status": "At risk if build/output work does not convert into shippable assets",
-    "pacing": [
-      { "lane": "AI Chief of Staff Starter Kit", "state": "Pacing", "next": "Lock canonical download link, DM delivery path, tracking, and first paid-step packaging" },
-      { "lane": "Elena starter products", "state": "Pacing", "next": "QA ACC Starter Kit, Humanizer Stack, and Agent Skills Library before sales-page/live status" },
-      { "lane": "SalesGenius / I² funnel", "state": "Behind", "next": "Evidence Ledger rows must be loaded before stronger website/Ring Ring claims" },
-      { "lane": "BDCGenius", "state": "Behind", "next": "Use manager-report evidence to support BDC parity claim and diagnostic page" },
-      { "lane": "LotSocial", "state": "Overnight build candidate", "next": "Build real VDP-to-caption/video proof app without pulling daytime focus from Aug 10" }
-    ],
-    "focus": "Daytime protects Aug 10 launch. Overnight queue may build already-authorized supporting products, draft assets, and QA artifacts without publishing or selling."
-  },
-  "needsJoe": [
-    { "n": "1", "text": "QA built Elena starter products before any product is marked LIVE" }
-  ],
+  "updated": "2026-08-04 12:08 PM PT",
+  "needsJoe": [],
   "revenueBlocked": [
-    "Evidence Ledger — blocks stronger SalesGenius, BDCGenius, and Ring Ring proof claims",
-    "SalesGenius.FYI / I² public funnel — blocked on proof-language classification and final CTA path",
-    "BDCGenius page — blocked on evidence extraction from manager reports and final URL/domain setup"
+    "Website rewrite (flagship I² funnel copy) blocked on Evidence Ledger proof classification — Data owns, then Gene",
+    "Ring Ring phone-training book parked behind evidence/source ledger completion (Data)"
   ],
   "inMotion": [
-    { "who": "Gene", "text": "Build / package ACC Starter Kit, Humanizer Stack, and Agent Skills Library; keep rights/license QA attached" },
-    { "who": "Data", "text": "Finalize evidence categories: inbound sales calls, internet sales outbound follow-up, and data-mining/prospecting" },
-    { "who": "Codex", "text": "Scope LotSocial as real app: dealer profile, salesperson profile, VDP extractor, caption generator, branded downloadable video" },
-    { "who": "Gene", "text": "Prepare overnight worklist so LotSocial build can advance without displacing Aug 10 daytime work" },
-    { "who": "Data", "text": "Keep August 10 launch constraints visible: no public sends, ads, DMs, or LIVE product status without Joe approval" }
+    { "who": "Data", "text": "Run Data Review on 4 pending ideas (Faction/Mighty Networks, IG-reel comply, Hormozi lead-gen, ChatGPT/Codex use-cases) — all at PENDING DATA REVIEW, no verdict" },
+    { "who": "Joe", "text": "1 idea Data says KILL/archive (faceless IG theme-page → scoped to @thebdcgenius only) — quick clear, NOT build work" },
+    { "who": "Data", "text": "Run Data Review on 11 Elena product specs, promote passers, hand Joe ONLY top 3 by leverage-to-effort" },
+    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (RENDERED), then release to Joe for render approval" },
+    { "who": "Gene", "text": "Finish HeyGen-vs-Higgsfield face test, then render Week-1 VCE explainer" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Content Gravy items already Joe-approved for render" },
+    { "who": "Gene", "text": "Build Data-authorized specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website proof + Ring Ring claims" }
   ],
-  "systems": ["Controller sweeps","Command board","Elena queue","Evidence Ledger","Video Engine","LotSocial reopened"],
-  "parked": "LotSocial broad platform remains parked; LotSocial Lite / dealership proof app is reopened as a narrow build candidate"
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "parked": "LotSocial suppressed — revisit 2026-08-30 (trigger-only; no reopen trigger fired)"
 }
