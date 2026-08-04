@@ -1,22 +1,21 @@
 {
-  "updated": "2026-08-04 06:11 AM PT",
+  "updated": "2026-08-04 7:12 AM PT",
   "needsJoe": [
-    { "n": "0", "text": "Nothing cleanly at your desk right now — all live work is gated behind Data review or Gene execution (see In Motion). Coming to you next: 3 product specs after Gene build (ACC Starter Kit → Humanizer → Agent Skills Library), and the VCE I² explainer once Data clears it." }
+    { "n": "0", "text": "Nothing at your decision gate right now — every open item is upstream at Data or in Gene's build queue. No render or publish approvals pending." }
   ],
   "revenueBlocked": [
-    "Website rewrite (→ SalesGenius.FYI / I² Diagnostic) blocked on Evidence Ledger proof classification — Data",
-    "Ring Ring phone-training book parked behind Evidence Ledger source audit — Data",
-    "Evidence Ledger (45%) is the bottleneck that unlocks website copy + book + offer credibility — Data building"
+    "Website rewrite → SalesGenius.FYI (I² front door) blocked until Data builds the Evidence Ledger template — proof copy can't ship until claims are classified.",
+    "Ring Ring phone-training book manuscript blocked on the same Data evidence/source audit."
   ],
   "inMotion": [
-    { "who": "Data", "text": "Clear Elena Review Queue: run verdicts on 11 product specs, ratify the expanded verdict spec (13-OPERATING-CONTROLLER), route the 4 Gene-estimated specs — hand Joe ONLY the top 3 by leverage-to-effort." },
-    { "who": "Gene", "text": "Build 3 Data-approved specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library, then return each to Joe for final sign-off." },
-    { "who": "Gene", "text": "Render 4 Content-Gravy posts already Joe-approved-for-render (Higgs briefs pending): The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive." },
-    { "who": "Data", "text": "Review the rendered VCE I² explainer (VCE-2026-07-31-01) — Data gate before Joe render approval — and own CTA/positioning for Video Engine Week 1." },
-    { "who": "Gene", "text": "Finish the HeyGen-vs-Higgsfield clone face test (VCE-2026-07-31-TEST), then render the explainer." },
-    { "who": "Data", "text": "Run Data verdicts on 2 pending Gene ideas: Hormozi lead-gen (Gene: IMPLEMENT) and ChatGPT Voice 2.0 + Codex (Gene: SKIP)." },
-    { "who": "Gene", "text": "Dedupe Idea Queue — the Hormozi and ChatGPT-Voice ideas each have 2 duplicate files." }
+    { "who": "Joe", "text": "1 idea Data says KILL/archive (faceless IG theme-page, BDC-only scope) — quick clear, NOT build work." },
+    { "who": "Data", "text": "Elena Review Queue: 11 product specs at PENDING DATA REVIEW — verdict each, promote passers, hand Joe ONLY the top 3. Joe stays blocked until this clears." },
+    { "who": "Data", "text": "Route the 4 estimated specs (Universal Sales Analyst → I² module; confirm Content Gravy + B2B gates; decide LinkedIn playbook) and ratify the v1.1 verdict spec." },
+    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (already rendered) before it can reach Joe for render approval." },
+    { "who": "Data", "text": "2 Gene Idea Queue items still PENDING DATA REVIEW (Hormozi lead-gen; ChatGPT-voice/Codex) — verdict needed." },
+    { "who": "Gene", "text": "Build approved Elena specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library." },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy items; run HeyGen-vs-Higgsfield face test, then render the I² explainer." }
   ],
   "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
-  "parked": "LotSocial (inventory posting app) suppressed — PARKED, revisit 2026-08-30; no reopen trigger fired."
+  "parked": "Suppressed: LotSocial / Inventory Posting App — revisit 2026-08-30 (no reopen trigger fired). Praeter Health, Upgrade Loop, and Midnight Cognition remain backlog."
 }
