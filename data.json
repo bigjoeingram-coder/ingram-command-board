@@ -1,22 +1,33 @@
 {
-  "updated": "2026-08-04 11:08 AM PT — full refresh",
-  "needsJoe": [],
+  "updated": "2026-08-04 11:42 AM PT — launch pacing update",
+  "launch": {
+    "name": "August 10 Revenue Launch",
+    "deadline": "2026-08-10",
+    "status": "At risk if build/output work does not convert into shippable assets",
+    "pacing": [
+      { "lane": "AI Chief of Staff Starter Kit", "state": "Pacing", "next": "Lock canonical download link, DM delivery path, tracking, and first paid-step packaging" },
+      { "lane": "Elena starter products", "state": "Pacing", "next": "QA ACC Starter Kit, Humanizer Stack, and Agent Skills Library before sales-page/live status" },
+      { "lane": "SalesGenius / I² funnel", "state": "Behind", "next": "Evidence Ledger rows must be loaded before stronger website/Ring Ring claims" },
+      { "lane": "BDCGenius", "state": "Behind", "next": "Use manager-report evidence to support BDC parity claim and diagnostic page" },
+      { "lane": "LotSocial", "state": "Overnight build candidate", "next": "Build real VDP-to-caption/video proof app without pulling daytime focus from Aug 10" }
+    ],
+    "focus": "Daytime protects Aug 10 launch. Overnight queue may build already-authorized supporting products, draft assets, and QA artifacts without publishing or selling."
+  },
+  "needsJoe": [
+    { "n": "1", "text": "QA built Elena starter products before any product is marked LIVE" }
+  ],
   "revenueBlocked": [
-    "Flagship website rewrite (SalesGenius.FYI front door) — blocked on Evidence Ledger / proof-language classification (Data)",
-    "Ring Ring phone-training book — blocked behind Evidence Ledger + source audit (Data)",
-    "Elena product line: 11 priced specs ($97–$997) revenue-blocked on Data review — 3 in BUILD, 8 held"
+    "Evidence Ledger — blocks stronger SalesGenius, BDCGenius, and Ring Ring proof claims",
+    "SalesGenius.FYI / I² public funnel — blocked on proof-language classification and final CTA path",
+    "BDCGenius page — blocked on evidence extraction from manager reports and final URL/domain setup"
   ],
   "inMotion": [
-    { "who": "Joe", "text": "1 idea item Data says KILL/archive — quick clear, NOT build work (faceless IG @thebdcgenius scope-lock)" },
-    { "who": "Joe", "text": "Approve or hold the I² 50-contact outbound pilot — draft ready, needs pre-send verification view first" },
-    { "who": "Data", "text": "6 Gene idea items awaiting Data verdict (PENDING DATA REVIEW)" },
-    { "who": "Data", "text": "Run Data review on 11 Elena product specs; promote only the top 3 by leverage-to-effort to Joe" },
-    { "who": "Data", "text": "Review rendered VCE I² explainer (VCE-2026-07-31-01) before it reaches Joe render approval" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website copy, Ring Ring, offer credibility" },
-    { "who": "Gene", "text": "Build first Elena batch in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Gene", "text": "Run HeyGen-vs-Higgsfield face test, then render VCE-2026-07-31-01" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy items" }
+    { "who": "Gene", "text": "Build / package ACC Starter Kit, Humanizer Stack, and Agent Skills Library; keep rights/license QA attached" },
+    { "who": "Data", "text": "Finalize evidence categories: inbound sales calls, internet sales outbound follow-up, and data-mining/prospecting" },
+    { "who": "Codex", "text": "Scope LotSocial as real app: dealer profile, salesperson profile, VDP extractor, caption generator, branded downloadable video" },
+    { "who": "Gene", "text": "Prepare overnight worklist so LotSocial build can advance without displacing Aug 10 daytime work" },
+    { "who": "Data", "text": "Keep August 10 launch constraints visible: no public sends, ads, DMs, or LIVE product status without Joe approval" }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
-  "parked": "LotSocial suppressed — revisit 2026-08-30 (no reopen trigger fired); Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop in backlog"
+  "systems": ["Controller sweeps","Command board","Elena queue","Evidence Ledger","Video Engine","LotSocial reopened"],
+  "parked": "LotSocial broad platform remains parked; LotSocial Lite / dealership proof app is reopened as a narrow build candidate"
 }
