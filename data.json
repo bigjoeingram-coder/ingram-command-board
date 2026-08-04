@@ -1,20 +1,51 @@
 {
-  "updated": "2026-08-04 2:08 AM PT",
+  "updated": "2026-08-04 3:09 AM PT",
   "needsJoe": [],
   "revenueBlocked": [
-    "Website rewrite (I² / SalesGenius.FYI) blocked until Evidence Ledger classifies proof language — Data owns template (#11), site copy #12",
-    "Ring Ring phone-training book manuscript blocked on same evidence/source ledger (#13)"
+    "Website rewrite (I² / SalesGenius.FYI) blocked until the Evidence Ledger classifies proof language — Data owns the ledger template (#11); site copy is #12 (Data→Gene)",
+    "Ring Ring phone-training book manuscript blocked on the same evidence/source ledger (#13, Data)"
   ],
   "inMotion": [
-    { "who": "Joe", "text": "1 idea (faceless IG page, Addendum-2) Data marked NO / superseded — quick archive clear, NOT build work" },
-    { "who": "Data", "text": "Elena Review Queue: run verdicts on the 11 product specs, ratify controller v1.1 verdict spec, route ONLY top 3 to Joe" },
-    { "who": "Data", "text": "Build Evidence Ledger template — unblocks website rewrite, proof claims, and Ring Ring (all revenue-facing work gated on it)" },
-    { "who": "Data", "text": "Clear Data queue: verdict 4 pending Gene ideas (Hormozi leads x2, ChatGPT Voice x2 — duplicate pairs) + review rendered VCE-2026-07-31-01 I² explainer" },
-    { "who": "Gene", "text": "Build 3 Data-approved Elena specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy posts" },
-    { "who": "Gene", "text": "VCE Week 1: HeyGen-vs-Higgsfield face test + 3 short dealership-leak clips" },
-    { "who": "Gene", "text": "Run AppSumo agent first live test cycle (#9); prove session-start routine (#6); confirm Idea Dashboard status (#10)" }
+    {
+      "who": "Joe",
+      "text": "1 idea (faceless IG page, Addendum-2) Data marked NO / superseded by Addendum 3 — quick archive clear, NOT build work"
+    },
+    {
+      "who": "Data",
+      "text": "Elena Review Queue: run verdicts on the 11 product specs (rolled back to PENDING DATA REVIEW), ratify controller v1.1 verdict spec, route ONLY approved specs to Joe"
+    },
+    {
+      "who": "Data",
+      "text": "Build Evidence Ledger template — unblocks the website rewrite, proof claims, and Ring Ring (all revenue-facing work is gated on it)"
+    },
+    {
+      "who": "Data",
+      "text": "Route 4 Gene-estimated specs (Sales Analyst→I² module, confirm LATER gates on Content Gravy + B2B pilot, decide LinkedIn playbook slot); verdict 4 pending ideas (Hormozi leads x2, ChatGPT Voice x2 — duplicate pairs); review rendered VCE-2026-07-31-01 I² explainer"
+    },
+    {
+      "who": "Codex",
+      "text": "Build first Data-approved Elena batch in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library (all now BUILDING)"
+    },
+    {
+      "who": "Gene",
+      "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy posts"
+    },
+    {
+      "who": "Gene",
+      "text": "VCE Week 1: HeyGen-vs-Higgsfield face test + 3 short dealership-leak clips, then render VCE-01"
+    },
+    {
+      "who": "Gene",
+      "text": "Run AppSumo agent first live test cycle (#9); prove session-start routine (#6); confirm Idea Dashboard status (#10)"
+    }
   ],
-  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
-  "parked": "LotSocial (Inventory Posting App) suppressed — PARKED, revisit 2026-08-30, no reopen trigger fired"
+  "systems": [
+    "Idea Queue",
+    "Content Gravy",
+    "Video Engine",
+    "Decisions log",
+    "Daily sweep",
+    "Board hourly"
+  ],
+  "parked": "LotSocial (Inventory Posting App) suppressed — PARKED, revisit 2026-08-30, no reopen trigger fired. Ring Ring, Praeter Health, Midnight Cognition, Upgrade Loop remain in backlog/park."
 }
