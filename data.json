@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-03 7:08 PM PT",
-  "needsJoe": [
-    { "n": "0", "text": "No item is at a Joe gate right now. Idea Queue = awaiting Data; the 4 Content Gravy pieces + the 3 approved products are owned by Gene. Next Joe gate: final sign-off on ACC Starter Kit / Humanizer Stack / Agent Skills once Gene finishes the builds." }
-  ],
+  "updated": "2026-08-03 8:08 PM PT",
+  "needsJoe": [],
   "revenueBlocked": [
-    "Website rewrite (front door -> SalesGenius.FYI) blocked: proof language must be classified first. Data owns Evidence Ledger template (both stuck at 45%).",
-    "Ring Ring book (35%) gated behind the same evidence/source audit - parked until the ledger is built.",
-    "Elena product line ($97-$997) revenue gated: 11 specs stuck at Data review; only 3 (ACC, Humanizer, Agent Skills) cleared to build."
+    "Website rewrite -> SalesGenius.FYI (I2 Diagnostic front door) blocked on proof language; needs Evidence Ledger first (Data).",
+    "Evidence Ledger (Data, 45%) is the unlock for website proof, Ring Ring claims, and offer credibility.",
+    "Elena product catalog ($97-$997): 3 specs building; 8 others gated on Data review/routing before they can monetize.",
+    "Ring Ring book parked behind evidence/source audit (Data)."
   ],
   "inMotion": [
-    { "who": "Data", "text": "Run Data review on 11 Elena specs, then hand Joe ONLY the top 3 by leverage-to-effort - do not present all 11 as equal." },
-    { "who": "Data", "text": "Build the Evidence Ledger template - unlocks website copy, Ring Ring claims, and offer credibility." },
-    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1); fold Universal Sales Analyst into the I2 decision; confirm Content Gravy / B2B LATER gates; decide the LinkedIn playbook slot." },
-    { "who": "Data", "text": "Score 2 pending idea items (Hormozi lead-gen, ChatGPT/Codex) - currently unscoreable, transcripts blocked; needs a manual transcript or a non-blocked pull." },
-    { "who": "Gene", "text": "Build ACC Starter Kit -> Humanizer Stack -> Agent Skills (approved batch, BUILDING), then return each to Joe for final approval." },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy pieces: Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive." },
-    { "who": "Gene", "text": "Run HeyGen-vs-Higgsfield face test, then render VCE-2026-07-31-01 (I2 explainer) - pending Data review first." },
-    { "who": "Joe", "text": "1 idea item Data says archive - IG faceless-page Addendum-2 (superseded by Addendum 3). Quick clear, NOT build work." }
+    { "who": "Data", "text": "Review 11 Elena product specs; promote only top 3 by leverage to Joe - do not hand over all 11 as equal." },
+    { "who": "Data", "text": "Build Evidence Ledger template - unblocks website, Ring Ring, and offer credibility." },
+    { "who": "Data", "text": "Review Video Engine I2 explainer (VCE-2026-07-31-01) before it can reach Joe render approval." },
+    { "who": "Data", "text": "Review 2 GENE-IDEA items awaiting Data verdict (Hormozi lead-gen, ChatGPT-voice/Codex)." },
+    { "who": "Data", "text": "Ratify expanded verdict spec (13-OPERATING-CONTROLLER v1.1); confirm gates on 4 estimated specs." },
+    { "who": "Gene", "text": "Build authorized batch: ACC Starter Kit -> Humanizer Stack -> Agent Skills Library." },
+    { "who": "Gene", "text": "Execute Video Engine Week 1 - I2 explainer + 3 dealership-leak clips + clone-quality face test." },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Content Gravy items already Joe-approved for render." },
+    { "who": "Joe", "text": "1 idea Data says archive (faceless IG page, superseded) - quick clear, NOT build work." }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
-  "parked": "LotSocial suppressed - revisit 2026-08-30 (no reopen trigger fired). Also held in backlog: Praeter Health, Midnight Cognition, Upgrade Loop (await Joe green-light)."
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "parked": "LotSocial suppressed - revisit 2026-08-30, no reopen trigger fired. Also parked/backlog: Ring Ring book, Praeter Health, Midnight Cognition, Upgrade Loop."
 }
