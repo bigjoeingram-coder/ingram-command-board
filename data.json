@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 12:50 PM PT",
+  "updated": "2026-08-04 1:10 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -40,11 +40,7 @@
     },
     {
       "n": "2",
-      "text": "QA the 3 built Elena starter products before any product is marked LIVE."
-    },
-    {
-      "n": "3",
-      "text": "Approve or hold I2 outbound Batch 2 A/B send through Outlook. Diagnostic URL remains SalesGenius.FYI."
+      "text": "QA the 3 built Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library) before any is marked LIVE."
     }
   ],
   "revenueBlocked": [
@@ -72,6 +68,10 @@
     {
       "who": "Gene",
       "text": "Render or prep 4 Content Gravy items already Joe-approved for render; empty render links are stale."
+    },
+    {
+      "who": "Data",
+      "text": "4 new GENE ideas awaiting Data verdict (Gene pre-screened all as SKIP/unretrievable; none are build work)."
     }
   ],
   "systems": [
