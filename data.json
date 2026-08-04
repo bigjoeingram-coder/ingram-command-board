@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 3:10 PM PT",
+  "updated": "2026-08-04 4:14 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -36,42 +36,54 @@
   "needsJoe": [
     {
       "n": "1",
-      "text": "Approve Chief of Staff lead post + DM copy so the entrepreneur funnel can go live before Aug 10."
+      "text": "Approve the Chief of Staff lead post + DM copy and pick the free Chief-of-Staff starter product the DM delivers, so the entrepreneur funnel goes live before Aug 10."
     },
     {
       "n": "2",
       "text": "QA the 3 built Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library) before any is marked LIVE."
+    },
+    {
+      "n": "3",
+      "text": "Approve the I2 outbound Batch 2 send/link so Gene can run the A/B — Data flags it as an open Aug-10 revenue gate."
     }
   ],
   "revenueBlocked": [
-    "Evidence Ledger proof classification blocks stronger SalesGenius, BDCGenius, website rewrite, and Ring Ring proof claims.",
-    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA path discipline before scaled traffic.",
+    "Evidence Ledger proof classification still blocks stronger SalesGenius/I2 claims, the website rewrite, and Ring Ring proof language (BDCGenius evidence now loaded within Data-approved wording).",
+    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA-path discipline before scaled traffic; Batch 2 outbound pending Joe send approval.",
     "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe."
   ],
   "inMotion": [
     {
       "who": "Gene",
-      "text": "Package/QA ACC Starter Kit, Humanizer Stack, and Agent Skills Library; keep license and rights QA attached."
+      "text": "Sales-page/product-description drafts for the 3 clean-room-rebuilt Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library); builds done, awaiting Joe QA. Keep license/rights QA attached."
     },
     {
       "who": "Data",
-      "text": "Write approved I2 outbound reply policy (8-category templates + classification) so supervised auto-send can be considered; Batch 2 sent, reply queue live."
+      "text": "Own I2 outbound reply strategy — dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories for Joe approval."
     },
     {
       "who": "Data",
-      "text": "Finalize evidence categories: inbound sales calls, internet sales outbound follow-up, and data-mining/prospecting."
+      "text": "Point Gene to source reports for the empty Evidence Ledger proof categories (inbound sales calls, internet-sales follow-up, data-mining/prospecting) so claims unblock."
+    },
+    {
+      "who": "Data",
+      "text": "Ratify public claim wording for Ken Grody Ford Buena Park YoY proof (down-market performance); Gene stages it as I2/BDCGenius funnel proof once Data + Joe approve."
     },
     {
       "who": "Codex",
-      "text": "Scope LotSocial Lite as real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and hard no-public-launch boundary."
+      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary."
     },
     {
       "who": "Gene",
-      "text": "Render or prep 4 Content Gravy items already Joe-approved for render; empty render links are stale."
+      "text": "Render or prep the 4 Content Gravy items already Joe-approved for render; empty render links are stale."
     },
     {
       "who": "Data",
       "text": "4 GENE ideas awaiting Data verdict — 3 Gene-SKIP, 1 Gene-IMPLEMENT (Hormozi lead-magnet). None built; Data verdict pending, not build work yet."
+    },
+    {
+      "who": "Joe",
+      "text": "1 idea item Data says KILL/archive (faceless-IG theme-page, BDC-only scope — DATA VERDICT NO) — quick clear, NOT build work."
     }
   ],
   "systems": [
