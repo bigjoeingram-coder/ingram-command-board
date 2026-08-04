@@ -1,21 +1,20 @@
 {
-  "updated": "2026-08-04 7:12 AM PT",
-  "needsJoe": [
-    { "n": "0", "text": "Nothing at your decision gate right now — every open item is upstream at Data or in Gene's build queue. No render or publish approvals pending." }
-  ],
+  "updated": "2026-08-04 8:05 AM PT",
+  "needsJoe": [],
   "revenueBlocked": [
-    "Website rewrite → SalesGenius.FYI (I² front door) blocked until Data builds the Evidence Ledger template — proof copy can't ship until claims are classified.",
-    "Ring Ring phone-training book manuscript blocked on the same Data evidence/source audit."
+    "Website rewrite around SalesGenius.FYI (flagship funnel) blocked until proof language is classified — Data owns the Evidence Ledger unlock",
+    "Ring Ring Phone Training book parked behind the same Evidence Ledger / source audit"
   ],
   "inMotion": [
-    { "who": "Joe", "text": "1 idea Data says KILL/archive (faceless IG theme-page, BDC-only scope) — quick clear, NOT build work." },
-    { "who": "Data", "text": "Elena Review Queue: 11 product specs at PENDING DATA REVIEW — verdict each, promote passers, hand Joe ONLY the top 3. Joe stays blocked until this clears." },
-    { "who": "Data", "text": "Route the 4 estimated specs (Universal Sales Analyst → I² module; confirm Content Gravy + B2B gates; decide LinkedIn playbook) and ratify the v1.1 verdict spec." },
-    { "who": "Data", "text": "Review VCE-2026-07-31-01 I² explainer (already rendered) before it can reach Joe for render approval." },
-    { "who": "Data", "text": "2 Gene Idea Queue items still PENDING DATA REVIEW (Hormozi lead-gen; ChatGPT-voice/Codex) — verdict needed." },
-    { "who": "Gene", "text": "Build approved Elena specs in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library." },
-    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy items; run HeyGen-vs-Higgsfield face test, then render the I² explainer." }
+    { "who": "Joe", "text": "1 Data-KILL idea (faceless IG theme-page ADDENDUM): quick clear/archive — NOT build work" },
+    { "who": "Data", "text": "Run Data Review on 11 Elena product specs (all at PENDING DATA REVIEW); hand Joe only the top 3 by leverage, not all 11" },
+    { "who": "Data", "text": "Clear Idea Queue: 6 items (4 unique concepts) awaiting a Data verdict" },
+    { "who": "Data", "text": "Build Evidence Ledger template — the unlock for website copy, Ring Ring claims, and offer proof" },
+    { "who": "Data", "text": "Review rendered I² explainer VCE-2026-07-31-01, then release it to Joe for render approval" },
+    { "who": "Gene", "text": "Build Data-approved batch: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy assets" },
+    { "who": "Gene", "text": "Run HeyGen-vs-Higgsfield face test; close near-done AppSumo + session-start tests" }
   ],
-  "systems": ["Idea Queue", "Content Gravy", "Video Engine", "Decisions log", "Daily sweep", "Board hourly"],
-  "parked": "Suppressed: LotSocial / Inventory Posting App — revisit 2026-08-30 (no reopen trigger fired). Praeter Health, Upgrade Loop, and Midnight Cognition remain backlog."
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "parked": "LotSocial suppressed — revisit 2026-08-30 (no reopen trigger fired); Praeter Health + Ring Ring manuscript also parked"
 }
