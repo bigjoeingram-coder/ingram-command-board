@@ -1,48 +1,24 @@
 {
-  "updated": "Aug 3, 2026, 5:06 PM PT — partial refresh (Executive Handoffs unreadable this run; Elena-spec lines carried from last board)",
+  "updated": "Aug 3, 2026 · 6:08 PM PT",
   "needsJoe": [
-    {
-      "n": "0",
-      "text": "Queue clear — no PROCEED/KILL pending. The 2 new ideas, the rendered VCE explainer, and all 11 Elena specs sit at DATA review, not you."
-    }
+    { "n": "0", "text": "No decisions sitting at a Joe gate right now. Constraint is Data (Evidence Ledger + 11 Elena specs) and Gene (builds) — not you." }
   ],
   "revenueBlocked": [
-    "Website rewrite (SalesGenius.FYI flagship funnel) — blocked on proof-language classification; Data building Evidence Ledger to unblock.",
-    "Ring Ring phone-training book — manuscript blocked behind the same Evidence Ledger / source audit (Data)."
+    "Website rewrite (flagship SalesGenius.FYI funnel) blocked on proof-language classification — Evidence Ledger must be built first (Data)",
+    "Ring Ring phone-training book parked until evidence/source audit is complete (Data)",
+    "Elena product line ($97–$997): 11 specs stuck at Data review — only 3 cleared to BUILDING (ACC Starter Kit, Humanizer Stack, Agent Skills Library)"
   ],
   "inMotion": [
-    {
-      "who": "Joe",
-      "text": "1 idea Data killed (faceless-IG addendum, superseded) — quick archive, NOT build work."
-    },
-    {
-      "who": "Data",
-      "text": "Run Data review on 11 Elena product specs; hand Joe only the top 3 by leverage-to-effort."
-    },
-    {
-      "who": "Data",
-      "text": "Build Evidence Ledger template — unblocks website proof, Ring Ring claims, and offer credibility."
-    },
-    {
-      "who": "Data",
-      "text": "Review rendered VCE explainer + rule on 2 new ideas awaiting review (Hormozi lead-gen, ChatGPT Voice 2.0)."
-    },
-    {
-      "who": "Gene",
-      "text": "Build 3 Data-approved Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library."
-    },
-    {
-      "who": "Gene",
-      "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy pieces; run HeyGen-vs-Higgsfield face test, then render VCE-07-31-01."
-    }
+    { "who": "Data", "text": "Build Evidence Ledger template — the unblocker for website copy, Ring Ring claims, and offer credibility" },
+    { "who": "Data", "text": "Run Data review on 11 Elena product specs; promote only the top 3 to Joe (directive: do not hand Joe until review is done)" },
+    { "who": "Data", "text": "Clear 4 Gene-idea items awaiting Data review (2 Hormozi lead-gen, 2 ChatGPT-voice) + review VCE-2026-07-31-01 I² explainer, then route to Joe for render approval" },
+    { "who": "Data", "text": "Ratify expanded 13-OPERATING-CONTROLLER verdict spec; route the 4 Gene-estimated specs (Sales Analyst, Content Gravy, B2B Prospector, LinkedIn)" },
+    { "who": "Gene", "text": "Build 3 approved Elena products in order: ACC Starter Kit → Humanizer Stack → Agent Skills Library" },
+    { "who": "Gene", "text": "Prep Higgs render briefs for 4 Joe-approved Content Gravy items (approved for render; render still pending)" },
+    { "who": "Gene", "text": "Video Engine Week 1: 3 short vertical clips + HeyGen-vs-Higgsfield face test" },
+    { "who": "Gene", "text": "Prove session-start folder check, run AppSumo first test cycle, confirm Idea Dashboard status" },
+    { "who": "Joe", "text": "1 idea item Data says KILL/archive (faceless IG ADDENDUM 2 — superseded by Addendum 3) — quick clear, NOT build work" }
   ],
-  "systems": [
-    "Idea Queue",
-    "Content Gravy",
-    "Video Engine",
-    "Decisions log",
-    "Daily sweep",
-    "Board hourly"
-  ],
-  "parked": "LotSocial suppressed — parked, revisit 2026-08-30, no reopen trigger fired. Praeter Health, Upgrade Loop, Midnight Cognition held in backlog (Joe green-light only)."
+  "systems": ["Idea Queue","Content Gravy","Video Engine","Decisions log","Daily sweep","Board hourly"],
+  "parked": "LotSocial suppressed — parked, revisit Aug 30, 2026 (no reopen trigger fired). Praeter Health, Midnight Cognition, and Upgrade Loop remain Joe-gated backlog."
 }
