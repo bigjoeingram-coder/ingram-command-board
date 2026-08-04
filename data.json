@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 1:10 PM PT",
+  "updated": "2026-08-04 2:14 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -55,7 +55,7 @@
     },
     {
       "who": "Data",
-      "text": "Run Outlook reply strategy for the I2 outbound pilot through Composio; classify replies and draft response policy."
+      "text": "Write approved I2 outbound reply policy (8-category templates + classification) so supervised auto-send can be considered; Batch 2 sent, reply queue live."
     },
     {
       "who": "Data",
@@ -71,7 +71,7 @@
     },
     {
       "who": "Data",
-      "text": "4 new GENE ideas awaiting Data verdict (Gene pre-screened all as SKIP/unretrievable; none are build work)."
+      "text": "4 GENE ideas awaiting Data verdict — 3 Gene-SKIP, 1 Gene-IMPLEMENT (Hormozi lead-magnet). None built; Data verdict pending, not build work yet."
     }
   ],
   "systems": [
@@ -84,5 +84,5 @@
     "Outlook reply review",
     "LotSocial reopened"
   ],
-  "parked": "No longer parked: LotSocial is reopened as LotSocial Lite narrow test. Overnight build work allowed; public/customer-facing actions blocked until Joe approval."
+  "parked": "No longer parked: LotSocial is reopened as LotSocial Lite narrow test. Overnight/internal build work allowed; public/customer-facing actions blocked until Joe approval."
 }
