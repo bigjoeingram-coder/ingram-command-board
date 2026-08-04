@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LotSocial Lite</title>
+    <meta
+      name="description"
+      content="Paste a vehicle detail page and turn it into social-ready inventory copy in under 60 seconds."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <nav>
+          <strong>LotSocial Lite</strong>
+          <a href="#try">Try it</a>
+        </nav>
+        <div class="hero-grid">
+          <div>
+            <p class="eyebrow">Salesperson inventory posts</p>
+            <h1>Paste the car. Get the post.</h1>
+            <p class="lede">
+              Turn a vehicle detail page into clean social copy a salesperson can review, copy, and post from a phone.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#try">Generate a post</a>
+              <a class="button ghost" href="#pricing">$7/mo test price</a>
+            </div>
+          </div>
+          <div class="phone-card" aria-label="Example generated post">
+            <div class="phone-top"></div>
+            <h2>2024 Ford F-150 XLT</h2>
+            <p>
+              Just landed: a clean F-150 XLT with the right look, practical tech, and room for work or weekend plans.
+            </p>
+            <span>Message me for details or to check availability.</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="workflow" id="try">
+        <div class="section-heading">
+          <p class="eyebrow">Prototype</p>
+          <h2>Generate inventory copy</h2>
+          <p>
+            VDP extraction is simulated in this first public prototype. If extraction fails in production, the same manual fallback keeps the salesperson moving.
+          </p>
+        </div>
+
+        <div class="builder">
+          <form id="vehicleForm">
+            <label>
+              VDP URL
+              <input id="vdpUrl" type="url" placeholder="https://dealer.com/vehicle/..." />
+            </label>
+            <div class="two-col">
+              <label>
+                Year
+                <input id="year" placeholder="2024" />
+              </label>
+              <label>
+                Make
+                <input id="make" placeholder="Toyota" />
+              </label>
+            </div>
+            <div class="two-col">
+              <label>
+                Model
+                <input id="model" placeholder="Camry" />
+              </label>
+              <label>
+                Trim
+                <input id="trim" placeholder="SE" />
+              </label>
+            </div>
+            <div class="two-col">
+              <label>
+                Price
+                <input id="price" placeholder="$29,995" />
+              </label>
+              <label>
+                Mileage
+                <input id="mileage" placeholder="18,240" />
+              </label>
+            </div>
+            <label>
+              Key features
+              <textarea id="features" rows="3" placeholder="Leather, navigation, sunroof, one-owner, clean Carfax"></textarea>
+            </label>
+            <label>
+              Salesperson CTA
+              <input id="cta" value="Message me for details or to check availability." />
+            </label>
+            <button type="submit">Generate captions</button>
+          </form>
+
+          <div class="output-panel">
+            <div class="output-top">
+              <strong>Post variants</strong>
+              <button id="copyAll" type="button">Copy all</button>
+            </div>
+            <div id="outputs" class="outputs">
+              <p class="empty">Fill in a vehicle or paste a VDP URL to generate social-ready copy.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="rules">
+        <article>
+          <h3>Built for fast testing</h3>
+          <p>No CRM, no inventory sync, no direct social posting, no dealership admin console. The MVP tests one question: will salespeople pay for faster inventory posts?</p>
+        </article>
+        <article>
+          <h3>Source-grounded copy</h3>
+          <p>The production version should use only visible VDP facts. Missing fields stay missing. No invented discounts, no fake urgency, no unsupported warranty claims.</p>
+        </article>
+        <article id="pricing">
+          <h3>$7/month target</h3>
+          <p>Low-friction salesperson pricing. Annual option can be $70/year after the first user test confirms demand.</p>
+        </article>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
