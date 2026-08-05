@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 7:37 PM PT",
+  "updated": "2026-08-04 8:16 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -91,7 +91,7 @@
     },
     {
       "who": "Gene",
-      "text": "Three IG accounts now live via Composio (automotive @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Composio's IG default is now @thebdcgenius, and social-dispatch-daily hardcodes the automotive id without passing an account, so multi-account posting can mis-post to the wrong handle. Wire channel->account routing (automotive=instagram_padre-oaty, entrepreneur=instagram_arch-looper, BDC=instagram_codder-invite; entrepreneur NEVER on LinkedIn). Blocked on Joe picking the routing approach; no auto-posting until wired + Joe approves."
+      "text": "Three IG accounts live via Composio (automotive @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Channel->account routing is now WIRED and hardened: social-dispatch-daily passes the correct account id per channel (automotive/entrepreneur/BDC), so the mis-post-to-wrong-handle risk is closed; entrepreneur NEVER on LinkedIn. Remaining: Joe's go to enable live auto-posting; posting stays off until Joe approves."
     }
   ],
   "systems": [
@@ -103,7 +103,7 @@
     "Video Engine",
     "Outlook reply review",
     "LotSocial reopened",
-    "Social dispatch (multi-account routing — fix pending)"
+    "Social dispatch (multi-account routing — wired)"
   ],
   "parked": "Genuinly parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
 }
