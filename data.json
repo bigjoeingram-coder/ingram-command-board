@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 10:13 AM PT",
+  "updated": "2026-08-05 11:16 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -83,7 +83,7 @@
     },
     {
       "who": "Data",
-      "text": "4 Gene ideas awaiting Data verdict — all Data verdicts still blank. CHANGED: Hormozi lead-gen is now Gene-verdict IMPLEMENT (full 22k-word transcript retrieved via the dedicated connector; maps 1:1 onto the existing Sales Genius Pulse assessment — needs Data ratify, could reach Joe if YES). ChatGPT Voice 2.0 is Gene-verdict SKIP (off-stack/OpenAI — needs Data to close). The Faction / Mighty Networks (gated community, NEEDS JOE input) and IG reel ‘We Need to comply’ (login-gated, NEEDS JOE caption) both need Joe input to be evaluable. Faceless-IG Addendum-2 is DATA-NO/archived (superseded by Addendum 3; per Data, not a separate Joe decision)."
+      "text": "4 Gene ideas awaiting Data verdict — all Data verdicts still blank. CHANGED: Hormozi lead-gen is now Gene-verdict IMPLEMENT (full 22k-word transcript retrieved via the dedicated connector; maps 1:1 onto the existing Sales Genius Pulse assessment — needs Data ratify, could reach Joe if YES). ChatGPT Voice 2.0 is Gene-verdict SKIP (off-stack/OpenAI — needs Data to close). The Faction / Mighty Networks (gated community, NEEDS JOE input) and IG reel ‘We Need to comply’ (login-gated, NEEDS JOE caption) both need Joe input to be evaluable."
     },
     {
       "who": "Gene",
@@ -92,6 +92,10 @@
     {
       "who": "Gene",
       "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42."
+    },
+    {
+      "who": "Joe",
+      "text": "1 idea item Data marked KILL/archive — Faceless-IG theme-page Addendum-2 (DATA VERDICT: NO, superseded by Addendum 3). Quick clear/confirm archive; NOT build work."
     }
   ],
   "systems": [
