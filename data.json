@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 6:11 AM PT",
+  "updated": "2026-08-05 7:16 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -36,58 +36,58 @@
   "needsJoe": [
     {
       "n": "1",
-      "text": "Approve the Chief of Staff lead post + DM copy and pick the free Chief-of-Staff starter product the DM delivers, so the entrepreneur funnel goes live before Aug 10."
+      "text": "Approve the Chief of Staff lead post + DM copy so the entrepreneur funnel goes live before Aug 10. Free product + link are decided/LIVE; no DM auto-send tool exists, so first-test delivery is manual — your copy sign-off is the last gate."
     },
     {
       "n": "2",
-      "text": "QA the 3 built Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library) before any is marked LIVE."
+      "text": "QA the 3 built Elena starter products — ACC Starter Kit ($97), Humanizer Stack ($97), Agent Skills Library ($197, clean-room rebuild) — before any is marked LIVE. Each also needs a sales-page/description draft approved."
     },
     {
       "n": "3",
-      "text": "Give the go/no-go on dealer-prospector “Run Now” — 5,000 contacts are sitting idle awaiting your green light."
+      "text": "Give the go/no-go on dealer-prospector “Run Now” — ~5,000 contacts are sitting idle awaiting your green light."
     }
   ],
   "revenueBlocked": [
-    "Evidence Ledger proof classification still blocks stronger SalesGenius/I2 claims, the website rewrite, and Ring Ring proof language (BDCGenius evidence loaded within Data-approved wording).",
-    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA-path discipline before scaled traffic. Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate); remaining ~132 contacts held pending deliverability watch + Data reply policy.",
-    "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe."
+    "Website rewrite around the SalesGenius / I² assessment is still unbuilt. Evidence Ledger proof-language classification is now DONE (PUBLIC / QUALIFIED / INTERNAL / SOURCE-NEEDED separated), so the copy is unblocked — but the site conversion path stays incomplete until the assessment-CTA copy actually ships (owner: Data–Gene).",
+    "I² public funnel: Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate). Remaining ~132 contacts are held pending deliverability watch + Data’s approved reply policy before scaled traffic; CTA-path discipline still required.",
+    "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe (inbound-call rows are still SOURCE NEEDED in the Evidence Ledger; AutoAlert/data-mining evidence does not count as inbound-call proof)."
   ],
   "inMotion": [
     {
       "who": "Gene",
-      "text": "Sales-page/product-description drafts for the 3 clean-room-rebuilt Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library); builds done, awaiting Joe QA. Keep license/rights QA attached."
+      "text": "Sales-page/product-description drafts for the 3 clean-room-rebuilt Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library); builds done, awaiting Joe QA. Keep license/rights QA attached (White Beard material was excluded; rebuilt from Joe/II-original content)."
     },
     {
       "who": "Data",
-      "text": "Own I2 outbound reply strategy — Batch 2 sent, reply queue live; dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories (Gene proposed only ‘send info’ + ‘not interested’) for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
+      "text": "Own I² outbound reply strategy — Batch 2 SENT, reply queue live. Run the dry Outlook reply review for Batch 1/2, classify replies, and propose the first low-risk auto-send categories (Gene proposed only ‘send info’ + ‘not interested’) for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
     },
     {
       "who": "Gene",
-      "text": "Load the Data-delivered Evidence Ledger rows (Outlook + ChatGPT-share discovery: Elmore 2→7% close, Fresno BMW, KGF Carlsbad AutoAlert, KGF Buena Park YoY) as pending source-linked rows; public copy stays blocked until Data claim classification."
+      "text": "Assemble the Aug-10 dealership-funnel proof-pack DRAFT from PUBLIC-READY Evidence Ledger rows using exact approved wording (honor QUALIFIED-ONLY attribution + every FORBIDDEN note); verify both live diagnostics still render the approved countdown claims. Draft only — not customer-facing without Joe."
     },
     {
       "who": "Data",
-      "text": "Ratify public claim wording for Ken Grody Ford Buena Park YoY proof (gross +$488K, +14.4% gross/unit in a down market); frame as performance-during, not causation. Gene stages it as I2/BDCGenius funnel proof once Data + Joe approve."
+      "text": "Attach primary sources for the remaining SOURCE-NEEDED Evidence Ledger rows before they can go public — KGF 2025 volume-growth (reconcile +14% payload vs +11.4% Drive CSV) and the Ford awards/President’s-Award doc. The KGF 2026 profitability row is already ratified PUBLIC-READY and live on the SalesGenius scroll."
     },
     {
       "who": "Data",
-      "text": "Review the VCE-2026-07-31-01 I2 explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
+      "text": "Review the VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
     },
     {
       "who": "Codex",
-      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary. Data’s canonical spec is confirmed; architecture scoping can start now."
+      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app (extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary). Data’s canonical spec is confirmed; architecture scoping can start now (internal/overnight build only)."
     },
     {
       "who": "Gene",
-      "text": "Render or prep the 4 Content Gravy items already Joe-approved for render; empty render links are stale."
+      "text": "Render or prep the 4 Content Gravy items already Joe-approved for render (The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive); Higgs render-link columns are still empty."
     },
     {
       "who": "Data",
-      "text": "4 GENE ideas awaiting Data verdict — 3 Gene-SKIP (The Faction gated Mighty Networks community, IG reel “we need to comply” unretrievable, ChatGPT Voice 2.0 + Codex out-of-stack) + 1 Gene-IMPLEMENT (Hormozi “1000s of leads any niche” — full transcript now retrieved, maps onto the existing Sales Genius Pulse reveal-a-problem funnel). None built; all Data verdicts still blank (pending), not build work."
+      "text": "4 Gene ideas awaiting Data verdict — all Gene-verdict SKIP, none are build work: The Faction / Mighty Networks (gated community, NEEDS JOE input) and IG reel ‘We Need to comply’ (login-gated, NEEDS JOE caption) both need Joe input to be evaluable; Hormozi lead-gen (transcript blocked, unscoreable) and ChatGPT Voice 2.0 (off-stack/OpenAI) need Data to ratify/close. All Data verdicts still blank."
     },
     {
       "who": "Gene",
-      "text": "Three IG accounts live via Composio (automotive @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Channel->account routing is now WIRED and hardened: social-dispatch-daily passes the correct account id per channel (automotive/entrepreneur/BDC), so the mis-post-to-wrong-handle risk is closed; entrepreneur NEVER on LinkedIn. Remaining: Joe's go to enable live auto-posting; posting stays off until Joe approves."
+      "text": "Three IG accounts live via Composio (automotive @joe_ingram_sales, entrepreneur @AI4entrepreneurs, BDC @thebdcgenius). Channel→account routing is WIRED and hardened in social-dispatch-daily (entrepreneur NEVER on LinkedIn), so mis-post-to-wrong-handle risk is closed. Remaining: Joe’s go to enable live auto-posting; posting stays off until Joe approves."
     },
     {
       "who": "Gene",
