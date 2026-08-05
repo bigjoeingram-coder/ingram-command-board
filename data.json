@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-04 7:19 PM PT",
+  "updated": "2026-08-04 7:37 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Project manager loop is active; launch execution is pacing with specific Joe gates and overnight/internal build work.",
-    "focus": "Convert built assets into shippable funnels without blending entrepreneur and dealership messages or letting dashboard drift hide blockers.",
+    "status": "Project manager loop is active, but launch execution still has open gates.",
+    "focus": "Convert built assets into shippable funnels without letting dashboard drift hide blockers.",
     "pacing": [
       {
         "lane": "AI Chief of Staff Starter Kit",
@@ -19,12 +19,12 @@
       {
         "lane": "SalesGenius / I2 Funnel",
         "state": "Overnight candidate",
-        "next": "Evidence Ledger proof classification is DONE (public-ready vs qualified separated, 2026-08-04). Approved claims are live on SalesGenius + BDCGenius countdown scrolls. Overnight: assemble the Aug-10 dealership-funnel proof pack from PUBLIC READY rows and exact QUALIFIED ONLY wording; honor every forbidden note. Batch 2 outbound sent; remaining contacts held pending deliverability watch + reply policy."
+        "next": "Evidence Ledger proof classification is DONE (public-ready vs qualified separated, 2026-08-04). Approved public claims now live on the SalesGenius + BDCGenius countdown scrolls. Overnight: assemble the Aug-10 dealership-funnel proof pack from PUBLIC-READY rows (exact approved wording, honor forbidden notes). Batch 2 outbound A/B ready for Gene once Joe approves send."
       },
       {
         "lane": "BDCGenius",
         "state": "Pacing",
-        "next": "BDCGenius is live. Evidence rows support cautious BDC parity/process claims. Remaining work: maintain claim discipline, verify final domain/CTA path, and keep diagnostic-to-meeting packet rules intact."
+        "next": "BDCGenius is live. Evidence rows support cautious BDC parity claim. Remaining work: maintain claim discipline and final domain/CTA checks."
       },
       {
         "lane": "LotSocial",
@@ -36,7 +36,7 @@
   "needsJoe": [
     {
       "n": "1",
-      "text": "Approve the Chief of Staff lead post + DM copy and confirm the free Chief-of-Staff starter-product link, so the entrepreneur funnel can go live before Aug 10."
+      "text": "Approve the Chief of Staff lead post + DM copy and pick the free Chief-of-Staff starter product the DM delivers, so the entrepreneur funnel goes live before Aug 10."
     },
     {
       "n": "2",
@@ -44,39 +44,38 @@
     },
     {
       "n": "3",
-      "text": "Give the go/no-go on dealer-prospector Run Now -- 5,000 contacts are sitting idle awaiting your green light."
+      "text": "Give the go/no-go on dealer-prospector “Run Now” — 5,000 contacts are sitting idle awaiting your green light."
     }
   ],
   "revenueBlocked": [
-    "Entrepreneur funnel is not live until Joe approves the Chief of Staff lead post, DM copy, and final free-product delivery link.",
-    "Elena starter products cannot be marked LIVE until Joe QA clears the ACC Starter Kit, Humanizer Stack, and Agent Skills Library under the license/rights gate.",
-    "Remaining dealership outbound scale is held pending deliverability watch and Data's I2 reply policy; auto-send remains disabled until Joe authorizes specific low-risk categories.",
+    "Evidence Ledger proof classification still blocks stronger SalesGenius/I2 claims, the website rewrite, and Ring Ring proof language (BDCGenius evidence loaded within Data-approved wording).",
+    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA-path discipline before scaled traffic. Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate); remaining ~132 contacts held pending deliverability watch + Data reply policy.",
     "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe."
   ],
   "inMotion": [
-    {
-      "who": "Gene",
-      "text": "Assemble the Aug-10 dealership proof-pack draft from Evidence Ledger PUBLIC READY rows plus exact QUALIFIED ONLY wording; no INTERNAL ONLY or SOURCE NEEDED claims; no customer-facing publish without Joe approval."
-    },
-    {
-      "who": "Gene",
-      "text": "Verify both live diagnostic domains render the approved countdown claims and keep awards / President's Award copy off-site until the Ford award source is attached and classified."
-    },
     {
       "who": "Gene",
       "text": "Sales-page/product-description drafts for the 3 clean-room-rebuilt Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library); builds done, awaiting Joe QA. Keep license/rights QA attached."
     },
     {
       "who": "Data",
-      "text": "Own I2 outbound reply strategy -- Batch 2 sent, reply queue live; dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories (Gene proposed only 'send info' + 'not interested') for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
+      "text": "Own I2 outbound reply strategy — Batch 2 sent, reply queue live; dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories (Gene proposed only ‘send info’ + ‘not interested’) for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
+    },
+    {
+      "who": "Gene",
+      "text": "Load the Data-delivered Evidence Ledger rows (Outlook + ChatGPT-share discovery: Elmore 2→7% close, Fresno BMW, KGF Carlsbad AutoAlert, KGF Buena Park YoY) as pending source-linked rows; public copy stays blocked until Data claim classification."
     },
     {
       "who": "Data",
-      "text": "Review the VCE-2026-07-31-01 I2 explainer before its HeyGen render link expires around Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
+      "text": "Ratify public claim wording for Ken Grody Ford Buena Park YoY proof (gross +$488K, +14.4% gross/unit in a down market); frame as performance-during, not causation. Gene stages it as I2/BDCGenius funnel proof once Data + Joe approve."
+    },
+    {
+      "who": "Data",
+      "text": "Review the VCE-2026-07-31-01 I2 explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
     },
     {
       "who": "Codex",
-      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary. Data's canonical spec is confirmed; architecture scoping can start now."
+      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary. Data’s canonical spec is confirmed; architecture scoping can start now."
     },
     {
       "who": "Gene",
@@ -84,11 +83,15 @@
     },
     {
       "who": "Data",
-      "text": "4 Gene ideas awaiting Data verdict -- 3 Gene-SKIP, 1 Gene-IMPLEMENT (Hormozi lead-magnet). None built; Data verdict pending, not build work yet."
+      "text": "4 GENE ideas awaiting Data verdict — 3 Gene-SKIP, 1 Gene-IMPLEMENT (Hormozi lead-magnet). None built; Data verdict pending, not build work yet."
     },
     {
       "who": "Joe",
-      "text": "1 idea item Data says KILL/archive (faceless-IG theme-page, BDC-only scope) -- quick clear, NOT build work."
+      "text": "1 idea item Data says KILL/archive (faceless-IG theme-page, BDC-only scope — DATA VERDICT NO) — quick clear, NOT build work."
+    },
+    {
+      "who": "Gene",
+      "text": "Three IG accounts now live via Composio (automotive @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Composio's IG default is now @thebdcgenius, and social-dispatch-daily hardcodes the automotive id without passing an account, so multi-account posting can mis-post to the wrong handle. Wire channel->account routing (automotive=instagram_padre-oaty, entrepreneur=instagram_arch-looper, BDC=instagram_codder-invite; entrepreneur NEVER on LinkedIn). Blocked on Joe picking the routing approach; no auto-posting until wired + Joe approves."
     }
   ],
   "systems": [
@@ -99,7 +102,8 @@
     "Evidence Ledger",
     "Video Engine",
     "Outlook reply review",
-    "LotSocial reopened"
+    "LotSocial reopened",
+    "Social dispatch (multi-account routing — fix pending)"
   ],
-  "parked": "Genuinely parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision -- parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked -- reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
+  "parked": "Genuinly parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
 }
