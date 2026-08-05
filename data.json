@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 5:11 PM PT",
+  "updated": "2026-08-04 6:41 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -44,12 +44,12 @@
     },
     {
       "n": "3",
-      "text": "Approve the I2 outbound Batch 2 send/link so Gene can run the A/B — Data flags it as an open Aug-10 revenue gate."
+      "text": "Give the go/no-go on dealer-prospector “Run Now” — 5,000 contacts are sitting idle awaiting your green light."
     }
   ],
   "revenueBlocked": [
-    "Evidence Ledger proof classification still blocks stronger SalesGenius/I2 claims, the website rewrite, and Ring Ring proof language (BDCGenius evidence now loaded within Data-approved wording).",
-    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA-path discipline before scaled traffic; Batch 2 outbound pending Joe send approval.",
+    "Evidence Ledger proof classification still blocks stronger SalesGenius/I2 claims, the website rewrite, and Ring Ring proof language (BDCGenius evidence loaded within Data-approved wording).",
+    "SalesGenius.FYI / I2 public funnel still needs final proof-language classification and CTA-path discipline before scaled traffic. Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate); remaining ~132 contacts held pending deliverability watch + Data reply policy.",
     "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe."
   ],
   "inMotion": [
@@ -59,19 +59,23 @@
     },
     {
       "who": "Data",
-      "text": "Own I2 outbound reply strategy — dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories for Joe approval."
+      "text": "Own I2 outbound reply strategy — Batch 2 sent, reply queue live; dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories (Gene proposed only ‘send info’ + ‘not interested’) for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
+    },
+    {
+      "who": "Gene",
+      "text": "Load the Data-delivered Evidence Ledger rows (Outlook + ChatGPT-share discovery: Elmore 2→7% close, Fresno BMW, KGF Carlsbad AutoAlert, KGF Buena Park YoY) as pending source-linked rows; public copy stays blocked until Data claim classification."
     },
     {
       "who": "Data",
-      "text": "Point Gene to source reports for the empty Evidence Ledger proof categories (inbound sales calls, internet-sales follow-up, data-mining/prospecting) so claims unblock."
+      "text": "Ratify public claim wording for Ken Grody Ford Buena Park YoY proof (gross +$488K, +14.4% gross/unit in a down market); frame as performance-during, not causation. Gene stages it as I2/BDCGenius funnel proof once Data + Joe approve."
     },
     {
       "who": "Data",
-      "text": "Ratify public claim wording for Ken Grody Ford Buena Park YoY proof (down-market performance); Gene stages it as I2/BDCGenius funnel proof once Data + Joe approve."
+      "text": "Review the VCE-2026-07-31-01 I2 explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
     },
     {
       "who": "Codex",
-      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary."
+      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app with extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary. Data’s canonical spec is confirmed; architecture scoping can start now."
     },
     {
       "who": "Gene",
@@ -89,12 +93,12 @@
   "systems": [
     "Controller sweeps",
     "Executive handoff bridge",
-    "Command board",
+    "Command board (schema fail-closed writer)",
     "Elena queue",
     "Evidence Ledger",
     "Video Engine",
     "Outlook reply review",
     "LotSocial reopened"
   ],
-  "parked": "Genuinely parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
+  "parked": "Genuinely parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
 }
