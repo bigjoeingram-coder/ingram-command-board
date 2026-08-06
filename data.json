@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 07:06 AM PT",
+  "updated": "2026-08-06 08:05 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -75,6 +75,10 @@
     {
       "who": "Gene",
       "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet for AI Chief of Staff Starter Kit: lead post, comment trigger language, manual DM reply, delivery follow-up, tracking notes, and final asset/link references; write the final doc link into result_link."
+    },
+    {
+      "who": "Gene",
+      "text": "Humanizer Stack — Update Humanizer external positioning: use Persona Match-style naming, position it as the second funnel asset after AI Chief of Staff Starter Kit, and avoid leading with Humanizer as the public-facing front door."
     },
     {
       "who": "Gene",
