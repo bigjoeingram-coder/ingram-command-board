@@ -1,105 +1,89 @@
 {
-  "updated": "2026-08-06 10:24 AM PT",
+  "updated": "2026-08-06 3:25 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Project manager loop is active, but launch execution still has open gates.",
-    "focus": "Convert built assets into shippable funnels without letting dashboard drift hide blockers.",
+    "status": "Launch system is moving again; public board HTML deploy is fixed, data snapshot refreshed manually while durable writer is repaired.",
+    "focus": "Finish Data/Codex review gates and convert the Operating Partner assets into an approved launch path without public posting until Joe approves.",
     "pacing": [
       {
-        "lane": "AI Chief of Staff Starter Kit",
+        "lane": "AI Operating Partner Starter Kit",
         "state": "Pacing",
-        "next": "Free product chosen. Lock canonical download link, delivery path, DM/comment flow, and tracking. Launch-copy packet (lead post, comment trigger, DM reply, delivery follow-up, tracking) is NOT built yet - Gene owes it (RELAY-2026-08-05-012, result_link blank). Sequence: Gene builds packet -> Data/CSO review -> THEN Joe approves. No Joe copy-approval gate until the packet exists and Data has reviewed it (Data confirmed 2026-08-06 he has NOT reviewed it)."
+        "next": "Public name locked. Guided-install kit built with one master prompt and one IMPLEMENT gate. Launch packet rebuilt under Operating Partner name. Next: Data/Codex smoke-test kit flow and review launch copy before Joe approval."
+      },
+      {
+        "lane": "Persona Match System",
+        "state": "Pacing",
+        "next": "Draft fast-follow packet built as asset #2. Staged behind Operating Partner launch. No landing/video/go-live until Joe approval."
       },
       {
         "lane": "Elena Starter Products",
         "state": "Pacing",
-        "next": "ACC Starter Kit, Humanizer Stack, and Agent Skills Library were clean-room/built. Joe QA and sales-page/live gate still required. White Beard blocker is no longer current."
+        "next": "Humanizer approved. ACC and Agent Skills still waiting Data/Codex retest before Joe QA or live packaging."
       },
       {
         "lane": "SalesGenius / I2 Funnel",
-        "state": "Overnight candidate",
-        "next": "Evidence Ledger proof classification is DONE (public-ready vs qualified separated, 2026-08-04). Approved public claims now live on the SalesGenius + BDCGenius countdown scrolls. Overnight: assemble the Aug-10 dealership-funnel proof pack from PUBLIC-READY rows (exact approved wording, honor forbidden notes). Batch 2 outbound A/B ready for Gene once Joe approves send."
-      },
-      {
-        "lane": "BDCGenius",
         "state": "Pacing",
-        "next": "BDCGenius is live. Evidence rows support cautious BDC parity claim. Remaining work: maintain claim discipline and final domain/CTA checks."
+        "next": "Evidence proof pack drafted from public-ready and qualified rows. Data claim review still needed before customer-facing proof language ships."
       },
       {
         "lane": "LotSocial",
         "state": "Overnight candidate",
-        "next": "Reopened as narrow LotSocial Lite test. Build can proceed overnight as internal app/prototype work only; no public launch, billing, ads, or customer send without Joe approval."
+        "next": "Still scoped as internal prototype work: VDP extraction, fallback paste/manual entry, captions, downloadable branded video. No public launch, billing, ads, or customer send."
       }
     ]
   },
   "needsJoe": [],
   "revenueBlocked": [
-    "Website rewrite around the SalesGenius / I² assessment is still unbuilt. Evidence Ledger proof-language classification is now DONE (PUBLIC / QUALIFIED / INTERNAL / SOURCE-NEEDED separated), so the copy is unblocked — but the site conversion path stays incomplete until the assessment-CTA copy actually ships (owner: Data–Gene).",
-    "I² public funnel: Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate). Remaining ~132 contacts are held pending deliverability watch + Data’s approved reply policy before scaled traffic; CTA-path discipline still required.",
-    "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe (inbound-call rows are still SOURCE NEEDED in the Evidence Ledger; AutoAlert/data-mining evidence does not count as inbound-call proof)."
+    "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
+    "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review is still required before stronger website/Ring Ring/BDCGenius claims ship.",
+    "Command board automation: GitHub Pages HTML deploy recovered, but data refresh writer/worker is still not durable; manual data snapshot refreshed at 3:25 PM PT."
   ],
   "inMotion": [
     {
       "who": "Data/Codex",
-      "text": "Product QA — Retest ACC Starter Kit after Gene fixes and return PASS/FAIL/REVISION NEEDED"
+      "text": "Retest ACC Starter Kit and return PASS / FAIL / REVISION NEEDED."
     },
     {
       "who": "Data/Codex",
-      "text": "Product QA — Retest Agent Skills Library packaging and return PASS/FAIL/REVISION NEEDED"
+      "text": "Retest Agent Skills Library packaging and return PASS / FAIL / REVISION NEEDED."
     },
     {
       "who": "Data/Codex",
-      "text": "AI Chief of Staff Starter Kit — Smoke test free AI Chief of Staff Starter Kit delivery path and return PASS/FAIL/REVISION NEEDED"
-    },
-    {
-      "who": "Gene",
-      "text": "Evidence Ledger — Draft proof pack from Evidence Ledger public-ready and qualified-only rows"
-    },
-    {
-      "who": "Codex",
-      "text": "LotSocial — Scope real LotSocial prototype with VDP extraction, manual/paste fallback, caption generation, and downloadable branded video"
-    },
-    {
-      "who": "Gene",
-      "text": "Content Gravy — Prep Higgs render briefs and produce renders for the 4 JOE-APPROVED-FOR-RENDER Content Gravy posts (CG-2026-07-30-01 The Average Default; CG-2026-07-30-02 Systems That Compound; CG-2026-07-05-01 Never Be a Script; CG-2026-08-03-01 Comfort Is Expensive), then write the Higgs render link back into the Content Gravy tracker."
+      "text": "Smoke-test AI Operating Partner guided-install flow: one master prompt, one-question-at-a-time interview, single IMPLEMENT gate, no fabricated answers."
     },
     {
       "who": "Data/Codex",
-      "text": "Gene Idea Queue — Write DATA VERDICT + notes + timestamp on the 6 Gene Idea Queue items at PENDING DATA REVIEW; prioritize the IMPLEMENT item 5 Apps Cancelled Using Claude Code (SaaS-stack audit, real internal value), then promote/kill/park each per 13-OPERATING-CONTROLLER rules."
-    },
-    {
-      "who": "Gene",
-      "text": "Humanizer Stack — Use the revised voice-first Humanizer setup language in sales copy, final packaging, and any product description. Do not describe the quiz as primarily typed."
-    },
-    {
-      "who": "Gene",
-      "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet for AI Chief of Staff Starter Kit: lead post, comment trigger language, manual DM reply, delivery follow-up, tracking notes, and final asset/link references; write the final doc link into result_link."
-    },
-    {
-      "who": "Gene",
-      "text": "Humanizer Stack — Update Humanizer external positioning: use Persona Match-style naming, position it as the second funnel asset after AI Chief of Staff Starter Kit, and avoid leading with Humanizer as the public-facing front door."
-    },
-    {
-      "who": "Gene",
-      "text": "Persona Match System — Build Persona Match System free-asset fast-follow reusing existing Chief-of-Staff rails: (1) landing page + email capture with segmentation tag (already-creating-with-AI segment) feeding paid ecosystem; (2) comment-to-DM trigger + tracker; (3) HeyGen casual-avatar implementation video, entrepreneur channel only (IG @askjoeingram + Facebook, never LinkedIn/X); (4) one-line no-resale license reframe for free recipients. Apply 'Persona Match System' public naming across all assets; fold in row 011 voice-first setup language."
+      "text": "Review AI Operating Partner launch packet before Joe sees final copy: lead post, follow request, DM delivery, follow-up, landing headline."
     },
     {
       "who": "Data",
-      "text": "Video Content Engine — Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (awaiting relay WAITING_JOE promotion)"
+      "text": "Review VCE I2 explainer before HeyGen render link expires around Aug 7, then hand to Joe for render/publish approval."
+    },
+    {
+      "who": "Data/Codex",
+      "text": "Clear six Gene Idea Queue verdicts; oldest open handoff remains stale and should not stay invisible."
+    },
+    {
+      "who": "Codex",
+      "text": "LotSocial scope remains due: real prototype path with VDP extraction, fallback entry, captions, and downloadable branded video."
+    },
+    {
+      "who": "Gene",
+      "text": "Content Gravy render briefs are staged; Higgsfield render is manual and one source conflict must be reconciled before rendering 'Never Be a Script'."
     }
   ],
   "systems": [
+    "Relay Queue active",
     "Controller sweeps",
-    "Executive handoff bridge",
-    "Command board (schema fail-closed writer)",
-    "Elena queue",
-    "Evidence Ledger",
-    "Video Engine",
-    "Outlook reply review",
-    "LotSocial reopened",
-    "Social dispatch (multi-account routing — wired)",
-    "HANDOFF_ACK_STALE: RELAY-2026-08-05-010 (Data/Codex) OPEN >2 working hrs — needs ack"
+    "Command board HTML deploy recovered",
+    "Command board data refreshed manually",
+    "Operating Partner rename locked",
+    "Guided-install kit built",
+    "Launch packet rebuilt",
+    "Persona Match staged",
+    "Evidence proof pack drafted",
+    "LotSocial reopened"
   ],
-  "parked": "Genuinely parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
+  "parked": "Parked/backlog: Ring Ring remains evidence-ledger-only until inbound-call rows are source-ready; Praeter Phase 1 is separate; LinkedIn Premium vs Sales Navigator deferred 30 days. LotSocial is not parked; it is an internal overnight prototype candidate with public actions blocked."
 }
