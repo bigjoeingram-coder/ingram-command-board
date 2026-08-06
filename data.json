@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 5:12 PM PT",
+  "updated": "2026-08-05 5:20 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -40,7 +40,7 @@
     },
     {
       "n": "2",
-      "text": "QA the 3 built Elena starter products — ACC Starter Kit ($97), Humanizer Stack ($97), Agent Skills Library ($197, clean-room rebuild) — before any is marked LIVE. Each also needs a sales-page/description draft approved."
+      "text": "QA Humanizer Stack ($97) — SMOKE TEST PASSED - READY FOR JOE QA. Before/after sample staged (QA-SAMPLE-before-after.md); approve or flag the voice, then it needs a sales-page draft. ACC Starter Kit and Agent Skills Library are NOT in your queue yet — both are WAITING DATA/CODEX RETEST (see In Motion)."
     },
     {
       "n": "3",
@@ -54,8 +54,16 @@
   ],
   "inMotion": [
     {
+      "who": "Data",
+      "text": "ACC Starter Kit ($97) — Gene applied the SMOKE TEST FAILED fixes (internal tool names stripped, Connector Readiness Gate + in-place test added before any Drive write, footer + setup PDF resolved; 7 files, no dupes). STATUS: WAITING DATA/CODEX RETEST. Re-run the smoke test; do NOT route to Joe until it returns SMOKE TEST PASSED - READY FOR JOE QA."
+    },
+    {
+      "who": "Data",
+      "text": "Agent Skills Library ($197) — Gene applied the PACKAGING REVISION (EXAMPLES.md with real I/O for all 10 agents, START-HERE first-win path + which-agent decision tree, LIBRARY-INDEX). STATUS: WAITING DATA/CODEX RETEST. Re-run the smoke test; also a Data re-pricing call — 10 original clean-room agents, not '20+', so confirm $197 or adjust."
+    },
+    {
       "who": "Gene",
-      "text": "Sales-page/product-description drafts for the 3 clean-room-rebuilt Elena starter products (ACC Starter Kit, Humanizer Stack, Agent Skills Library); builds done, awaiting Joe QA. Keep license/rights QA attached (White Beard material was excluded; rebuilt from Joe/II-original content)."
+      "text": "Sales-page/product-description drafts for the Elena starter products — Gene's remaining build item before any goes LIVE. Humanizer is QA-ready now; ACC + Agent Skills get their pages once they pass Data/Codex retest."
     },
     {
       "who": "Data",
