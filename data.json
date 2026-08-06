@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 7:20 PM PT",
+  "updated": "2026-08-05 8:03 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -36,11 +36,7 @@
   "needsJoe": [
     {
       "n": "1",
-      "text": "QA Humanizer Stack ($97) — SMOKE TEST PASSED - READY FOR JOE QA. Before/after sample staged (QA-SAMPLE-before-after.md); approve or flag the voice, then it needs a sales-page draft. ACC Starter Kit and Agent Skills Library are NOT in your queue yet — both are WAITING DATA/CODEX RETEST (see In Motion)."
-    },
-    {
-      "n": "2",
-      "text": "Give the go/no-go on dealer-prospector “Run Now” — ~5,000 contacts are sitting idle awaiting your green light."
+      "text": "Product QA — QA Humanizer Stack sample and approve/request revision"
     }
   ],
   "revenueBlocked": [
@@ -50,56 +46,60 @@
   ],
   "inMotion": [
     {
-      "who": "Data",
-      "text": "AI Chief of Staff free starter product — Joe routed it to Data for an end-to-end PRODUCT smoke test before go-live (same gate applied to ACC / Humanizer / Agent Skills): free link delivers the correct asset via one canonical /view, deliverable complete/on-brand/free of II-internal context, DM + comment→DM manual fallback coherent for the entrepreneur audience, CTA discipline holds. data_verdict pending. On PASS it advances to Joe QA + final DM-copy approval and lead-post pick for go-live; NOT a Joe gate until it returns SMOKE TEST PASSED."
+      "who": "Data/Codex",
+      "text": "Product QA — Retest ACC Starter Kit after Gene fixes and return PASS/FAIL/REVISION NEEDED (WAITING DATA/CODEX RETEST; not a Joe gate until SMOKE TEST PASSED)"
     },
     {
-      "who": "Data",
-      "text": "ACC Starter Kit ($97) — Gene applied the SMOKE TEST FAILED fixes (internal tool names stripped, Connector Readiness Gate + in-place test added before any Drive write, footer + setup PDF resolved; 7 files, no dupes). STATUS: WAITING DATA/CODEX RETEST. Re-run the smoke test; do NOT route to Joe until it returns SMOKE TEST PASSED - READY FOR JOE QA."
+      "who": "Data/Codex",
+      "text": "Product QA — Retest Agent Skills Library packaging and return PASS/FAIL/REVISION NEEDED; also confirm $197 (10 clean-room agents, not '20+')"
     },
     {
-      "who": "Data",
-      "text": "Agent Skills Library ($197) — Gene applied the PACKAGING REVISION (EXAMPLES.md with real I/O for all 10 agents, START-HERE first-win path + which-agent decision tree, LIBRARY-INDEX). STATUS: WAITING DATA/CODEX RETEST. Re-run the smoke test; also a Data re-pricing call — 10 original clean-room agents, not '20+', so confirm $197 or adjust."
-    },
-    {
-      "who": "Gene",
-      "text": "Sales-page/product-description drafts for the Elena starter products — Gene's remaining build item before any goes LIVE. Humanizer is QA-ready now; ACC + Agent Skills get their pages once they pass Data/Codex retest."
-    },
-    {
-      "who": "Data",
-      "text": "Own I² outbound reply strategy — Batch 2 SENT, reply queue live. Run the dry Outlook reply review for Batch 1/2, classify replies, and propose the first low-risk auto-send categories (Gene proposed only ‘send info’ + ‘not interested’) for Joe approval. Auto-send stays disabled until policy + Joe sign-off."
+      "who": "Data/Codex",
+      "text": "AI Chief of Staff Starter Kit — Smoke test free delivery path (canonical /view link, DM+comment fallback, CTA discipline) and return PASS/FAIL/REVISION NEEDED before go-live"
     },
     {
       "who": "Gene",
-      "text": "Assemble the Aug-10 dealership-funnel proof-pack DRAFT from PUBLIC-READY Evidence Ledger rows using exact approved wording (honor QUALIFIED-ONLY attribution + every FORBIDDEN note); verify both live diagnostics still render the approved countdown claims. Draft only — not customer-facing without Joe."
-    },
-    {
-      "who": "Data",
-      "text": "Attach primary sources for the remaining SOURCE-NEEDED Evidence Ledger rows before they can go public — KGF 2025 volume-growth (reconcile +14% payload vs +11.4% Drive CSV) and the Ford awards/President’s-Award doc. The KGF 2026 profitability row is already ratified PUBLIC-READY and live on the SalesGenius scroll."
-    },
-    {
-      "who": "Data",
-      "text": "Review the VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)."
+      "text": "Evidence Ledger (P0) — Draft Aug-10 proof pack from PUBLIC-READY + qualified-only rows; honor qualified-only attribution and every FORBIDDEN note. Draft only, not customer-facing without Joe"
     },
     {
       "who": "Codex",
-      "text": "Scope LotSocial Lite as a real VDP-to-caption/video app (extractor, manual fallback, branded downloadable output, and a hard no-public-launch boundary). Data’s canonical spec is confirmed; architecture scoping can start now (internal/overnight build only)."
+      "text": "LotSocial — Scope real LotSocial Lite prototype (VDP extraction, manual/paste fallback, caption/video output); internal/overnight build only, hard no-public-launch boundary"
     },
     {
       "who": "Gene",
-      "text": "Render or prep the 4 Content Gravy items already Joe-approved for render (The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive); Higgs render-link columns are still empty."
+      "text": "Operating Controller (P0) — Wire nightly 11:57 PM PT master markdown closeout (INGRAM-OS-DAILY-MASTER-UPDATE-YYYY-MM-DD.md) from daily completed work; status-write only, no approve/publish/spend"
+    },
+    {
+      "who": "Gene",
+      "text": "Content Gravy — Prep Higgs render briefs + renders for the 4 Joe-approved posts (The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive), then write render links back to tracker; no publish without Joe"
+    },
+    {
+      "who": "Data/Codex",
+      "text": "Gene Idea Queue — Write DATA VERDICT on the 6 items at PENDING DATA REVIEW; prioritize the IMPLEMENT '5 Apps Cancelled Using Claude Code' SaaS-audit, then promote/kill/park each per controller rules"
+    },
+    {
+      "who": "Gene",
+      "text": "Humanizer Stack — Use revised voice-first setup language in sales copy/packaging/description (spoken preferred, typing fallback); do not mark LIVE until Joe QA + sales-page pass"
     },
     {
       "who": "Data",
-      "text": "6 Gene ideas awaiting Data verdict — every DATA VERDICT field is still blank (Gene-verdict only; none Data-approved, so none are build work yet). New 2026-08-05: '5 apps cancelled using Claude Code' (Gene-verdict IMPLEMENT — cancel-and-replace SaaS shortlist; Data to confirm, then Joe owns the cancel) and '5 AI design skills' reel by AI with Mariah (Gene-verdict CANNOT CONFIRM — the five skills are only shown in-video; needs Joe to send the caption or a 20-sec screen-record). Prior 4 all Gene-verdict SKIP: Hormozi lead-gen (unscoreable — transcript blocked from the sandbox IP), ChatGPT Voice 2.0 (off-stack/OpenAI), The Faction / Mighty Networks (gated community, NEEDS JOE input), IG reel 'We Need to comply' (login-gated, NEEDS JOE caption)."
+      "text": "I² outbound reply strategy — Batch 2 SENT, reply queue live. Run dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories ('send info' + 'not interested') for Joe approval. Auto-send stays disabled until policy + Joe sign-off"
+    },
+    {
+      "who": "Data",
+      "text": "Attach primary sources for remaining SOURCE-NEEDED Evidence Ledger rows before they can go public — KGF 2025 volume-growth (reconcile +14% payload vs +11.4% CSV) and the Ford awards/President's-Award doc"
+    },
+    {
+      "who": "Data",
+      "text": "Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)"
     },
     {
       "who": "Gene",
-      "text": "Three IG accounts live via Composio (automotive @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Channel→account routing is WIRED and hardened in social-dispatch-daily (entrepreneur NEVER on LinkedIn), so mis-post-to-wrong-handle risk is closed. Remaining: Joe’s go to enable live auto-posting; posting stays off until Joe approves."
+      "text": "Three IG accounts live via Composio (auto @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Channel→account routing wired/hardened; auto-posting stays off until Joe's go"
     },
     {
       "who": "Gene",
-      "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42."
+      "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42"
     }
   ],
   "systems": [
