@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 11:11 PM PT",
+  "updated": "2026-08-06 12:04 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -62,31 +62,31 @@
     },
     {
       "who": "Gene",
-      "text": "Content Gravy — Prep Higgs render briefs and produce renders for the 4 JOE-APPROVED-FOR-RENDER Content Gravy posts (CG-2026-07-30-01 The Average Default; CG-2026-07-30-02 Systems That Compound; CG-2026-07-05-01 Never Be a Script; CG-2026-08-03-01 Comfort Is Expensive), then write the Higgs render link back into the Content Gravy tracker."
+      "text": "Content Gravy — Prep Higgs render briefs and produce renders for the 4 JOE-APPROVED-FOR-RENDER Content Gravy posts (The Average Default; Systems That Compound; Never Be a Script; Comfort Is Expensive), then write the Higgs render link back into the tracker"
     },
     {
       "who": "Data/Codex",
-      "text": "Gene Idea Queue — Write DATA VERDICT + notes + timestamp on the 6 Gene Idea Queue items at PENDING DATA REVIEW; prioritize the IMPLEMENT item 5 Apps Cancelled Using Claude Code (SaaS-stack audit, real internal value), then promote/kill/park each per 13-OPERATING-CONTROLLER rules."
+      "text": "Gene Idea Queue — Write DATA VERDICT + notes + timestamp on the 6 PENDING DATA REVIEW items; prioritize the IMPLEMENT item (5 Apps Cancelled Using Claude Code — SaaS-stack audit), then promote/kill/park each"
     },
     {
       "who": "Gene",
-      "text": "Humanizer Stack — Use the revised voice-first Humanizer setup language in sales copy, final packaging, and any product description. Do not describe the quiz as primarily typed."
+      "text": "Humanizer Stack — Use the revised voice-first Humanizer setup language in sales copy, packaging, and product descriptions; do not describe the quiz as primarily typed"
     },
     {
       "who": "Gene",
-      "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet for AI Chief of Staff Starter Kit: lead post, comment trigger language, manual DM reply, delivery follow-up, tracking notes, and final asset/link references; write the final doc link into result_link."
+      "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet (lead post, comment trigger, manual DM reply, delivery follow-up, tracking notes, final asset/link) and write the doc link into result_link"
     },
     {
       "who": "Gene",
-      "text": "Humanizer Stack — Update Humanizer external positioning: use Persona Match-style naming, position it as the second funnel asset after AI Chief of Staff Starter Kit, and avoid leading with Humanizer as the public-facing front door."
+      "text": "Humanizer Stack — Update external positioning: Persona Match-style naming, position as funnel asset #2 after AI Chief of Staff Starter Kit, do not lead with Humanizer as the public front door"
     },
     {
       "who": "Gene",
-      "text": "Persona Match System — Build Persona Match System free-asset fast-follow reusing existing Chief-of-Staff rails: (1) landing page + email capture with segmentation tag (already-creating-with-AI segment) feeding paid ecosystem; (2) comment-to-DM trigger + tracker; (3) HeyGen casual-avatar implementation video, entrepreneur channel only (IG @askjoeingram + Facebook, never LinkedIn/X); (4) one-line no-resale license reframe for free recipients. Apply 'Persona Match System' public naming across all assets; fold in row 011 voice-first setup language."
+      "text": "Persona Match System — Build free-asset fast-follow on existing Chief-of-Staff rails: (1) landing page + email capture w/ segmentation tag; (2) comment-to-DM trigger + tracker; (3) HeyGen casual-avatar implementation video (IG @askjoeingram + Facebook only); (4) no-resale license reframe for free recipients"
     },
     {
       "who": "Data",
-      "text": "Video Content Engine — Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)"
+      "text": "Video Content Engine — Review VCE-2026-07-31-01 I2 explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (awaiting relay WAITING_JOE promotion)"
     }
   ],
   "systems": [
@@ -100,4 +100,5 @@
     "LotSocial reopened",
     "Social dispatch (multi-account routing — wired)"
   ],
-  "parked": "Genuinly parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."}
+  "parked": "Genuinly parked/backlog, suppressed from active lanes (unfired revisits): Ring Ring phone-training book (evidence-ledger work only), Praeter Health Phase 1 (backlog), Midnight Cognition content test (incubate), Upgrade Loop (backlog decision candidate), LinkedIn Premium vs Sales Navigator decision (li-decision — parked/deferred per Joe, revisit 2026-09-03). LotSocial is NO LONGER parked — reopened as LotSocial Lite narrow test; overnight/internal build allowed, public/customer-facing actions blocked until Joe approval."
+}
