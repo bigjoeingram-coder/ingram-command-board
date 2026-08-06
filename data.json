@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 8:03 PM PT",
+  "updated": "2026-08-05 9:03 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -47,59 +47,43 @@
   "inMotion": [
     {
       "who": "Data/Codex",
-      "text": "Product QA — Retest ACC Starter Kit after Gene fixes and return PASS/FAIL/REVISION NEEDED (WAITING DATA/CODEX RETEST; not a Joe gate until SMOKE TEST PASSED)"
+      "text": "Product QA — Retest ACC Starter Kit after Gene fixes and return PASS/FAIL/REVISION NEEDED"
     },
     {
       "who": "Data/Codex",
-      "text": "Product QA — Retest Agent Skills Library packaging and return PASS/FAIL/REVISION NEEDED; also confirm $197 (10 clean-room agents, not '20+')"
+      "text": "Product QA — Retest Agent Skills Library packaging and return PASS/FAIL/REVISION NEEDED"
     },
     {
       "who": "Data/Codex",
-      "text": "AI Chief of Staff Starter Kit — Smoke test free delivery path (canonical /view link, DM+comment fallback, CTA discipline) and return PASS/FAIL/REVISION NEEDED before go-live"
+      "text": "AI Chief of Staff Starter Kit — Smoke test free AI Chief of Staff Starter Kit delivery path and return PASS/FAIL/REVISION NEEDED"
     },
     {
       "who": "Gene",
-      "text": "Evidence Ledger (P0) — Draft Aug-10 proof pack from PUBLIC-READY + qualified-only rows; honor qualified-only attribution and every FORBIDDEN note. Draft only, not customer-facing without Joe"
+      "text": "Evidence Ledger — Draft proof pack from Evidence Ledger public-ready and qualified-only rows"
     },
     {
       "who": "Codex",
-      "text": "LotSocial — Scope real LotSocial Lite prototype (VDP extraction, manual/paste fallback, caption/video output); internal/overnight build only, hard no-public-launch boundary"
+      "text": "LotSocial — Scope real LotSocial prototype with VDP extraction, manual/paste fallback, caption generation, and downloadable branded video"
     },
     {
       "who": "Gene",
-      "text": "Operating Controller (P0) — Wire nightly 11:57 PM PT master markdown closeout (INGRAM-OS-DAILY-MASTER-UPDATE-YYYY-MM-DD.md) from daily completed work; status-write only, no approve/publish/spend"
-    },
-    {
-      "who": "Gene",
-      "text": "Content Gravy — Prep Higgs render briefs + renders for the 4 Joe-approved posts (The Average Default, Systems That Compound, Never Be a Script, Comfort Is Expensive), then write render links back to tracker; no publish without Joe"
+      "text": "Content Gravy — Prep Higgs render briefs and produce renders for the 4 JOE-APPROVED-FOR-RENDER Content Gravy posts (CG-2026-07-30-01 The Average Default; CG-2026-07-30-02 Systems That Compound; CG-2026-07-05-01 Never Be a Script; CG-2026-08-03-01 Comfort Is Expensive), then write the Higgs render link back into the Content Gravy tracker."
     },
     {
       "who": "Data/Codex",
-      "text": "Gene Idea Queue — Write DATA VERDICT on the 6 items at PENDING DATA REVIEW; prioritize the IMPLEMENT '5 Apps Cancelled Using Claude Code' SaaS-audit, then promote/kill/park each per controller rules"
+      "text": "Gene Idea Queue — Write DATA VERDICT + notes + timestamp on the 6 Gene Idea Queue items at PENDING DATA REVIEW; prioritize the IMPLEMENT item 5 Apps Cancelled Using Claude Code (SaaS-stack audit, real internal value), then promote/kill/park each per 13-OPERATING-CONTROLLER rules."
     },
     {
       "who": "Gene",
-      "text": "Humanizer Stack — Use revised voice-first setup language in sales copy/packaging/description (spoken preferred, typing fallback); do not mark LIVE until Joe QA + sales-page pass"
+      "text": "Humanizer Stack — Use the revised voice-first Humanizer setup language in sales copy, final packaging, and any product description. Do not describe the quiz as primarily typed."
     },
     {
-      "who": "Data",
-      "text": "I² outbound reply strategy — Batch 2 SENT, reply queue live. Run dry Outlook reply review for Batch 1/2, classify replies, propose low-risk auto-send categories ('send info' + 'not interested') for Joe approval. Auto-send stays disabled until policy + Joe sign-off"
-    },
-    {
-      "who": "Data",
-      "text": "Attach primary sources for remaining SOURCE-NEEDED Evidence Ledger rows before they can go public — KGF 2025 volume-growth (reconcile +14% payload vs +11.4% CSV) and the Ford awards/President's-Award doc"
+      "who": "Gene",
+      "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet for AI Chief of Staff Starter Kit: lead post, comment trigger language, manual DM reply, delivery follow-up, tracking notes, and final asset/link references; write the final doc link into result_link."
     },
     {
       "who": "Data",
       "text": "Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)"
-    },
-    {
-      "who": "Gene",
-      "text": "Three IG accounts live via Composio (auto @joe_ingram_sales, entrepreneur @askjoeingram, BDC @thebdcgenius). Channel→account routing wired/hardened; auto-posting stays off until Joe's go"
-    },
-    {
-      "who": "Gene",
-      "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42"
     }
   ],
   "systems": [
