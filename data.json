@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 5:20 PM PT",
+  "updated": "2026-08-05 6:22 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -36,14 +36,10 @@
   "needsJoe": [
     {
       "n": "1",
-      "text": "Approve the Chief of Staff lead post + DM copy so the entrepreneur funnel goes live before Aug 10. Free product + link are decided/LIVE; no DM auto-send tool exists, so first-test delivery is manual — your copy sign-off is the last gate."
-    },
-    {
-      "n": "2",
       "text": "QA Humanizer Stack ($97) — SMOKE TEST PASSED - READY FOR JOE QA. Before/after sample staged (QA-SAMPLE-before-after.md); approve or flag the voice, then it needs a sales-page draft. ACC Starter Kit and Agent Skills Library are NOT in your queue yet — both are WAITING DATA/CODEX RETEST (see In Motion)."
     },
     {
-      "n": "3",
+      "n": "2",
       "text": "Give the go/no-go on dealer-prospector “Run Now” — ~5,000 contacts are sitting idle awaiting your green light."
     }
   ],
@@ -53,6 +49,10 @@
     "Ring Ring phone-training book remains blocked until inbound-call evidence rows are loaded and claim-safe (inbound-call rows are still SOURCE NEEDED in the Evidence Ledger; AutoAlert/data-mining evidence does not count as inbound-call proof)."
   ],
   "inMotion": [
+    {
+      "who": "Data",
+      "text": "AI Chief of Staff free starter product — Joe routed it to Data for an end-to-end PRODUCT smoke test before go-live (same gate applied to ACC / Humanizer / Agent Skills): free link delivers the correct asset via one canonical /view, deliverable complete/on-brand/free of II-internal context, DM + comment→DM manual fallback coherent for the entrepreneur audience, CTA discipline holds. data_verdict pending. On PASS it advances to Joe QA + final DM-copy approval and lead-post pick for go-live; NOT a Joe gate until it returns SMOKE TEST PASSED."
+    },
     {
       "who": "Data",
       "text": "ACC Starter Kit ($97) — Gene applied the SMOKE TEST FAILED fixes (internal tool names stripped, Connector Readiness Gate + in-place test added before any Drive write, footer + setup PDF resolved; 7 files, no dupes). STATUS: WAITING DATA/CODEX RETEST. Re-run the smoke test; do NOT route to Joe until it returns SMOKE TEST PASSED - READY FOR JOE QA."
@@ -100,6 +100,10 @@
     {
       "who": "Gene",
       "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42."
+    },
+    {
+      "who": "Joe",
+      "text": "1 idea item Data says KILL/archive — quick clears, NOT build work (faceless IG theme-page ADDENDUM-2: DATA VERDICT NO)."
     }
   ],
   "systems": [
