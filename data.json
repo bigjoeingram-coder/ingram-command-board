@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 6:22 PM PT",
+  "updated": "2026-08-05 7:20 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -100,10 +100,6 @@
     {
       "who": "Gene",
       "text": "Make the Codex-parity startup pointer explicit in STARTUP-PROTOCOL.md + INGRAM-AI-OPERATING-STATE.md (force-read 13-Controller + 12-Handoffs, Composio-first, bridge-before-Joe), then read back both. Open bridge 2026-08-04 12:42."
-    },
-    {
-      "who": "Joe",
-      "text": "1 idea item Data says KILL/archive — quick clears, NOT build work (faceless IG theme-page ADDENDUM-2: DATA VERDICT NO)."
     }
   ],
   "systems": [
