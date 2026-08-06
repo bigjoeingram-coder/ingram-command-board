@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 10:04 AM PT",
+  "updated": "2026-08-06 10:24 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -9,7 +9,7 @@
       {
         "lane": "AI Chief of Staff Starter Kit",
         "state": "Pacing",
-        "next": "Free product chosen. Lock canonical download link, delivery path, DM/comment flow, and tracking. Joe still needs to approve lead post + DM copy before public launch."
+        "next": "Free product chosen. Lock canonical download link, delivery path, DM/comment flow, and tracking. Launch-copy packet (lead post, comment trigger, DM reply, delivery follow-up, tracking) is NOT built yet - Gene owes it (RELAY-2026-08-05-012, result_link blank). Sequence: Gene builds packet -> Data/CSO review -> THEN Joe approves. No Joe copy-approval gate until the packet exists and Data has reviewed it (Data confirmed 2026-08-06 he has NOT reviewed it)."
       },
       {
         "lane": "Elena Starter Products",
