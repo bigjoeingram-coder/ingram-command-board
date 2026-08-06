@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 9:03 PM PT",
+  "updated": "2026-08-05 10:02 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -33,12 +33,7 @@
       }
     ]
   },
-  "needsJoe": [
-    {
-      "n": "1",
-      "text": "Product QA — QA Humanizer Stack sample and approve/request revision"
-    }
-  ],
+  "needsJoe": [],
   "revenueBlocked": [
     "Website rewrite around the SalesGenius / I² assessment is still unbuilt. Evidence Ledger proof-language classification is now DONE (PUBLIC / QUALIFIED / INTERNAL / SOURCE-NEEDED separated), so the copy is unblocked — but the site conversion path stays incomplete until the assessment-CTA copy actually ships (owner: Data–Gene).",
     "I² public funnel: Batch 2 outbound is SENT (100 contacts total, 1 spam-rejection = 1%, under the 3% gate). Remaining ~132 contacts are held pending deliverability watch + Data’s approved reply policy before scaled traffic; CTA-path discipline still required.",
@@ -82,8 +77,16 @@
       "text": "AI Chief of Staff Starter Kit — Locate or create the launch-copy packet for AI Chief of Staff Starter Kit: lead post, comment trigger language, manual DM reply, delivery follow-up, tracking notes, and final asset/link references; write the final doc link into result_link."
     },
     {
+      "who": "Gene",
+      "text": "Humanizer Stack — Update Humanizer external positioning: use Persona Match-style naming, position it as the second funnel asset after AI Chief of Staff Starter Kit, and avoid leading with Humanizer as the public-facing front door."
+    },
+    {
+      "who": "Gene",
+      "text": "Persona Match System — Build Persona Match System free-asset fast-follow reusing existing Chief-of-Staff rails: (1) landing page + email capture with segmentation tag feeding paid ecosystem; (2) comment-to-DM trigger + tracker; (3) HeyGen casual-avatar implementation video, entrepreneur channel only; (4) one-line no-resale license reframe for free recipients."
+    },
+    {
       "who": "Data",
-      "text": "Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)"
+      "text": "Video Content Engine — Review VCE-2026-07-31-01 I² explainer before its HeyGen render link expires ~Aug 7, then hand to Joe for render/publish approval (DATA_REVIEW_STALE)"
     }
   ],
   "systems": [
