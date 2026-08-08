@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-06 3:25 PM PT",
+  "updated": "2026-08-08 10:22 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Launch system is moving again; public board HTML deploy is fixed, data snapshot refreshed manually while durable writer is repaired.",
+    "status": "Manual controller snapshot refreshed 2026-08-08 10:22 AM PT (10 AM fast sweep). Public board HTML deploy is healthy; durable hourly refresh writer still pending Codex P1 repair, so snapshots remain manual. Lane states unchanged since last snapshot: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves.",
     "focus": "Finish Data/Codex review gates and convert the Operating Partner assets into an approved launch path without public posting until Joe approves.",
     "pacing": [
       {
@@ -37,7 +37,7 @@
   "revenueBlocked": [
     "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
     "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review is still required before stronger website/Ring Ring/BDCGenius claims ship.",
-    "Command board automation: GitHub Pages HTML deploy recovered, but data refresh writer/worker is still not durable; manual data snapshot refreshed at 3:25 PM PT."
+    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-08 10:22 AM PT. Permanent fix assigned to Codex (P1)."
   ],
   "inMotion": [
     {
