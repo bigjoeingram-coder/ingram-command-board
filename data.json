@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10 12:20 PM PT",
+  "updated": "2026-08-10 02:15 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Manual controller snapshot refreshed 2026-08-10 12:20 PM PT (fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still pending Codex P1, so snapshots remain manual. Lane states re-verified unchanged: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves. Sweep flags: VCE I2 explainer HeyGen render link is past its ~Aug 7 expiry (re-render/confirm); 6 Gene Idea Queue verdicts still open with Data/Codex; Content Gravy Aug 8 & Aug 9 approved posts need posted_url readback.",
-    "focus": "Finish Data/Codex review gates and convert the Operating Partner assets into an approved launch path without public posting until Joe approves.",
+    "status": "Manual controller snapshot refreshed 2026-08-10 02:15 PM PT (2 PM fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still down (Codex P1), so snapshots remain manual. Lane states re-verified unchanged: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves. This sweep reconciled bridge-debt (the 12:20 BRIDGE-01..04 handoffs were never merged into the canonical 12-EXECUTIVE-HANDOFFS.md; appended in place this sweep). New flag: social-dispatch-daily has now missed 3 straight days — Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 (today) all still show blank posted_url; escalated to Codex (repair) + Gene (manual-post fallback). Watch: WINS Sweep Phase A evidence index (Gene) due 18:00 PT today.",
+    "focus": "Finish Data/Codex review gates, get the 3 approved Content Gravy posts live via manual fallback, and convert Operating Partner assets into an approved launch path without public posting until Joe approves.",
     "pacing": [
       {
         "lane": "AI Operating Partner Starter Kit",
@@ -24,7 +24,7 @@
       {
         "lane": "SalesGenius / I2 Funnel",
         "state": "Pacing",
-        "next": "Evidence proof pack drafted from public-ready and qualified rows. Data claim review still needed before customer-facing proof language ships."
+        "next": "Evidence proof pack drafted from public-ready and qualified rows. Data claim review still needed on a high-reasoning surface before customer-facing proof language ships."
       },
       {
         "lane": "LotSocial",
@@ -36,10 +36,22 @@
   "needsJoe": [],
   "revenueBlocked": [
     "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
-    "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review is still required before stronger website/Ring Ring/BDCGenius claims ship.",
-    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-10 12:20 PM PT. Permanent fix assigned to Codex (P1)."
+    "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review (HIGH complexity, high-reasoning surface) is still required before stronger website/Ring Ring/BDCGenius claims ship.",
+    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-10 02:15 PM PT. Permanent fix assigned to Codex (P1)."
   ],
   "inMotion": [
+    {
+      "who": "Codex",
+      "text": "P1: social-dispatch-daily is BROKEN — Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 all have blank posted_url. Repair the dispatcher; report the mechanism + stamp proof."
+    },
+    {
+      "who": "Gene",
+      "text": "Manual fallback: post the 3 approved Content Gravy items (Aug 8/9/10) to LinkedIn/IG/FB/X and stamp posted_url; reconcile the 'Never Be a Script' source conflict before posting it."
+    },
+    {
+      "who": "Gene",
+      "text": "WINS Sweep Phase A EVIDENCE-CANDIDATES-INDEX due 2026-08-10 18:00 PT (revenue-critical proof backbone)."
+    },
     {
       "who": "Data/Codex",
       "text": "Retest ACC Starter Kit and return PASS / FAIL / REVISION NEEDED."
@@ -58,19 +70,15 @@
     },
     {
       "who": "Data",
-      "text": "STALE (Controller 2026-08-10 12:20 PM PT): HeyGen render link expiry (~Aug 7) has passed. Data confirm whether the explainer review completed; if the link is dead, Gene re-renders, then hand to Joe for render/publish approval."
+      "text": "Confirm whether the VCE I2 explainer review completed before the HeyGen render link expired (~Aug 7); if dead, Gene re-renders, then hand to Joe for render/publish approval."
     },
     {
-      "who": "Data/Codex",
-      "text": "Clear six Gene Idea Queue verdicts; oldest open handoff remains stale and should not stay invisible."
+      "who": "Data",
+      "text": "Clear six Gene Idea Queue verdicts (oldest handoff first) and return a verdict on CG-2026-08-10-01; ratify on a high-reasoning surface, not Lite."
     },
     {
       "who": "Codex",
       "text": "LotSocial scope remains due: real prototype path with VDP extraction, fallback entry, captions, and downloadable branded video."
-    },
-    {
-      "who": "Gene",
-      "text": "Content Gravy render briefs are staged; Higgsfield render is manual and one source conflict must be reconciled before rendering 'Never Be a Script'."
     }
   ],
   "systems": [
@@ -78,6 +86,7 @@
     "Controller sweeps",
     "Command board HTML deploy recovered",
     "Command board data refreshed manually",
+    "Canonical bridge reconciled (BRIDGE-01..04 merged)",
     "Operating Partner rename locked",
     "Guided-install kit built",
     "Launch packet rebuilt",
