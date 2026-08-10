@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-08 10:22 AM PT",
+  "updated": "2026-08-10 12:20 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Manual controller snapshot refreshed 2026-08-08 10:22 AM PT (10 AM fast sweep). Public board HTML deploy is healthy; durable hourly refresh writer still pending Codex P1 repair, so snapshots remain manual. Lane states unchanged since last snapshot: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves.",
+    "status": "Manual controller snapshot refreshed 2026-08-10 12:20 PM PT (fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still pending Codex P1, so snapshots remain manual. Lane states re-verified unchanged: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves. Sweep flags: VCE I2 explainer HeyGen render link is past its ~Aug 7 expiry (re-render/confirm); 6 Gene Idea Queue verdicts still open with Data/Codex; Content Gravy Aug 8 & Aug 9 approved posts need posted_url readback.",
     "focus": "Finish Data/Codex review gates and convert the Operating Partner assets into an approved launch path without public posting until Joe approves.",
     "pacing": [
       {
@@ -37,7 +37,7 @@
   "revenueBlocked": [
     "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
     "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review is still required before stronger website/Ring Ring/BDCGenius claims ship.",
-    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-08 10:22 AM PT. Permanent fix assigned to Codex (P1)."
+    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-10 12:20 PM PT. Permanent fix assigned to Codex (P1)."
   ],
   "inMotion": [
     {
@@ -58,7 +58,7 @@
     },
     {
       "who": "Data",
-      "text": "Review VCE I2 explainer before HeyGen render link expires around Aug 7, then hand to Joe for render/publish approval."
+      "text": "STALE (Controller 2026-08-10 12:20 PM PT): HeyGen render link expiry (~Aug 7) has passed. Data confirm whether the explainer review completed; if the link is dead, Gene re-renders, then hand to Joe for render/publish approval."
     },
     {
       "who": "Data/Codex",
