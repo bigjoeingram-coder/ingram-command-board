@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10 02:15 PM PT",
+  "updated": "2026-08-10 04:00 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Manual controller snapshot refreshed 2026-08-10 02:15 PM PT (2 PM fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still down (Codex P1), so snapshots remain manual. Lane states re-verified unchanged: launch is pacing on Data/Codex review gates, nothing customer-facing ships until Joe approves. This sweep reconciled bridge-debt (the 12:20 BRIDGE-01..04 handoffs were never merged into the canonical 12-EXECUTIVE-HANDOFFS.md; appended in place this sweep). New flag: social-dispatch-daily has now missed 3 straight days — Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 (today) all still show blank posted_url; escalated to Codex (repair) + Gene (manual-post fallback). Watch: WINS Sweep Phase A evidence index (Gene) due 18:00 PT today.",
+    "status": "Manual controller snapshot refreshed 2026-08-10 04:00 PM PT (4 PM fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still down (Codex P1), so snapshots remain manual. Lane states re-verified unchanged: launch is pacing on Data/Codex review gates; nothing customer-facing ships until Joe approves. ESCALATED TO JOE THIS SWEEP: social-dispatch-daily has now missed 3 straight days - Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 (today's launch-day 'Never Be a Script' post) all still show blank posted_url, and the 2 PM manual-post fallback has not executed ~7 hrs past the 9am slot. Codex P1 repair + Gene manual-post fallback both still open. Bridge reconciled: BRIDGE-05 (dispatch failure) + BRIDGE-06 (2 new Gene Idea Queue captures) appended to canonical 12-EXECUTIVE-HANDOFFS.md and readback-verified. Watch: WINS Sweep Phase A evidence index (Gene) due 18:00 PT today.",
     "focus": "Finish Data/Codex review gates, get the 3 approved Content Gravy posts live via manual fallback, and convert Operating Partner assets into an approved launch path without public posting until Joe approves.",
     "pacing": [
       {
@@ -42,11 +42,11 @@
   "inMotion": [
     {
       "who": "Codex",
-      "text": "P1: social-dispatch-daily is BROKEN — Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 all have blank posted_url. Repair the dispatcher; report the mechanism + stamp proof."
+      "text": "P1: social-dispatch-daily is BROKEN \u2014 Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 all have blank posted_url. Repair the dispatcher; report the mechanism + stamp proof."
     },
     {
       "who": "Gene",
-      "text": "Manual fallback: post the 3 approved Content Gravy items (Aug 8/9/10) to LinkedIn/IG/FB/X and stamp posted_url; reconcile the 'Never Be a Script' source conflict before posting it."
+      "text": "Manual fallback: post the 3 approved Content Gravy items (Aug 8/9/10) to LinkedIn/IG/FB/X and stamp posted_url; reconcile the 'Never Be a Script' source conflict before posting it. [ESCALATED TO JOE 4PM: still un-executed on launch day.]"
     },
     {
       "who": "Gene",
@@ -92,7 +92,9 @@
     "Launch packet rebuilt",
     "Persona Match staged",
     "Evidence proof pack drafted",
-    "LotSocial reopened"
+    "LotSocial reopened",
+    "Canonical bridge reconciled 4PM (BRIDGE-05..06 merged)",
+    "Joe notified 4PM: launch-day dispatch failure"
   ],
   "parked": "Parked/backlog: Ring Ring remains evidence-ledger-only until inbound-call rows are source-ready; Praeter Phase 1 is separate; LinkedIn Premium vs Sales Navigator deferred 30 days. LotSocial is not parked; it is an internal overnight prototype candidate with public actions blocked."
 }
