@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10 06:00 PM PT",
+  "updated": "2026-08-11 08:13 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Manual controller snapshot refreshed 2026-08-10 06:00 PM PT (6 PM fast sweep). Public board HTML deploy healthy; durable hourly refresh writer still down (Codex P1), snapshots manual. Lane states unchanged: launch pacing on Data/Codex review gates; nothing customer-facing ships until Joe approves. STILL OPEN (continuation of 4 PM Joe escalation): social-dispatch-daily has missed 3 straight days - Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 ('Never Be a Script') all still read QUEUED TO CALENDAR at 18:13 with no posted stamp, and the 2 PM manual-post fallback is still un-executed ~9 hrs past the 9am slot. Codex P1 dispatcher repair + Gene manual-post fallback both still open. Bridge reconciled: BRIDGE-07 (dispatch-failure continuation) + BRIDGE-08 (unlogged 8AM fallback doc merged verbatim + fallback-backlog drain directive) appended to canonical 12-EXECUTIVE-HANDOFFS.md and readback-verified (245,810 bytes). Watch: WINS Sweep Phase A evidence index (Gene) due 18:00 PT today.",
-    "focus": "Finish Data/Codex review gates, get the 3 approved Content Gravy posts live via manual fallback, and convert Operating Partner assets into an approved launch path without public posting until Joe approves.",
+    "status": "8 AM fast sweep (2026-08-11 08:13 PT). RECOVERY: the escalated launch-day Content Gravy dispatch failure is RESOLVED overnight - all 3 approved posts (CG-2026-07-30-01 'The Average Default', CG-2026-07-30-02 'Systems That Compound', CG-2026-07-05-01 'Never Be a Script') now read POSTED / REPAIR COMPLETE with posted_url stamped on FB/LinkedIn/IG/X (repaired 2026-08-10 22:36 PT). Prior 4PM/6PM Joe escalation CLOSED - no Joe action outstanding. Overnight progress (TODAY-CONTEXT): BDCGenius live + evidence CLM-008..012 loaded + claim language live + booking=joeintro; SalesGenius booking=joeintro; Chief of Staff free product LIVE; Elena entry products BUILDING. Public board HTML deploy healthy; durable hourly refresh writer still DOWN (Codex P1) so this is a manual snapshot. Routine carryover only: CG-2026-08-10-01 still in DATA REVIEW (Data verdict owed); ~8 Gene Idea Queue verdicts pending Data; Evidence REV-010/011/013 Source-Needed + REV-014 In-Progress; Codex P1s open. needsJoe=[] - no revenue decision gated on Joe. NOTE: no 8 PM Aug-10 overnight-closeout log on record; overnight execution nonetheless occurred.",
+    "focus": "Confirm social-dispatch-daily automation is durably repaired for the remaining QUEUED Content Gravy rows, clear the Data verdict + Gene Idea Queue backlog, and keep Operating Partner / SalesGenius-I2 proof on their review gates - nothing customer-facing ships until Joe approves.",
     "pacing": [
       {
         "lane": "AI Operating Partner Starter Kit",
@@ -18,8 +18,8 @@
       },
       {
         "lane": "Elena Starter Products",
-        "state": "Pacing",
-        "next": "Humanizer approved. ACC and Agent Skills still waiting Data/Codex retest before Joe QA or live packaging."
+        "state": "Building",
+        "next": "Entry products BUILDING via elena-build-starter-daily (overnight). Humanizer approved; ACC + Agent Skills in build/retest."
       },
       {
         "lane": "SalesGenius / I2 Funnel",
@@ -42,43 +42,47 @@
   "inMotion": [
     {
       "who": "Codex",
-      "text": "P1: social-dispatch-daily is BROKEN \u2014 Content Gravy posts approved for Aug 8, Aug 9, and Aug 10 all have blank posted_url. Repair the dispatcher; report the mechanism + stamp proof."
-    },
-    {
-      "who": "Gene",
-      "text": "Manual fallback: post the 3 approved Content Gravy items (Aug 8/9/10) to LinkedIn/IG/FB/X and stamp posted_url; reconcile the 'Never Be a Script' source conflict before posting it. [ESCALATED TO JOE 4PM: still un-executed on launch day.]"
-    },
-    {
-      "who": "Gene",
-      "text": "WINS Sweep Phase A EVIDENCE-CANDIDATES-INDEX due 2026-08-10 18:00 PT (revenue-critical proof backbone)."
-    },
-    {
-      "who": "Data/Codex",
-      "text": "Retest ACC Starter Kit and return PASS / FAIL / REVISION NEEDED."
-    },
-    {
-      "who": "Data/Codex",
-      "text": "Retest Agent Skills Library packaging and return PASS / FAIL / REVISION NEEDED."
-    },
-    {
-      "who": "Data/Codex",
-      "text": "Smoke-test AI Operating Partner guided-install flow: one master prompt, one-question-at-a-time interview, single IMPLEMENT gate, no fabricated answers."
-    },
-    {
-      "who": "Data/Codex",
-      "text": "Review AI Operating Partner launch packet before Joe sees final copy: lead post, follow request, DM delivery, follow-up, landing headline."
-    },
-    {
-      "who": "Data",
-      "text": "Confirm whether the VCE I2 explainer review completed before the HeyGen render link expired (~Aug 7); if dead, Gene re-renders, then hand to Joe for render/publish approval."
-    },
-    {
-      "who": "Data",
-      "text": "Clear six Gene Idea Queue verdicts (oldest handoff first) and return a verdict on CG-2026-08-10-01; ratify on a high-reasoning surface, not Lite."
+      "text": "CONFIRM social-dispatch-daily automation is DURABLY repaired. The 3 launch posts (Aug 8/9/10) were recovered 2026-08-10 22:36 PT via manual/assisted image-upload + <=280 X caption fix, not a proven automated run. Verify the dispatcher fires cleanly for remaining QUEUED rows: CG-2026-08-03-01 + CG-2026-08-06-01 (preflight image_file staging fixed 01:34 PT), CG-2026-08-06-02 (sched Aug 13). Report mechanism + stamp proof."
     },
     {
       "who": "Codex",
-      "text": "LotSocial scope remains due: real prototype path with VDP extraction, fallback entry, captions, and downloadable branded video."
+      "text": "P1: restore the durable hourly command-board refresh writer (hourly-command-board-refresh still disabled; snapshots manual)."
+    },
+    {
+      "who": "Codex",
+      "text": "P1: convert 12-EXECUTIVE-HANDOFFS.md to a native/appendable store (root cause of the fallback-doc backlog + media-replace dependency); then archive the stale/competing Drive DASHBOARD-DATA.json (1WPabSC, last modified 2026-08-04)."
+    },
+    {
+      "who": "Data",
+      "text": "Return a verdict on CG-2026-08-10-01 (in DATA REVIEW since 2026-08-10 -> DATA_REVIEW_STALE)."
+    },
+    {
+      "who": "Data",
+      "text": "Clear ~8 Gene Idea Queue verdicts (oldest handoff first) on a high-reasoning surface, not Lite; promote any YES to PENDING JOE REVIEW."
+    },
+    {
+      "who": "Data",
+      "text": "SalesGenius/I2 proof language: claim review (HIGH, high-reasoning surface) before stronger website/Ring Ring claims ship."
+    },
+    {
+      "who": "Data/Codex",
+      "text": "Retest ACC Starter Kit and Agent Skills Library packaging; return PASS / FAIL / REVISION NEEDED."
+    },
+    {
+      "who": "Data/Codex",
+      "text": "Smoke-test the AI Operating Partner guided-install flow + review the launch packet copy before Joe sees final."
+    },
+    {
+      "who": "Gene",
+      "text": "Confirm WINS Sweep Phase A EVIDENCE-CANDIDATES-INDEX was delivered (was due 2026-08-10 18:00 PT); reconcile Evidence REV-010/011/013 Source-Needed + sync REV-014."
+    },
+    {
+      "who": "Gene",
+      "text": "Drain the 8 older BRIDGE-UPDATE-REQUIRED fallback docs (Aug 5-9) into the canonical bridge once a native/appendable store exists."
+    },
+    {
+      "who": "Codex",
+      "text": "LotSocial Lite: internal overnight prototype only (VDP extraction, fallback entry, captions, downloadable branded video). No public launch/billing/ads/customer send."
     }
   ],
   "systems": [
@@ -96,7 +100,14 @@
     "Canonical bridge reconciled 4PM (BRIDGE-05..06 merged)",
     "Joe notified 4PM: launch-day dispatch failure",
     "Canonical bridge reconciled 6PM (BRIDGE-07..08 merged; unlogged 8AM fallback doc drained)",
-    "Controller sweep 6PM logged"
+    "Controller sweep 6PM logged",
+    "Launch-day Content Gravy posts RECOVERED overnight (3/3 POSTED 2026-08-10 22:36 PT)",
+    "BDCGenius live + evidence CLM-008..012 + claim language live + booking=joeintro",
+    "SalesGenius booking=joeintro",
+    "Chief of Staff free product LIVE",
+    "Elena entry products BUILDING (elena-build-starter-daily)",
+    "Canonical bridge reconciled 8AM Aug-11 (BRIDGE-09: launch-post recovery logged, escalation closed)",
+    "Controller sweep 8AM Aug-11 logged"
   ],
   "parked": "Parked/backlog: Ring Ring remains evidence-ledger-only until inbound-call rows are source-ready; Praeter Phase 1 is separate; LinkedIn Premium vs Sales Navigator deferred 30 days. LotSocial is not parked; it is an internal overnight prototype candidate with public actions blocked."
 }
