@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-12 02:14 PM PT",
+  "updated": "2026-08-13 08:05 AM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "2 PM Aug-12 fast sweep (2026-08-12 14:14 PT) - fourth operational sweep of the day (prior 08:20, 10:09, 12:09 PT). ROUTINE / LOG-ONLY. Relay health GREEN (GENE-RELAY-HEALTH 13:06 PT: 0 consecutive failures, check_ok, 0 qualifying Gene emails last 2h). ONE net-new item since 12 PM: Gene Idea Queue +1 -> now 16 idea .md files (new GENE-IDEA-2026-08-12 'Google AI Suite / Gemini / NotebookLM / AI Studio', verdict EXPLORE, STATUS PENDING DATA REVIEW; carries defined next-owner = Data; not orphaned, not Joe-gated). Dashboard count reconciled 15->16 (DASHBOARD_SYNC corrected + readback-verified). DATA-INBOX still EMPTY; JM Idea Log unchanged (JM#1 Medium). Content Gravy tracker unchanged (modifiedTime 08-11 21:07) = 8 rows / 2 DATA REVIEW; matches board. 3 QUEUED CG rows still await the durably-repaired social-dispatch-daily run (Codex owns); CG-2026-08-06-02 sched Aug 13 9am PT (tomorrow) - proven manual-post recovery path exists, so NOT Joe-gated. 2 DATA_REVIEW_STALE CG rows (CG-2026-08-10-01 since 08-10; CG-2026-08-11-01 since 08-11) + 15 older Gene Idea Queue verdicts still owed by Data on a high-reasoning surface. Evidence Ledger unchanged (last modified 2026-08-05): REV-010/011/013 Source-Needed + REV-014 In-Progress (Gene); BDCGenius CLM-008..012 live. Canonical bridge 12-EXECUTIVE-HANDOFFS.md (Drive 1xAjp9u) unchanged since BRIDGE-09 (modifiedTime 2026-08-11 08:21 PT) -> no net-new cross-agent handoff to append; no HANDOFF_NOT_LOGGED; no TRIGGER_MISSING (voice-agent build already logged as BUILD-2026-08-07-voice-agent + DealerSparks Voice-Agent packet, nextResponsible Data). Carryover owned/log-only: 9 BRIDGE-UPDATE-REQUIRED fallback docs unmerged (Gene drain blocked on Codex native-store P1); durable hourly board writer still DOWN (Codex P1) so this is a MANUAL snapshot; stale Drive DASHBOARD-DATA.json (1WPabSC, 2026-08-04) pending Codex archive. Booking CTA canonical https://meeting.calendarhero.com/joeintro; no live surface off it. needsJoe=[] - no revenue decision gated on Joe with a live deadline. No Joe notification this sweep (routine + dashboard reconciled = log-only).",
-    "focus": "Confirm social-dispatch-daily automation is durably repaired for the remaining QUEUED Content Gravy rows, clear the Data verdict + Gene Idea Queue backlog, and keep Operating Partner / SalesGenius-I2 proof on their review gates - nothing customer-facing ships until Joe approves.",
+    "status": "8 AM Aug-13 fast sweep (2026-08-13 08:05 PT) - first operational sweep of the day. ROUTINE / LOG-ONLY. Relay health GREEN. TWO net-new items since the Aug-12 14:14 sweep, both captured on canonical surfaces with defined next-owners (not orphaned, not Joe-gated): (1) Gene Idea Queue +1 -> now 17 idea .md files (new GENE-IDEA-2026-08-13 'Invisible CTA psychology / engagement strategy', created 07:11 PT; nextResponsible = Data verdict via idea-queue protocol); (2) Content Gravy CG-2026-08-13-01 'Clone Yourself With AI (leverage reframe)' new DATA REVIEW row, nextResponsible = Data. CG-2026-08-11-01 merged out by Data (resolves prior duplicate flag) so Content Gravy holds at 8 rows / 2 DATA REVIEW = matches board. DASHBOARD_SYNC_ERROR corrected: Gene Idea Queue board count 16 -> 17 refreshed + readback-verified. DATA_REVIEW_STALE (log-only, routed via tracker): CG-2026-08-10-01 (since 08-10); 16 older Gene Idea Queue cards owed Data verdicts on a high-reasoning surface (oldest 08-03; incl. the 08-12 Google AI Suite card now past 2 working hrs). New 08-13 idea card + CG-2026-08-13-01 both <2 working hrs = not yet stale. Evidence Ledger unchanged since 08-05 (REV-010/011/013 Source-Needed; REV-014 In-Progress; CLM-008..012 live). Canonical bridge 12-EXECUTIVE-HANDOFFS.md unchanged since BRIDGE-09 (modifiedTime 2026-08-11 08:21 PT) -> no net-new cross-agent handoff to append; no HANDOFF_NOT_LOGGED; no TRIGGER_MISSING (new items carry Data-review next-owner, no trigger owed until a YES verdict; voice-agent build already logged as BUILD-2026-08-07-voice-agent). Carryover owned/log-only: 9 BRIDGE-UPDATE-REQUIRED fallback docs unmerged (Gene drain blocked on Codex native-store P1); durable hourly board writer DOWN (Codex P1) so this is a MANUAL snapshot; stale Drive DASHBOARD-DATA.json (1WPabSC) pending Codex archive. TIME-SENSITIVE (Gene-owned, NOT Joe-gated): CG-2026-08-06-02 scheduled TODAY Aug 13 9:00 AM PT - if social-dispatch-daily not confirmed durable by Codex, Gene runs the proven manual-post recovery path. Booking CTA canonical https://meeting.calendarhero.com/joeintro; no live surface off it. needsJoe=[] - no revenue decision gated on Joe with a live/near deadline. No Joe notification this sweep (routine + dashboard reconciled = log-only).",
+    "focus": "Watch CG-2026-08-06-02 (9:00 AM PT dispatch today): confirm social-dispatch-daily is durable or execute the Gene manual-post fallback. Clear the Data verdict backlog + the now-17-card Gene Idea Queue on a high-reasoning surface (not Lite). Keep Operating Partner and SalesGenius/I2 proof on their review gates - nothing customer-facing ships until Joe approves.",
     "pacing": [
       {
         "lane": "AI Operating Partner Starter Kit",
@@ -37,12 +37,12 @@
   "revenueBlocked": [
     "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
     "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review (HIGH complexity, high-reasoning surface) is still required before stronger website/Ring Ring/BDCGenius claims ship.",
-    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-12 12:09 PM PT. Permanent fix assigned to Codex (P1)."
+    "Command board automation: GitHub Pages HTML deploy is healthy, but the durable data-refresh writer/worker is still down (hourly-command-board-refresh disabled); snapshots are manual. Controller manually refreshed this snapshot at 2026-08-13 08:05 AM PT. Permanent fix assigned to Codex (P1)."
   ],
   "inMotion": [
     {
       "who": "Codex",
-      "text": "CONFIRM social-dispatch-daily automation is DURABLY repaired. The 3 launch posts (Aug 8/9/10) were recovered 2026-08-10 22:36 PT via manual/assisted image-upload + <=280 X caption fix, not a proven automated run. Verify the dispatcher fires cleanly for remaining QUEUED rows: CG-2026-08-03-01 + CG-2026-08-06-01 (preflight image_file staging fixed 01:34 PT), CG-2026-08-06-02 (sched Aug 13). Report mechanism + stamp proof."
+      "text": "CONFIRM social-dispatch-daily automation is DURABLY repaired. The 3 launch posts (Aug 8/9/10) were recovered 2026-08-10 22:36 PT via manual/assisted image-upload + <=280 X caption fix, not a proven automated run. Verify the dispatcher fires cleanly for remaining QUEUED rows: CG-2026-08-03-01 + CG-2026-08-06-01 (preflight image_file staging fixed 01:34 PT), CG-2026-08-06-02 (sched Aug 13 9 AM PT - TODAY). Report mechanism + stamp proof."
     },
     {
       "who": "Codex",
@@ -58,11 +58,11 @@
     },
     {
       "who": "Data",
-      "text": "Return a verdict on CG-2026-08-11-01 (Discipline quote card, reframed for automotive) - NOW DATA_REVIEW_STALE at the 4 PM sweep (untouched since entering DATA REVIEW 2026-08-11; routed via tracker Next-action column). Check for duplicate/merge with CG-2026-08-10-01 (same discipline quote-card idea)."
+      "text": "Return a verdict on new CG-2026-08-13-01 (Clone Yourself With AI - leverage reframe; DATA REVIEW since 2026-08-13). Downstream: Joe wants IG reel via HeyGen clone for @askjoeingram (future/parked, not gated now)."
     },
     {
       "who": "Data",
-      "text": "Clear 16 Gene Idea Queue verdicts (verified count 2026-08-12 14:14 PT; oldest 2026-08-03; +1 new 2026-08-12 'Google AI Suite' card, PENDING DATA REVIEW) DATA_REVIEW_STALE oldest-first on a high-reasoning surface, not Lite; promote any YES to PENDING JOE REVIEW."
+      "text": "Clear 17 Gene Idea Queue verdicts (verified count 2026-08-13 08:05 PT; oldest 2026-08-03; incl. new 2026-08-13 'Invisible CTA psychology' card, PENDING DATA REVIEW) DATA_REVIEW_STALE oldest-first on a high-reasoning surface, not Lite; promote any YES to PENDING JOE REVIEW."
     },
     {
       "who": "Data",
@@ -82,7 +82,11 @@
     },
     {
       "who": "Gene",
-      "text": "Drain the 8 older BRIDGE-UPDATE-REQUIRED fallback docs (Aug 5-9) into the canonical bridge once a native/appendable store exists."
+      "text": "Drain the 9 older BRIDGE-UPDATE-REQUIRED fallback docs (Aug 5-9 + 08-11-8PM) into the canonical bridge once a native/appendable store exists."
+    },
+    {
+      "who": "Gene",
+      "text": "Stand ready on CG-2026-08-06-02 (9:00 AM PT dispatch TODAY): if Codex has not confirmed social-dispatch-daily durable, execute the proven manual-post recovery path."
     },
     {
       "who": "Codex",
@@ -119,7 +123,8 @@
     "Controller sweep 8AM Aug-12 logged (ROUTINE/LOG-ONLY; first sweep after overnight gap; no net-new items; Content Gravy 8 rows/2 DATA REVIEW and Gene Idea Queue 15 verified in sync; bridge unchanged since BRIDGE-09; Evidence Ledger unchanged since 08-05; no new triggers/handoffs; needsJoe=[])",
     "Controller sweep 10AM Aug-12 logged (ROUTINE/LOG-ONLY; relay health GREEN; new intake surfaces DATA-INBOX (empty) + JM Idea Log (1 Medium item, owner chain intact) captured, none orphaned; Content Gravy 8 rows/2 DATA REVIEW and Gene Idea Queue 15 verified in sync; Evidence Ledger unchanged since 08-05; bridge unchanged since BRIDGE-09; no new triggers/handoffs; needsJoe=[])",
     "Controller sweep 12PM Aug-12 logged (ROUTINE/LOG-ONLY; relay health GREEN - GENE-RELAY-HEALTH 11:08 PT: 0 consecutive failures, check_ok, 1 'Gene idea' email routed to idea monitor; no net-new items since 10AM; DATA-INBOX still empty; Content Gravy 8 rows/2 DATA REVIEW and Gene Idea Queue 15 verified in sync; Evidence Ledger unchanged since 08-05; bridge unchanged since BRIDGE-09; no new triggers/handoffs; needsJoe=[])",
-    "Controller sweep 2PM Aug-12 logged (ROUTINE/LOG-ONLY; relay GREEN 13:06 PT; 1 net-new Gene Idea card 'Google AI Suite' PENDING DATA REVIEW -> Gene Idea Queue 15->16, dashboard count reconciled + readback-verified; Content Gravy 8 rows/2 DATA REVIEW in sync; Evidence Ledger unchanged since 08-05; bridge unchanged since BRIDGE-09; no new triggers/handoffs; needsJoe=[])"
+    "Controller sweep 2PM Aug-12 logged (ROUTINE/LOG-ONLY; relay GREEN 13:06 PT; 1 net-new Gene Idea card 'Google AI Suite' PENDING DATA REVIEW -> Gene Idea Queue 15->16, dashboard count reconciled + readback-verified; Content Gravy 8 rows/2 DATA REVIEW in sync; Evidence Ledger unchanged since 08-05; bridge unchanged since BRIDGE-09; no new triggers/handoffs; needsJoe=[])",
+    "Controller sweep 8AM Aug-13 logged (ROUTINE/LOG-ONLY; relay GREEN; 2 net-new captured [GENE-IDEA-2026-08-13 Invisible-CTA + CG-2026-08-13-01 Clone-Yourself-With-AI], both Data-owned/not orphaned; CG-2026-08-11-01 merged out; DASHBOARD_SYNC corrected Gene Idea Queue 16->17 + readback-verified; Content Gravy 8 rows/2 DATA REVIEW in sync; Evidence Ledger unchanged since 08-05; bridge unchanged since BRIDGE-09; no new triggers/handoffs; needsJoe=[])"
   ],
   "parked": "Parked/backlog: Ring Ring remains evidence-ledger-only until inbound-call rows are source-ready; Praeter Phase 1 is separate; LinkedIn Premium vs Sales Navigator deferred 30 days. LotSocial is not parked; it is an internal overnight prototype candidate with public actions blocked."
 }
