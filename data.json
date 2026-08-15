@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-14 12:20 PM PT (launch/needsJoe/revenueBlocked/inMotion refreshed from live Relay Queue) | systems + parked NOT re-verified this run, last verified 2026-08-13 06:11 PM PT",
+  "updated": "2026-08-15 08:20 AM PT (launch/needsJoe/revenueBlocked/inMotion refreshed from live Relay Queue rows 2-216) | systems + parked NOT re-verified this run, last verified 2026-08-13 06:11 PM PT",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
-    "status": "Noon-cycle Gene fast sweep, 2026-08-14 12:08-12:20 PT (interim manual refresh; durable writer still down). ROUTINE/LOG-ONLY - no Joe ping: no sweep failure and no revenue-critical decision newly gated on Joe. DASHBOARD_SYNC_ERROR CONFIRMED AND CORRECTED: this file read 2026-08-13 18:11 PT, ~18h stale, and carried two statements that are now false - (1) it said CG-2026-08-06-02 was unrecovered; it was in fact recovered 2026-08-14 (Facebook post_id 778762472481262_1736103568105119, Instagram @joe_ingram_sales media 18240431437312517, LinkedIn urn:li:share:7494036458689892352 created but image attach not readback-verifiable). (2) it asserted 'no DASHBOARD_SYNC_ERROR this sweep', which was true then and false now. Both corrected here. RELAY QUEUE (canonical live source, rows 2-167 read this run): 1 auto-return fired - row 157, WO-09-B client-folder segregation, P0, claimed by Gene 08:10 PT and left with a blank result_status for 3h58m, reverted to OPEN with ack cleared per Controller rule (c); the work and its 16:00 PT due_check stand and the standing block holds - no board, launch plan or public surface may claim WO-09-B done until row 157 closes with a folder id and a file-by-file before/after list. 5 Data grades accepted and closed (rows 17, 149, 156, 158, 162), all PASS, each checked rather than rubber-stamped. CADENCE ANOMALY ROOT-CAUSED after three sweeps logged it without an owner: there is exactly ONE ingram-controller-sweep registration, cron 0 8,10,12,14,16,18,20 in PT, enabled, jitterSeconds=480; the recurring :08-:15 offset is scheduler jitter, not a duplicate trigger and not a timezone mismatch. The real duplication is authorship - rows 155/159/163 (SWEEP 0800/1000/1200) are authored by Data/Codex on Gene's even-hour slot, against the contract that Gene sweeps EVEN hours and Data polls ODD. Owner and action assigned on Relay row 164. NEW TRIGGERS OPENED: row 164 cadence ownership (Data); row 165 seven-row Gene-review backlog - rows 64, 65, 69, 70, 84, 91, 99 were OPEN or RESULT_POSTED with due_checks 3-5 days passed and no ack, and were NOT surfaced by the 10:15 sweep that claimed full-queue coverage; row 166 Rule-4 poller implementation proof (Data). NOT RE-READ THIS RUN, so this board makes no fresh claim about them: Evidence Ledger, BDCGenius, Gene Idea Queue, Elena Review Queue, Content Gravy tracker contents, LotSocial Lite, DASHBOARD-DATA.json, Aug-10 launch packet, Website Portfolio Sweep. The systems and parked sections below are carried unchanged from 2026-08-13 18:11 PT and should be read at that date, not this one. Booking CTA canonical https://meeting.calendarhero.com/joeintro - not re-audited this run.",
+    "status": "Gene fast sweep 2026-08-15 08:09-08:20 PT (interim manual refresh; durable command-board writer STILL DOWN - now carries a live trigger as GENE-2026-08-15-R08, Relay row 215). ROUTINE/LOG-ONLY - no Joe ping: sweep completed cleanly and no revenue-critical decision is NEWLY gated on Joe (the three open Joe gates were already put in front of him in the 06:00 brief, Relay row 206, and the 08:00 Data poll, row 207). DASHBOARD_SYNC_ERROR CONFIRMED AND CORRECTED: this file read 2026-08-14 12:20 PT, ~20h stale, and predated Relay rows 168-216 including the entire Aug-14 evening LotSocial/privacy-terms sequence and the Aug-15 00:03 PT integrity audit. PRINCIPAL ACTION THIS SWEEP: Data's AI System Integrity Audit (DATA-AUDIT-2026-08-15-001, row 203, verdict RED, due 10:00 PT) was graded ACCEPT and all nine findings routed as discrete work orders, Relay rows 208-216 (GENE-2026-08-15-R01..R09), each with a named owner, exact nextAction, approval boundary and a live due_check. All nine readback-verified. Two audit claims were independently re-verified by Gene before routing rather than taken on trust: duplicate Relay ids CONFIRMED (15 ids duplicated across the live queue, incl. GENE-2026-08-14-021 rows 191/193 and GENE-2026-08-14-022 rows 195/197) and the WO-09-C ACC binary-PDF FAIL CONFIRMED still open on row 69. Row 203 was NOT self-closed - routed to Data for grading per NOBODY SELF-GRADES. One rule-(d) violation found and fixed: Relay row 15 (Persona Match, RELAY-2026-08-06-002) carried Gene-authored result_status with readback_verified=YES while nextResponsible was still Gene; routed to Data. AUTO-RETURNS: 0 - no row had an ack older than 2h with a blank result_status. HANDOFF_ACK_STALE: 9 rows (6, 11, 23, 25, 30, 48, 49, 67, 191) are OPEN with no ack_by and an expired due_check; rows 25 and 30 are standing directives mis-typed as OPEN and should be restatused STANDING rather than chased.",
     "focus": "PRIORITY: (1) WO-09-B client-folder segregation, P0, Relay row 157, due 16:00 PT today - auto-returned once already, needs a claimant who actually moves it; nothing may claim WO-09-B done until it closes with evidence. (2) Finish the Content Gravy manual recovery: CG-2026-08-03-01 and CG-2026-08-06-01 via Relay row 160, using the PRESERVED ORIGINAL Drive images (1Qk5GWTc7MZGxaodm385cwShCSfYDr-Ex and 1UF_4jfWIJkZ9QDEZmt-zoApDKlV0QT8W), NOT a fresh render - a fresh render is new creative Joe never approved. The 'assets are 404, need Codex re-render' blocker on rows 152/154 was tested against only the expired half of the link cell and is invalid; Codex's asset obligation is now reduced to the X/Twitter Composio-native s3key path only. (3) Clear the seven-row Gene-review backlog on Relay row 165, all due 16:00 PT today. (4) Codex: durable command-board writer - post a working script or an exact blocker; social-dispatch stamp mechanism; X/Twitter asset path; VCE-2026-07-31-01 REGENERATE-or-RETIRE decision (row 161, due 18:00 PT). (5) Data: six Content Gravy verdicts, Agent Operating Agreement v1.3 re-grade, and the Rule-4 poller proof on row 166. Operating Partner and SalesGenius/I2 proof stay on their review gates - nothing customer-facing ships without Joe.",
     "pacing": [
       {
@@ -34,16 +34,56 @@
     ]
   },
   "needsJoe": [
-    "Dealer AI Conversion Week calendar dates (Relay row 104, P1, open since 2026-08-11). This is the only genuinely Joe-gated revenue item on the board. Platform (Zoom) and capacity (30 dealer seats) were already decided by you on 2026-08-13 and merged into the registration copy, LinkedIn post, email invite and warm DM; the launch packet is content-reviewed and internally consistent, and pricing is correctly unpublished. Dates are the last missing input before the funnel can move toward your approval for activation. No new ping sent - this was already surfaced in the 06:00 AM brief (Relay row 151) and re-pinging an unchanged item would be noise.",
-    "FYI only, no decision needed: the CG-2026-08-06-02 dispatcher miss escalated on 2026-08-13 is now RESOLVED by manual recovery (FB + IG confirmed, LinkedIn created). Two sibling posts remain, blocked on nothing but execution time. The underlying dispatcher stamp defect is still open with Codex."
+    "Dealer AI Conversion Week calendar dates (Relay row 104, P1, open since 2026-08-11). Platform (Zoom) and capacity (30 dealer seats) are locked; only the dates are missing. Asked again in the 2026-08-15 06:00 brief.",
+    "LotSocial extraction fix path (Relay row 204, GENE-2026-08-14-028, P0). Two options: one more hardened direct-fetch attempt by Codex at no cost, or a paid scraping-API vendor. The paid path is spend and therefore Joe-only. LotSocial VDP import cannot be finished until this is chosen.",
+    "Bright Data Web Unlocker zone + API key (Relay row 205, GENE-2026-08-14-029, P0). Codex has commit 9d16539 ready to deploy and is idle without the credentials. Contingent on the row 204 decision.",
+    "Praeter Health legal-review scope (Relay row 199, GENE-2026-08-14-024, P0). praeter-health-os collects real health data with no privacy policy or terms. Stopgap pages are routable internally; the actual legal review is a Joe decision and a likely spend.",
+    "Signed-in mobile retest of LotSocial production version 34 for the Longo Toyota and Newport Beach Maserati VDP imports (Relay row 202, P0). Requires a signed-in production account, so Gene cannot execute it."
   ],
   "revenueBlocked": [
+    "ACC product release: WO-09-C still FAILS - the bundle ships binary PDFs where START-HERE and ING-PRODUCT-LICENSE.md must be present and readable (Relay row 69). Routed to Codex this sweep as GENE-2026-08-15-R07 (row 214), due 2026-08-15 20:00 PT. This is the shortest path from a built product to a sellable one.",
+    "LotSocial Lite VDP import: automatic import still falls back to manual entry; blocked on the Joe extraction-path decision (row 204) and Bright Data credentials (row 205).",
     "Operating Partner launch: Data/CSO must review launch copy and smoke-test the one-prompt guided install before Joe approval or public posting.",
-    "SalesGenius/I2 proof language: Evidence proof pack exists, but Data claim review (HIGH complexity, high-reasoning surface) is still required before stronger website/Ring Ring/BDCGenius claims ship. Not re-verified this run.",
-    "Command board automation: the durable data-refresh writer is still down (hourly-command-board-refresh disabled since 2026-08-06); every snapshot since has been manual. At noon 2026-08-14 the interim refresh was formally reassigned to Gene while Codex retains the technical repair (Relay row 24, P0, due 14:00 PT). This snapshot IS that interim refresh. Standing risk: a hand-refreshed board drifts silently between sweeps and has already published two false statements once - treat any board section without a same-day timestamp as unverified.",
-    "WO-09-B client-folder segregation (Relay row 157, P0, due 16:00 PT 2026-08-14) is NOT VERIFIED and appears NOT DONE from current Drive evidence. It gates any done-claim on the Aug-10 release for the Persona/Humanizer deliverable. It was claimed and auto-returned once today for no motion."
+    "Persona Match System: Gene's launch/build packet is drafted and was routed to Data for grading this sweep (Relay row 15). Nothing is Joe-gated yet.",
+    "Elena/Humanizer: a parser defect can reset item status and select a superseded build estimate, so queue state is not trustworthy. Routed to Codex as GENE-2026-08-15-R01 (row 208), P0, due 2026-08-15 18:00 PT."
   ],
   "inMotion": [
+    {
+      "who": "Codex",
+      "text": "P0: Elena parser repair - GENE-2026-08-15-R01 (Relay row 208). Named root cause, code fix, regression test proving a status write is not overwritten and the current build estimate is selected. Due 2026-08-15 18:00 PT."
+    },
+    {
+      "who": "Codex",
+      "text": "P0: WO-09-C ACC release blocker - GENE-2026-08-15-R07 (Relay row 214). Readable plaintext START-HERE + ING-PRODUCT-LICENSE.md in both bundles, re-run acceptance per criterion. Build to ready, publish stays Joe-gated. Due 2026-08-15 20:00 PT."
+    },
+    {
+      "who": "Codex",
+      "text": "P1: durable command-board writer proof - GENE-2026-08-15-R08 (Relay row 215). Working script + a board timestamp newer than the last manual refresh with commit sha, or the exact named blocker. Open since Aug-06 on row 24 with no live trigger until now. Due 2026-08-15 20:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P1: Agent Skills exposure audit - GENE-2026-08-15-R02 (Relay row 209). Every exposed skill marked licensed-third-party vs clean-room and customer-exposed vs internal. IP risk if licensed content is customer-facing. Due 2026-08-15 18:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P1: Elena flow reconciliation - GENE-2026-08-15-R03 (Relay row 210). Legacy-vs-directive flow diff, steps to retire, and a spec for the missing review queue including its recurring reader. Spec only. Due 2026-08-15 18:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P1: unique Relay ids - GENE-2026-08-15-R06 (Relay row 213). Unique row-key scheme, duplicate map, Rules-tab amendment. No id rewrites without separate authorization. Due 2026-08-16 12:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P2: 12-EXECUTIVE-HANDOFFS bridge merge backlog - GENE-2026-08-15-R04 (Relay row 211). Every archived handoff with no live Relay row gets one appended, schema-correct and readback-verified. Due 2026-08-16 12:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P2: restore the missing Aug-14 Daily Master - GENE-2026-08-15-R05 (Relay row 212). Rebuild from Relay rows 151-194 and the Aug-14 brief/sweeps/closeout. Due 2026-08-16 12:00 PT."
+    },
+    {
+      "who": "Data",
+      "text": "P3: rename the internal Humanizer folder to match its contents - GENE-2026-08-15-R09 (Relay row 216). Internal-only, no move, no delete, customer folder untouched. Due 2026-08-16 12:00 PT."
+    },
     {
       "who": "Codex",
       "text": "P0: social-dispatch-daily stamp mechanism still unproven. CORRECTION 2026-08-14: the 'no stamp destination exists' premise was factually wrong - Sheet1 already has a 'Posted link' column (Data source correction 06:04 PT). What remains is the dispatcher write/stamp implementation plus tracker schema drift (CG-2026-08-10-01 and the three ent- rows are column-shifted against the 24-column A:X header). CG-2026-08-06-02 has since been recovered manually, so this is a dispatcher defect, not an unposted-content emergency. Relay row 147."
