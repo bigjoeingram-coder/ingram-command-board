@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 06:20 PM PT (launch/needsJoe/revenueBlocked refreshed by Gene interim manual refresh from live Relay Queue rows 2-277; SWEEP-2026-08-16-1808). systems + parked NOT re-verified this run, last verified 2026-08-13 06:11 PM PT. Durable command-board writer STILL DOWN - live trigger RQ-R215::GENE-2026-08-15-R08 (Codex), re-triggered to 2026-08-17 10:00 PT.",
+  "updated": "2026-08-21 12:00 PM PT (needsJoe + revenueBlocked refreshed by Gene interim manual refresh from live Relay Queue rows 2-391; SWEEP-2026-08-21-1200). PRIOR STAMP WAS 2026-08-16 06:20 PM PT - the board was 5 days and ~114 queue rows stale, and it materially mis-stated the ACC blocker. systems + parked NOT re-verified this run and may be stale. This is an INTERIM MANUAL refresh; the durable writer remains unrepaired and is Codex-owned on RQ-R215 / RQ-R345, whose 2026-08-20 12:00 PT ack deadline has lapsed with no ack.",
   "launch": {
     "name": "August 10 Revenue Launch",
     "deadline": "2026-08-10",
@@ -34,19 +34,23 @@
     ]
   },
   "needsJoe": [
-    "GO / NO-GO: list AI Command Center Starter Kit at $97 and Agent Skills Library at $197 (RQ-R271::GENE-2026-08-16-006, P0, due 2026-08-17 12:00 PT). Both passed Gene acceptance. This is the only NEW revenue decision on the board and nothing ships without the call.",
-    "Final QA pass on the Humanizer Stack - 7 shipped clean-room files (RQ-R251::GENE-2026-08-15-011, due 2026-08-17 12:00 PT). Consolidated with the R271 product decision.",
-    "Praeter Health legal review scope (RQ-R199::GENE-2026-08-14-024, P0, ASAP). praeter-health-os collects real health data. Stopgap privacy/terms drafts are staged (RQ-R225) but deployment is blocked on a writable Praeter deploy path (RQ-R248). Real legal review is Joe-only.",
-    "Authenticated LotSocial associate test path or signed-in session for the Longo Toyota VDP retest (RQ-R244 / RQ-R246 / RQ-R266). Codex deployed v37; final verification cannot complete without an authenticated session. Joe or Gene must supply it.",
-    "Bright Data Web Unlocker key rotation (RQ-R231, BLOCKED vendor-side). The key sat in plaintext; rotation evidence is vendor-side and unverified. Joe closes this with the vendor.",
-    "CORRECTED 2026-08-16: Dealer AI Conversion Week dates are NOT missing. Parameters are locked - Sept 21-24 2026, Mon-Thu, 10:30-11:00 AM PT, Zoom, 30-seat cap (RQ-R104). Prior board entry was stale."
+    "ACC $97 SALES SURFACE - name a storefront/checkout destination (RQ-R307, BLOCKED since 2026-08-18). CORRECTION TO THE PRIOR BOARD: this is NOT the R271 price decision. Joe's $97 approval is already recorded and is not in question. The blocker is that no listing destination exists anywhere in the system, so the product cannot be published even with approval. This blocks revenue on a finished asset.",
+    "AGENT SKILLS LIBRARY $197 GO/NO-GO (RQ-R271 / RQ-R309). Packaging accepted by Gene 2026-08-18; README + setup guide are in the customer folder. Same surface problem as ACC applies once GO is given.",
+    "CONTENT GRAVY 8-ITEM APPROVAL PACKET - APPROVE / HOLD / EDIT (RQ-R302, staged 2026-08-18, approval window lapsed 2026-08-19 12:00 PT). Eight items carry written Data PASS verdicts and are parked at Status = DATA REVIEW with no dispatch trigger. Nothing publishes until Joe rules.",
+    "INDEPENDENT LEGAL-PAGE VERIFICATION PATH (RQ-R294, lapsed 2026-08-19 12:00 PT). No agent has a render/fetch path to confirm privacy/terms actually render rather than returning an empty SPA shell. This holds RQ-R258 / R259 / R260 open and blocks Praeter promotion.",
+    "PRAETER HEALTH LEGAL REVIEW SCOPE (RQ-R199, ASAP) and writable Praeter deploy path (RQ-R248, BLOCKED). praeter-health-os collects real health data; stopgap drafts staged on RQ-R225.",
+    "SAAS MONTHLY COSTS OR ONE BILLING READ SURFACE (RQ-R356, due 2026-08-21 12:00 PT - LAPSED AS OF THIS REFRESH). The SaaS-stack audit RQ-R319 delivered 39 line items but cannot compute a savings number without cost inputs. Cost-side, not revenue-side.",
+    "AUTHENTICATED LOTSOCIAL ASSOCIATE TEST PATH / signed-in session for the Longo Toyota VDP retest (RQ-R242 / R244 / R246 / R266). Codex deployed the patch; final verification cannot run without an authenticated session.",
+    "MANUAL IG POST DELETE (RQ-R322, due 2026-08-20 12:00 PT - LAPSED). Irreversible action, correctly Joe-only.",
+    "BRIGHT DATA KEY ROTATION EVIDENCE (RQ-R231, BLOCKED vendor-side). Rotation evidence is vendor-side and unverifiable by any agent.",
+    "SITES v38 PRODUCTION DEPLOY approve-or-route (RQ-R310, WAITING_JOE)."
   ],
   "revenueBlocked": [
-    "ACC product release: RESOLVED as of 2026-08-16 - RQ-R214 PASS_ACC_FOLDER_CLEANED and Gene acceptance closed on RQ-R253. ACC Starter Kit is LIVE-READY and now waits only on the Joe GO/NO-GO at RQ-R271.",
-    "Agent Skills Library: LIVE-READY, smoke retest accepted (RQ-R254 / RQ-R255). Waits only on the Joe GO/NO-GO at RQ-R271.",
-    "LotSocial Lite VDP import: v37 deployed with Bright Data credentials in place; automatic import still unverified because the final retest needs an authenticated associate session. Overnight-only architecture work, NOT customer-facing.",
-    "Praeter Health: cannot be promoted until privacy policy + terms are live and a writable deploy path exists (RQ-R248 BLOCKED).",
-    "Content Gravy: two Data-flagged Joe angles rewritten by Gene this sweep (CG-2026-08-13-ent-01, CG-2026-08-14-ent-01) and returned to Data for re-QA. No Joe gate yet - render/publish approval comes after re-QA."
+    "ACC Starter Kit $97 - asset is LIVE-READY and price-approved. Blocked on RQ-R307: no named sales surface exists. Three days gated. This is the single clearest revenue block in the system.",
+    "Agent Skills Library $197 - LIVE-READY, packaging accepted, smoke retest passed. Blocked on the RQ-R271/R309 GO/NO-GO and then on the same missing sales surface as ACC.",
+    "Content Gravy publish pipeline - 8 Data-PASSED items frozen behind the RQ-R302 Joe approval packet. Three further entrepreneur-lane items captured 2026-08-21 (CG-2026-08-21-ent-01/02/03) sit at DATA REVIEW with blank Data verdicts under RQ-R377, due 21:00 PT.",
+    "LotSocial Lite VDP import - patch deployed; automatic import still unverified pending an authenticated associate session. Architecture work only, NOT customer-facing, NOT live.",
+    "Praeter Health - cannot be promoted until privacy/terms are verified live (RQ-R294 verification path) and a writable deploy path exists (RQ-R248)."
   ],
   "inMotion": [
     {
